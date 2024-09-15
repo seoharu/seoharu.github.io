@@ -1,24 +1,24 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-03-25
+date: 2024-09-01
 type: landing
 
 sections:
 
   - block: features
     content:
-      title: <span style="font-size:70%">Medical AI & Computational Science (Macs) Lab </span>
-      text: <br><span style="font-size:125%">전북대학교 의료 AI 및 계산 과학 연구실 홈페이지에 오신 것을 환영합니다.</span> <br><br>
-        {{% cta cta_link="./field/" cta_text="See Research Field →" %}}
+      title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
+      text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
+        {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}}
 
 
   - block: slider
     content:
       slides:
 
-      - title: <span style="font-size:70%">Recruit</span>
-        content: <span style="font-size:70%">Interested in MacsLAB?</span>
+      - title: <span style="font-size:70%">About</span>
+        content: <span style="font-size:70%">Interested in SEOYEON?</span>
         align: center
         background:
           image:
@@ -30,12 +30,12 @@ sections:
         link:
           icon: user
           icon_pack: fas
-          text: <span style="font-size:60%">Join Us</span>
+          text: <span style="font-size:60%">Contact</span>
           text-color: '#000'
           url: contact
 
-      - title: <span style="font-size:70%">AI</span>
-        content: <span style="font-size:70%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:70%">
+      - title: <span style="font-size:70%">Medical AI</span>
+        content: <span style="font-size:70%">Medicak Ai 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
         align: center
         background:
           image:
@@ -45,19 +45,8 @@ sections:
           position: center
           color: '#000'
 
-      - title: <span style="font-size:70%">Healthcare</span>
-        content: <span style="font-size:70%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
-        align: center
-        background:
-          image:
-            filename: 
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">Mathematics</span>
-        content: <span style="font-size:70%">AI와 관련된 수학 및 최적화 이론 연구</span>
+      - title: <span style="font-size:70%">Project</span>
+        content: <span style="font-size:70%">여러 프로젝트 및 연구 진행</span>
         align: center
         background:
           image:
@@ -68,7 +57,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">기반 기술을 활용한 Full-Stack 어플리케이션 개발</span>
+        content: <span style="font-size:70%">Litmus Renewal Project 참여</span>
         align: center
         background:
           image:
@@ -77,6 +66,22 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+      - title: <span style="font-size:70%">이밖에</span>
+          content: <span style="font-size:60%">여러 사적인 면모가 궁금하시다면?</span>
+          align: center
+          background:
+            image:
+              filename: 
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
+          link:
+            icon: Book
+            icon_pack: fas
+            text: <span style="font-size:60%">더 알아보기</span>
+            text-color: '#000'
+            url: /event
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -92,39 +97,57 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:75%">Lab's Interests</span>
-      text: 저희 연구실에서는 다음과 같은 연구/개발 분야에 관심을 쏟고 있습니다.<br><br><br><br>
+      title: <span style="font-size:75%">My Interests</span>
+      text: 저는 좋아하는 것들로 일상을 채우고, 발전하고 싶어하는 사람입니다.<br><br><br><br>
       items:
         - name: 인공지능(AI)
           icon: code-branch
           icon_pack: fas
-          description: <span style="font-size:90%">의료 (Medical), 항공우주 (Aerospace), 컨텐츠 (Contents) 등 다양한 특성화 분야에 적응형 AI 기술 적용.</span><br><br>
-        - name: 멀티모달(Multi-modality)
-          icon: globe
-          icon_pack: fas
-          description:  <span style="font-size:90%">Vision & Language 분야의 기반 AI 기술 개발 및 관련 응용 어플리케이션에 기술 적용.</span><br><br>
-        - name: 의료수학(Medical Math)
+          description: <span style="font-size:90%">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</span><br><br>
+        - name: 데이터 분석 (Data Science)
           icon: calculator
           icon_pack: fas
-          description:  <span style="font-size:90%">의료 분야에 대한 통계 분석 수행 및 의료 질병에 대한 수학적인 모델링 관련 연구 수행.</span><br><br>
-        - name: 컨텐츠 (Contents)
-          icon: comment-dots
-          icon_pack: fas
-          description:  <span style="font-size:90%">웹툰 및 미디어 컨텐츠와 관련된 AI 기반 기술 개발 및 고도화.</span><br><br>
+          description:  <span style="font-size:90%">여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</span><br><br>
         - name: 개발 (Development)
           icon: laptop
           icon_pack: fas
           description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
-        - name: 솔루션 (Solution)
-          icon: app-store-ios
+        - name: 책
+          icon: book
           icon_pack: fab
-          description:  <span style="font-size:90%">AI 기반기술 및 관련 어플리케이션에 적용을 통한 통합 솔루션 개발!</span><br><br>
+          description:  <span style="font-size:90%">사자가 위장에 탈이 나면 풀을 먹듯이 병든 인간만이 책을 읽는다고들 합니다.</span><br><br>
+        - name: 커피와 위스키 
+          icon: coffee
+          icon_pack: fab
+          description:  <span style="font-size:90%">Espresso Martini로 주세요.</span><br><br>
+        - name: 
+
 
 
   - block: collection
     content:
-      id: section-1
-      title: Notifications & News
+      title: Project
+      subtitle:
+      text:
+      count: 3
+      filters:
+        folders:
+          - side
+          - course
+          - collaborate
+      offset: 0
+      order: desc
+      page_type: 
+    design:
+      view: community/custom_card
+      columns: '2'
+    advanced:
+      css_style: "text-align: center;"
+
+  - block: collection
+    content:
+      id: section-2
+      title: Personal
       subtitle:
       text:
       count: 3
@@ -132,40 +155,19 @@ sections:
       order: desc
       filters:
         folders:
-          - notification
-          - post
           - event
+          - etc
+          - Blog
     design:
       view: community/custom_card
       columns: '2'
-
-  - block: collection
-    content:
-      title: Latest Publications
-      subtitle:
-      text:
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: publication
-    design:
-      view: community/custom_card
-      columns: '2'
-    advanced:
-      css_style: "text-align: center;"
 
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="Join team →" %}}
+        {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}
     design:
       columns: '1'
 ---
