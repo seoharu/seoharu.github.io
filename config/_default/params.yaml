@@ -120,3 +120,4 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
