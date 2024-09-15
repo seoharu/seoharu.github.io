@@ -66,8 +66,9 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+
       - title: <span style="font-size:70%">Activities</span>
-          content: <span style="font-size:60%">교환학생 등 다양한 활동</span>
+          content: <span style="font-size:70%">교환학생 등 다양한 활동</span>
           align: center
           background:
             image:
@@ -76,12 +77,12 @@ sections:
                 brightness: 0.4
             position: center
             color: '#000'
-          link:
-            icon: globe
-            icon_pack: fas
-            text: <span style="font-size:60%">더 알아보기</span>
-            text-color: '#000'
-            url: /event
+          # link:
+          #   icon: globe
+          #   icon_pack: fas
+          #   text: <span style="font-size:60%">더 알아보기</span>
+          #   text-color: '#000'
+          #   url: event
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
