@@ -61,6 +61,7 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects]
@@ -73,6 +74,7 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
+  publication_type: publication_types
   author: authors
 markup:
   _merge: deep
