@@ -9,6 +9,7 @@ main:
   - name: About
     url: about
     weight: 100
+    hasChildren: true
   - parent: About
     name: Resume
     url: /about/resume/
@@ -16,23 +17,52 @@ main:
   - parent: About
     name: CV
     ulr: /about/cv/
-    weight: 110
+    weight: 120
 
   - name: Research
     url: field
-    weight: 20
+    weight: 200
+    hasChildren: true
 
   - parent: Research
     name: Research Fields
     url: field
-    weight: 320
+    weight: 210
 
-  - name: Solutions
-    url: /#solutions
-    weight: 30
-  - name: Resources
-    weight: 40
+  - name: Projects
+    url: project
+    weight: 300
     hasChildren: true
-  - parent: Resources
+
+  - parent: Projects
+    name: Side-project
+    url: project
+    weight: 310
+  - parent: Projects
+    name: Course-project
+    url: project
+    weight: 320
+  - parent: Projects
+    name: collaborative-project
+    url: project
+    weight: 330
+  
+  - name: Personal
+    url: post
+    weight: 400
+  - parent: Personal
+    name: event
+    url: event
+    weight: 410
+  - parent: Personal
+    name: ETC
+    url: event
+    weight: 420
+  - parent: Personal
     name: Blog
     url: blog/
+    weght: 430
+
+  - name: Contact
+    url: contact
+    weight: 500
