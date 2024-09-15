@@ -66,8 +66,8 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-      - title: <span style="font-size:70%">이밖에</span>
-          content: <span style="font-size:60%">여러 사적인 면모가 궁금하시다면?</span>
+      - title: <span style="font-size:70%">Activities</span>
+          content: <span style="font-size:60%">교환학생 등 다양한 활동</span>
           align: center
           background:
             image:
@@ -77,7 +77,7 @@ sections:
             position: center
             color: '#000'
           link:
-            icon: Book
+            icon: globe
             icon_pack: fas
             text: <span style="font-size:60%">더 알아보기</span>
             text-color: '#000'
