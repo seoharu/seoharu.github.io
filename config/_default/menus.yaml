@@ -6,9 +6,27 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: About
+    url: about
+    weight: 100
+  - parent: About
+    name: Resume
+    url: /about/resume/
+    weight: 110
+  - parent: About
+    name: CV
+    ulr: /about/cv/
+    weight: 110
+
+  - name: Research
+    url: field
     weight: 20
+
+  - parent: Research
+    name: Research Fields
+    url: field
+    weight: 320
+
   - name: Solutions
     url: /#solutions
     weight: 30
