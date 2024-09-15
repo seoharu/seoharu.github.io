@@ -47,22 +47,39 @@ main:
     url: project
     weight: 330
   
+  - name: Activity
+    url: activity
+    weight: 400
+    hasChildren: true
+  - parent: Activity
+    name: club
+    url: club
+    weight: 410
+  - parent: Activity
+    name: Awards
+    url: activity
+    weight: 420
+  - parent: Activity
+    name: abroad
+    url: activity
+    weight: 430
+    
   - name: Personal
     url: post
-    weight: 400
+    weight: 500
   - parent: Personal
     name: event
     url: event
-    weight: 410
+    weight: 510
   - parent: Personal
     name: ETC
     url: etc
-    weight: 420
+    weight: 520
   - parent: Personal
     name: Blog
     url: blog/
-    weght: 430
+    weght: 530
 
   - name: Contact
     url: contact
-    weight: 500
+    weight: 600
