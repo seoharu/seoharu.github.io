@@ -20,12 +20,12 @@ marketing:
     person_name: 'CHOI SEOYEON'
     description: 'seoharu'
     twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+  # analytics:
+  #   google_analytics: ''
+  #   baidu_tongji: ''
+  #   plausible: ''
+  #   fathom: ''
+  #   pirsch: ''
   verification:
     google: ''
     baidu: ''
