@@ -20,12 +20,12 @@ marketing:
     person_name: 'CHOI SEOYEON'
     description: 'seoharu'
     twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+  # analytics:
+  #   google_analytics: ''
+  #   baidu_tongji: ''
+  #   plausible: ''
+  #   fathom: ''
+  #   pirsch: ''
   verification:
     google: ''
     baidu: ''
@@ -121,8 +121,3 @@ extensions:
   academicons:
     enable: true
 
-# Citation style
-
-publications:
-  date_format: January 2006
-  citation_style: apa

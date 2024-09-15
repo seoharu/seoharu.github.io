@@ -1,142 +1,173 @@
 ---
-title: 'Home'
-date: 2023-10-24
+# Leave the homepage title empty to use the site title
+title:
+date: 2024-09-01
 type: landing
 
-design:
-  # Default section spacing
-  spacing: "6rem"
-
 sections:
-  - block: hero
+
+  - block: features
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
+      title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
+      text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
+        {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}}
+
+
+  - block: slider
+    content:
+      slides:
+
+      - title: <span style="font-size:70%">About</span>
+        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
         link:
-          text: "Read more"
-          url: "/blog/"
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Contact</span>
+          text-color: '#000'
+          url: contact
+
+      - title: <span style="font-size:70%">Medical AI</span>
+        content: <span style="font-size:70%">Medicak Ai 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">Project</span>
+        content: <span style="font-size:70%">여러 프로젝트 및 연구 진행</span>
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">Development</span>
+        content: <span style="font-size:70%">Litmus Renewal Project 참여</span>
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+      - title: <span style="font-size:70%">이밖에</span>
+          content: <span style="font-size:60%">여러 사적인 면모가 궁금하시다면?</span>
+          align: center
+          background:
+            image:
+              filename: 
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#000'
+          link:
+            icon: Book
+            icon_pack: fas
+            text: <span style="font-size:60%">더 알아보기</span>
+            text-color: '#000'
+            url: /event
+
     design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
-          filters:
-            brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '350px'
+      slide_width: '100px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
+
+
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: <span style="font-size:75%">My Interests</span>
+      text: 저는 좋아하는 것들로 일상을 채우고, 발전하고 싶어하는 사람입니다.<br><br><br><br>
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
-  - block: cta-image-paragraph
-    id: solutions
+        - name: 인공지능(AI)
+          icon: code-branch
+          icon_pack: fas
+          description: <span style="font-size:90%">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</span><br><br>
+        - name: 데이터 분석 (Data Science)
+          icon: calculator
+          icon_pack: fas
+          description:  <span style="font-size:90%">여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</span><br><br>
+        - name: 개발 (Development)
+          icon: laptop
+          icon_pack: fas
+          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
+        - name: 책
+          icon: book
+          icon_pack: fab
+          description:  <span style="font-size:90%">사자가 위장에 탈이 나면 풀을 먹듯이 병든 인간만이 책을 읽는다고들 합니다.</span><br><br>
+        - name: 커피와 위스키 
+          icon: coffee
+          icon_pack: fab
+          description:  <span style="font-size:90%">Espresso Martini로 주세요.</span><br><br>
+        - name: 
+
+
+
+  - block: collection
     content:
-      items:
-        - title: Build your future-proof website
-          text: As easy as 1, 2, 3!
-          feature_icon: check
-          features:
-            - "Future-proof - edit your content in text files"
-            - "Website is generated by a single app, Hugo"
-            - "No JavaScript knowledge required"
-          # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
-          button:
-            text: Get Started
-            url: https://hugoblox.com/templates/
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
-          feature_icon: bolt
-          features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
-          # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
-          button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+      title: Project
+      subtitle:
+      text:
+      count: 3
+      filters:
+        folders:
+          - side
+          - course
+          - collaborate
+      offset: 0
+      order: desc
+      page_type: 
     design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
+      view: community/custom_card
+      columns: '2'
+    advanced:
+      css_style: "text-align: center;"
+
+  - block: collection
     content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+      id: section-2
+      title: Personal
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - event
+          - etc
+          - Blog
     design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
-  - block: cta-card
+      view: community/custom_card
+      columns: '2'
+
+  - block: markdown
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      columns: '1'
 ---

@@ -56,7 +56,7 @@ main:
     weight: 410
   - parent: Personal
     name: ETC
-    url: event
+    url: etc
     weight: 420
   - parent: Personal
     name: Blog
