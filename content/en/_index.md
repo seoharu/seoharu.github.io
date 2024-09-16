@@ -8,10 +8,9 @@ sections:
 
   - block: features
     content:
-      title: "<span class='dancing-script'>seoharu.github.io</span>"
-      text: <br><span style="font-size:125%">Welcome to SEOYEON's Page!</span> <br><br>
+      title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
+      text: <p><span style="font-size:125%">Welcome to SEOYEON's Page!</span> </p>
         {{% cta cta_link="./about/" cta_text="More Information →" %}}
-
 
   - block: slider
     content:

@@ -57,7 +57,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Litmus Renewal Project등 여러 개발에 참여</span>
+        content: <span style="font-size:70%">Litmus Renewal Project 등 여러 개발에 참여</span>
         align: center
         background:
           image:
@@ -106,20 +106,19 @@ sections:
         - name: 개발 (Development)
           icon: laptop
           icon_pack: fas
-          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
+          description:  <span style="font-size:90%">여러 개발 프로젝트에 참여했습니다.</span><br><br>
         - name: Medical AI
-          icon: laptop-medical
+          icon: connection
           icon_pack: fab
-          description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있습니다.</span><br><br>
+          description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
         - name: ALPS 부회장
-          icon: laptop-code
+          icon: 🖥️
           icon_pack: fab
           description:  <span style="font-size:90%">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
         - name: etc
           icon: globe
           icon_pack: fab
-          description:  <span style="font-size:90%">교환학생 등의 경험이 있고, 여러 활동에 적극적으로 참여합니다.</span><br><br>
-
+          description:  <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
 
   - block: collection
     content:
