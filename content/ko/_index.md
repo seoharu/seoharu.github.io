@@ -107,15 +107,18 @@ sections:
           icon: laptop
           icon_pack: fas
           description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
-        - name: 책
-          icon: book
+        - name: Medical AI
+          icon: connection
           icon_pack: fab
-          description:  <span style="font-size:90%">사자가 위장에 탈이 나면 풀을 먹듯이 병든 인간만이 책을 읽는다고들 합니다.</span><br><br>
-        - name: 커피와 위스키 
-          icon: coffee
+          description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있습니다.</span><br><br>
+        - name: ALPS 부회장
+          icon: 🖥️
           icon_pack: fab
-          description:  <span style="font-size:90%">Espresso Martini로 주세요.</span><br><br>
-        - name: 
+          description:  <span style="font-size:90%">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
+        - name: etc
+          icon: globe
+          icon_pack: fab
+          description:  <span style="font-size:90%">교환학생 등 여러 활동을 진행하고 있습니다.</span><br><br>
 
 
 
