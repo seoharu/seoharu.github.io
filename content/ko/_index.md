@@ -165,6 +165,7 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}
+      position: center
     design:
       columns: '1'
 ---
