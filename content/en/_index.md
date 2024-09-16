@@ -10,7 +10,7 @@ sections:
     content:
       title: "<span class='dancing-script'>seoharu.github.io</span>"
       text: <br><span style="font-size:125%">Welcome to SEOYEON's Page!</span> <br><br>
-        {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}}
+        {{% cta cta_link="./about/" cta_text="More Information →" %}}
 
 
   - block: slider
@@ -35,7 +35,7 @@ sections:
           url: contact
 
       - title: <span style="font-size:70%">Medical AI</span>
-        content: <span style="font-size:70%">joint major - Medical AI & undergraudate student researcher in MACS<span style="font-size:70%">
+        content: <span style="font-size:70%">joint major - Medical AI & undergraduate student researcher in MACS<span style="font-size:70%">
         align: center
         background:
           image:
