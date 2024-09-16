@@ -8,7 +8,7 @@ sections:
 
   - block: features
     content:
-      title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
+      title: "<span class='dancing-script'>seoharu.github.io</span>"
       text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
         {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}}
 
@@ -46,7 +46,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Project</span>
-        content: <span style="font-size:70%">여러 프로젝트 및 연구 진행</span>
+        content: <span style="font-size:70%">여러 프로젝트 및 연구 진행 중</span>
         align: center
         background:
           image:
@@ -98,7 +98,7 @@ sections:
         - name: 인공지능(AI)
           icon: code-branch
           icon_pack: fas
-          description: <span style="font-size:90%">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</span><br><br>
+          description: <span style="font-size:90%">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술을 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</span><br><br>
         - name: 데이터 분석 (Data Science)
           icon: calculator
           icon_pack: fas
@@ -119,8 +119,6 @@ sections:
           icon: globe
           icon_pack: fab
           description:  <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
-
-
 
   - block: collection
     content:
@@ -166,6 +164,7 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}
+      position: center
     design:
       columns: '1'
 ---
