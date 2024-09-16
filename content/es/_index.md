@@ -13,7 +13,7 @@ sections:
         {{% cta cta_link="./about/" cta_text="Más información →" %}}
 
 
-  - block: slider
+  - block: sliderwe
     content:
       slides:
 
