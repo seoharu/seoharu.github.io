@@ -35,7 +35,7 @@ sections:
           url: contact
 
       - title: <span style="font-size:70%">Medical AI</span>
-        content: <span style="font-size:70%">Medicak Ai 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
+        content: <span style="font-size:70%">Medical AI 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
         align: center
         background:
           image:
@@ -57,7 +57,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Litmus Renewal Project 참여</span>
+        content: <span style="font-size:70%">Litmus Renewal Project 등 여러 개발에 참여</span>
         align: center
         background:
           image:
@@ -106,7 +106,7 @@ sections:
         - name: 개발 (Development)
           icon: laptop
           icon_pack: fas
-          description:  <span style="font-size:90%">Full-Stack 기반의 응용 어플리케이션 개발.</span><br><br>
+          description:  <span style="font-size:90%">여러 개발 프로젝트에 참여했습니다.</span><br><br>
         - name: Medical AI
           icon: connection
           icon_pack: fab
@@ -118,7 +118,7 @@ sections:
         - name: etc
           icon: globe
           icon_pack: fab
-          description:  <span style="font-size:90%">교환학생 등 여러 활동을 진행하고 있습니다.</span><br><br>
+          description:  <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
 
 
 
