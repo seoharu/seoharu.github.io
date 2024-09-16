@@ -110,7 +110,7 @@ sections:
         - name: Medical AI
           icon: connection
           icon_pack: fab
-          description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있습니다.</span><br><br>
+          description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
         - name: ALPS 부회장
           icon: 🖥️
           icon_pack: fab
