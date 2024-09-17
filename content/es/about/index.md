@@ -5,7 +5,7 @@ date: 2024-09-01
 type: landing
 
 # Display name
-title: 최서연
+title: CHOI SEOYEON
 
 # Full Name (for SEO)
 first_name: SEOYEON
@@ -23,35 +23,33 @@ role: student
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교 컴퓨터공학부
+  - name: JEONBUK NATIONAL UNIVERSITY - Division of Computer Science and Engineering
     url: 'https://csai.jbnu.ac.kr/csai/index.do'
 Affiliation:
-  - name: JBNU-MACS (의료인공지능 및 계산과학 연구실)
+  - name: JBNU-MACS (MacsLAB)
     url: 'https://jbnu.macs.or.kr'
 Major:
-  - name: 컴퓨터공학
+  - name: Computer Science and Engineering
 Joint Major:
-  - name: 메디컬AI
+  - name: Medical AI
 
 # Short bio (displayed in user profile at end of posts)
-bio: 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. 
+bio: I am an undergraduate in computer science and studying medical AI as a joint major. I am working as an undergraduate research student in a related lab and conducting research and projects in the field of medical AI. I constantly try to fill my daily life with what I like and develop.
 
 interests:
-  - 인공지능 (AI)
-  - 데이터 분석 (Data Science)
-  - 개발 (Development)
+  - AI
+  - Data Science
+  - Development
   - Medical AI & Brain
-  - 책과 커피, 위스키
-  - 여행
 
 education:
   courses:
-    - course: M.S. in (전자.정보공학부(컴퓨터공학전공))
-      institution: 전북대학교 (학석사 연계 과정)
-      year: 2025.09 ~ 2027.02 (예정)
-    - course: B.S. in (컴퓨터공학부)
-      institution: 전북대학교
-      year: 2022 ~ 진행 중 (2025.09 졸업 예정)
+    - course: M.S. in (Electronics and Information Engineering Department (Computer Engineering Major))
+      institution: JEONBUK NATIONAL UNIVERSITY (integrated B.S & M.S)
+      year: 2025.09 ~ 2027.02 (plan)
+    - course: B.S. in (Division of Computer Science and Engineering)
+      institution: JEONBUK NATIONAL UNIVERSITY
+      year: 2022 ~ ing (Expected to graduate in 2025.09)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -88,16 +86,9 @@ highlight_name: true
 
 ---
 
-의료인공지능의 응용 영역에서도 뇌공학 뇌신경 쪽 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다.
+In the applications of medical artificial intelligence, i'm interested in the brain engineering cranial nerves, especially cranial neural modeling in the brain computer interface, and the study of interpreting the mechanisms of the brain in the field of deep neural networks.
 
 sections:
-
-  <!-- - block: features
-    content:
-      title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
-      text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
-        {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}} -->
-
 
   - block: slider
     content:
@@ -121,7 +112,7 @@ sections:
           url: contact
 
       - title: <span style="font-size:70%">Medical AI</span>
-        content: <span style="font-size:70%">Medical AI 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
+        content: <span style="font-size:70%">joint major - Medical AI & undergraduate student researcher in MACS<span style="font-size:70%">
         align: center
         background:
           image:
@@ -132,7 +123,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Project</span>
-        content: <span style="font-size:70%">여러 프로젝트 및 연구 진행</span>
+        content: <span style="font-size:70%">Multiple projects and research in progress</span>
         align: center
         background:
           image:
@@ -143,7 +134,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Litmus Renewal Project 등 여러 개발에 참여</span>
+        content: <span style="font-size:70%">Participated in several developments, including the Litmus Renewal Project</span>
         align: center
         background:
           image:
@@ -154,7 +145,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:70%">Activity</span>
-        content: <span style="font-size:70%">교환학생 등 다양한 활동</span>
+        content: <span style="font-size:70%">Exchange student and more</span>
         align: center
         background:
           image:
@@ -163,6 +154,7 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
