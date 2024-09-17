@@ -9,15 +9,15 @@ main:
   - name: About
     url: about
     weight: 100
-    hasChildren: true
-  - parent: About
-    name: Resume
-    url: /about/resume/
-    weight: 110
-  - parent: About
-    name: CV
-    ulr: /about/cv/
-    weight: 120
+  #   hasChildren: true
+  # - parent: About
+  #   name: Resume
+  #   url: /about/resume/
+  #   weight: 110
+  # - parent: About
+  #   name: CV
+  #   ulr: /about/cv/
+  #   weight: 120
 
   - name: Research
     url: field
