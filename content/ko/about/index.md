@@ -6,6 +6,11 @@ type: landing
 
 sections:
 
+  - block: info
+    content: about CHOI SEOYEON
+        text: <br><span style="font-size:125%">소속 및 전공 - 전북대학교 컴퓨터공학부 22학번<br><br>
+                메디컬AI 연계전공 중
+
   - block: features
     content:
       title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
