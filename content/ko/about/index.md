@@ -1,7 +1,9 @@
+다음은 제공해주신 [양식]에 맞춰 이전 내용을 재작성한 것입니다.
+
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2024-09-01"
 draft = false
 
 widget = "about"
@@ -12,31 +14,26 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "인공지능 (AI)",
+    "데이터 분석 (Data Science)",
+    "개발 (Development)",
+    "의학, 의공학",
+    "Medical AI & Brain",
+    "Global"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M.S. in 전자정보공학부(컴퓨터공학전공)"
+  institution = "전북대학교 (학석사 연계 과정)"
+  year = "2025.09 ~ 2027.02 (예정)"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "B.S. in 컴퓨터공학부"
+  institution = "전북대학교"
+  year = "2022 ~ 진행 중 (2025.09 졸업 예정)"
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다.
