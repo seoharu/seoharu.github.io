@@ -8,6 +8,8 @@ sections:
   - block: about.biography
     content:
 
+      username: admin
+
       # Display name
       title: 최서연
 
