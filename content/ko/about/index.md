@@ -5,7 +5,7 @@ type: landing
 
 sections:
 
-  - block: resume-experience
+  - block: biography
     content:
 
       # Display name
