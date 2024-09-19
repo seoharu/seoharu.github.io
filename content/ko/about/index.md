@@ -9,6 +9,9 @@ widget = "about"
 # Order that this section will appear in.
 weight = 1
 
+[info]
+name = "최서연"
+
 # List your academic interests.
 [interests]
   interests = [
