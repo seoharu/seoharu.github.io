@@ -8,7 +8,7 @@ main:
     weight: 10
 
   - name: About
-    url: /about
+    url: /about/
     weight: 100
 
   #   hasChildren: true
