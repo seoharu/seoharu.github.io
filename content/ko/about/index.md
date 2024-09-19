@@ -5,7 +5,7 @@ type: landing
 
 sections:
 
-  - block: projects
+  - block: project
     content:
 
       # Display name
