@@ -1,5 +1,3 @@
-
-
 ---
 # Leave the homepage title empty to use the site title
 date: 2024-09-01
@@ -67,6 +65,7 @@ social:
   - icon: github
     icon_pack: github
     link: https://github.com/seoharu
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
