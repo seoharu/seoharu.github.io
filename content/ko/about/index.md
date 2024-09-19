@@ -1,42 +1,42 @@
----
-title: About
-date: 2024-09-01
++++
+# About/Biography widget.
 
-type: landing
+date = "2016-04-20T00:00:00"
+draft = false
 
-sections:
-  - block: about
-    content:
-      date: 2024-09-01
-      name: 최서연
-      role: 학생
-      organization: 전북대학교 컴퓨터공학부
-      organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
-      email: 'yunseul@jbnu.ac.kr'
+widget = "about"
 
-      content: 
-      social:
-        - icon: envelope
-          icon_pack: fas
-          link: 'mailto:yunseul@jbnu.ac.kr'
-        - icon: github
-          icon_pack: github
-          link: 'https://github.com/seoharu'
+# Order that this section will appear in.
+weight = 1
 
-      interests:
-        - 인공지능 (AI)
-        - 데이터 분석 (Data Science)
-        - 개발 (Development)
-        - 의학, 의공학
-        - Medical AI & Brain
-        - Global
+# List your academic interests.
+[interests]
+  interests = [
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
+  ]
 
-      education:
-        courses:
-          - course: M.S. in 전자정보공학부(컴퓨터공학전공)
-            institution: 전북대학교 (학석사 연계 과정)
-            year: '2025.09 ~ 2027.02 (예정)'
-          - course: B.S. in 컴퓨터공학부
-            institution: 전북대학교
-            year: '2022 ~ 진행 중 (2025.09 졸업 예정)'
----
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
+
+[[education.courses]]
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
+
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
+ 
++++
+
+# Biography
+
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
