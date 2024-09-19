@@ -1,39 +1,20 @@
 ---
 title: About
 date: 2024-09-01
+name: 최서연
+role: 학생
+organization: 전북대학교 컴퓨터공학부
+organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
+email: 'yunseul@jbnu.ac.kr'
+
 
 type: landing
 
 sections:
   - block: about
 
-      date: 2024-09-01
-      name: 최서연
-      role: 학생
-      organization: 전북대학교 컴퓨터공학부
-      organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
-      email: 'yunseul@jbnu.ac.kr'
-
-      content: 
-      social:
-        - icon: envelope
-          icon_pack: fas
-          link: 'mailto:yunseul@jbnu.ac.kr'
-        - icon: github
-          icon_pack: github
-          link: 'https://github.com/seoharu'
-
-      interests:
-        - 인공지능 (AI)
-        - 데이터 분석 (Data Science)
-        - 개발 (Development)
-        - 의학, 의공학
-        - Medical AI & Brain
-        - Global
-
-
     content:
-
+    
       date: 2024-09-01
       name: 최서연
       role: 학생
