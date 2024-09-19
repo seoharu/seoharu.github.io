@@ -6,15 +6,13 @@ role: 학생
 organization: 전북대학교 컴퓨터공학부
 organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
 email: 'yunseul@jbnu.ac.kr'
-
+layout: "about"
 
 type: landing
 
 sections:
   - block: about
-
     content:
-    
       date: 2024-09-01
       name: 최서연
       role: 학생
@@ -22,13 +20,12 @@ sections:
       organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
       email: 'yunseul@jbnu.ac.kr'
 
-      content: 
       social:
         - icon: envelope
           icon_pack: fas
           link: 'mailto:yunseul@jbnu.ac.kr'
         - icon: github
-          icon_pack: github
+          icon_pack: fab
           link: 'https://github.com/seoharu'
 
       interests:
