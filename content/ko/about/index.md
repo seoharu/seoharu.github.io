@@ -5,7 +5,7 @@ type: landing
 
 sections:
 
-  - block: biography
+  - block: about.biography
     content:
 
       # Display name
