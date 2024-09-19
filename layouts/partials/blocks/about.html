@@ -1,77 +1,51 @@
-{{ $page := .Page }}
-
-123
-
-<!-- About widget -->
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <div class="col-xs-12 col-md-4">
-    <div id="profile">
-
-      {{ with .Params.avatar }}
-      <div class="portrait" itemprop="image"
-           style="background-image: url('{{ "/img/" | relURL }}{{ . }}');">
-      </div>
-      {{ end }}
-
-      <div class="portrait-title">
-        <h2 itemprop="name">{{ .Params.name }}</h2>
-        <h3 itemprop="jobTitle">{{ .Params.role }}</h3>
-        {{ if .Params.organization }}
-        <h3 itemprop="worksFor">
-          {{ with .Params.organization_url }}<a href="{{ . }}" target="_blank">{{ end }}
-          {{ .Params.organization }}
-          {{ if .Params.organization_url }}</a>{{ end }}
-        </h3>
-        {{ end }}
-      </div>
-
-      <ul class="social-icon" aria-hidden="true">
-        {{ range .Params.social }}
-        {{ $pack := or .icon_pack "fa" }}
-        <li>
-          <a href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
-          </a>
-        </li>
-        {{ end }}
-      </ul>
-
-    </div>
-  </div>
-  <div class="col-xs-12 col-md-8" itemprop="description">
-
-    {{ $page.Content }}
-
-    <div class="row">
-
-      {{ with $page.Params.interests }}
-      <div class="col-sm-5">
-        <h3>{{ i18n "interests" | markdownify }}</h3>
-        <ul class="ul-interests">
-          {{ range .interests }}
-          <li>{{ . }}</li>
-          {{ end }}
+{{ define "main" }}
+<main id="main-content">
+    <section>
+        <h1>{{ .Title }}</h1>
+        <p><strong>이름:</strong> {{ .Params.name }}</p>
+        <p><strong>직업:</strong> {{ .Params.role }}</p>
+        <p><strong>소속:</strong> <a href="{{ .Params.organization_url }}">{{ .Params.organization }}</a></p>
+        <!-- 이메일 주소는 개인정보 보호를 위해 표시하지 않습니다 -->
+        
+        <h2>관심 분야</h2>
+        <ul>
+            {{ range .Params.sections }}
+                {{ if eq .block "about" }}
+                    {{ range .content.interests }}
+                        <li>{{ . }}</li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
         </ul>
-      </div>
-      {{ end }}
-
-      {{ with $page.Params.education }}
-      <div class="col-sm-7">
-        <h3>{{ i18n "education" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range .courses }}
-          <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-            </div>
-          </li>
-          {{ end }}
+        
+        <h2>교육</h2>
+        <ul>
+            {{ range .Params.sections }}
+                {{ if eq .block "about" }}
+                    {{ range .content.education.courses }}
+                        <li>
+                            {{ .course }} - {{ .institution }} ({{ .year }})
+                        </li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
         </ul>
-      </div>
-      {{ end }}
-
-    </div>
-  </div>
-</div>
+        
+        <h2>소셜 미디어</h2>
+        <ul>
+            {{ range .Params.sections }}
+                {{ if eq .block "about" }}
+                    {{ range .content.social }}
+                        <li>
+                            <a href="{{ .link }}">
+                                <!-- 아이콘 표시를 위해 아이콘 폰트나 이미지가 필요합니다 -->
+                                {{ .icon }}
+                            </a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </ul>
+    </section>
+</main>
+{{ end }}
