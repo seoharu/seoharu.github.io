@@ -1,135 +1,70 @@
 ---
-title: "최서연"
-# Name pronunciation (optional)
-name_pronunciation: "최서연"
+# 홈페이지 제목을 사이트 제목으로 사용하려면 비워두세요
+title: ""
+date: 2022-10-24
+type: landing
 
-# Full name (for SEO)
-first_name: "SEOYEON"
-last_name: "CHOI"
+design:
+  # 기본 섹션 간격
+  spacing: "6rem"
 
-# Status emoji
-status:
-  icon: "💻"
+sections:
+  - block: resume-biography-3
+    content:
+      # 표시할 사용자 프로필 선택 (`content/authors/` 내 폴더명)
+      username: admin
+      text: ""
+      # 전기 아래에 동작 버튼을 표시할까요? (선택 사항)
 
-authors:
-  - admin
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # `assets/media/`에 배경 이미지를 추가하세요.
+          filename: a.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+  - block: markdown
+    content:
+      title: '📚 나의 연구'
+      subtitle: ''
+      text: |-
+        저는 의료 인공지능와 만화 인공지능을 연구하고있습니다. 또한 웹과 앱 개발을 하고있습니다.
+        
+        2023년 12월 제1회 아이디어 해커톤에서 최우수상 경력과 2023년부터 2024년까지 7개의 글쓰기 공모전에서 수상한 경력도 있습니다.
 
-# Is this the primary user of the site?
-superuser: true
+        저의 목표 대학원은 서울대입니다
 
-# Role/position/tagline
-role: "Student"
-position: "Undergraduate research student"
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: "JBNU - Division of Computer Science and Engineering"
-    url: "https://csai.jbnu.ac.kr/csai/index.do"
-affiliations:
-  - name: "MACS"
-    url: "https://jbnu.macs.or.kr/"
-major: "컴퓨터공학"
-joint_major: "메디컬AI"
 
-# Short bio (displayed in user profile at end of posts)
-bio: "컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다."
+    design:
+      # 레이아웃 보기 선택
+      view: date-title-summary
+      # 간격 줄이기
+      spacing:
+        padding: [0, 0, 0, 0]
+  - block: cta-card
+    demo: true # Hugo Blox Builder 데모 사이트에서만 이 섹션을 표시
+    content:
+      title: 👉 이와 같은 학술 웹사이트를 만들어 보세요
+      text: |-
+        이 사이트는 250,000명 이상의 학자들이 신뢰하는 무료 Hugo 기반 오픈소스 웹사이트 빌더인 Hugo Blox Builder로 생성되었습니다.
 
-interests:
-  - "인공지능 (AI)"
-  - "데이터 분석 (Data Science)"
-  - "개발 (Development)"
-  - "의학, 의공학"
-  - "Medical AI & Brain"
-  - "Global"
+        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GitHub에서 HugoBlox/hugo-blox-builder에 Star를 주기">Star</a>
 
-education:
-  courses:
-    - course: "M.S. in 전자.정보공학부(컴퓨터공학전공)"
-      institution: "전북대학교 (학석사 연계 과정)"
-      year: "2025.09 ~ 2027.02 (예정)"
-    - course: "B.S. in 컴퓨터공학부"
-      institution: "전북대학교"
-      year: "2022 ~ 진행 중 (2025.09 졸업 예정)"
-
-skills:
-  items:
-    - name: "데이터 분석 및 모델링"
-      description: ""
-      percent: 50
-      icon: "chart-bar"
-    - name: "Front-end"
-      description: ""
-      percent: 40
-      icon: ""
-    - name: "Back-end"
-      description: ""
-      percent: 10
-      icon: ""
-    - name: "AI"
-      description: ""
-      percent: 30
-      icon: ""
-
-languages:
-  - name: "Programming"
-    items:
-      - name: "Basic Languages"
-        description: "C, C++, Python"
-      - name: "Web-oriented Languages"
-        description: "JavaScript, TypeScript"
-  - name: "Frameworks"
-    items:
-      - name: "Deep Learning Frameworks"
-        description: "TensorFlow, PyTorch, CUDA"
-      - name: "Web Frameworks"
-        description: "Vue.js"
-  - name: "DBMS"
-    items:
-      - name: "SQL Databases"
-        description: "MySQL, MongoDB"
-  - name: "AWS"
-    items: []
-  - name: "Languages"
-    items:
-      - name: "Korean"
-        description: "Native"
-      - name: "English"
-        description: "Academic proficiency (studied one semester as an exchange student in Malaysia)"
-      - name: "Spanish"
-        description: "Daily conversation level"
-
-hobbies:
-  items:
-    - name: "독서"
-      description: ""
-    - name: "악기 연주"
-      description: "피아노, 바이올린, 드럼"
-    - name: "전시회 및 공연 감상"
-      description: ""
-    - name: "사진 촬영"
-      description: ""
-
-favorites:
-  items:
-    - name: "Cat"
-      description: ""
-
-# Social Networking
-social:
-  - icon: "envelope"
-    icon_pack: "fas"
-    link: "mailto:yunseul@jbnu.ac.kr"
-  - icon: "github"
-    icon_pack: "fab"
-    link: "https://github.com/seoharu"
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-user_groups:
-  - admin
-
-# Author's website URL
-website: "https://seoharu.github.io/"
+        블록으로 쉽게 구축하세요 - 코딩 필요 없음!
+        
+        랜딩 페이지, 세컨드 브레인, 코스에서 학술 이력서, 컨퍼런스, 기술 블로그까지 모두 구축 가능합니다.
+      button:
+        text: 시작하기
+        url: https://hugoblox.com/templates/
+    design:
+      card:
+        # 카드 배경 색상 (CSS 클래스)
+        css_class: "bg-primary-700"
+        css_style: ""
 ---
-어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 우선 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 연결짓고 융합해 복합적인 무언가를 만들어내는 것을 즐깁니다. 의학과 공학의 결합으로 의공학, 뇌공학 전반을 연구하는 삶을 살고 싶습니다. 의료인공지능의 응용 영역에서도 뇌공학과 뇌신경 쪽, 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다.
