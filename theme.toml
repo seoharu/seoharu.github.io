@@ -6,8 +6,42 @@ description = "Easily build your landing page with pre-designed blocks. Create b
 homepage = "https://github.com/HugoBlox/theme-landing-page"
 demosite = "https://theme-landing-page.netlify.app/"
 
-tags = ["landing", "docs", "blog", "responsive", "minimal", "light", "dark", "multilingual", "dark mode", "tailwind", "company", "gallery"]
-features = ["secure", "fast", "search", "dark mode", "widgets"]
+
+tags = ["academic",
+        "university",
+        "research",
+        "publications",
+        "widgets",
+        "portfolio",
+        "responsive",
+        "clean",
+        "company",
+        "blog",
+        "events",
+        "minimal",
+        "light",
+        "dark",
+        "multilingual",
+        "landing page",
+        "contact form",
+        "mobile",
+        "search",
+        "presentation",
+        "simple",
+        "minimalist",
+        "starter",
+        "modern",
+        "one page",
+        "customizable",
+        "technical",
+        "slide",
+        "landing", "docs", "blog", "responsive", "minimal", "light", "dark", "multilingual", "dark mode", "tailwind", "company", "gallery",
+        "landing", "docs", "blog", "responsive", "minimal", "light", "dark", "multilingual", "dark mode", "tailwind", "company", "gallery"
+        ]
+        
+features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
+            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form", "secure", "fast", "search", "dark mode", "widgets", "secure", "fast", "search", "dark mode", "widgets"
+            ] 
 
 # If the theme has a single author
 [author]
