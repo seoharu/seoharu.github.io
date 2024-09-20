@@ -1,7 +1,6 @@
 ---
-# Display name
-title: seoharu.github.io
 
+title: 최서연
 # Name pronunciation (optional)
 name_pronunciation: 최서연
 
