@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: "CHOI SEOYEON"
+      name: "CHOI SEOYEON"
       subtitle: Undergraduate Student & Undergraduate Research Student
       image:
         filename: 
@@ -29,12 +29,10 @@ sections:
     content:
       title: "Education"
       items:
-        - title: "M.S. in 전자.정보공학부(컴퓨터공학전공)"
-          description: "전북대학교 (학석사 연계 과정)"
-          date: "2025.09 ~ 2027.02 (예정)"
-        - title: "B.S. in 컴퓨터공학부"
-          description: "전북대학교"
-          date: "2022 ~ 진행 중 (2025.09 졸업 예정)"
+        - name: "M.S. in 전자.정보공학부(컴퓨터공학전공)"
+          description: "전북대학교 (학석사 연계 과정), 2025.09 ~ 2027.02 (예정)"
+        - name: "B.S. in 전북대학교 컴퓨터공학부"
+          description: "2022 ~ 진행 중 (2025.09 졸업 예정)"
     design:
       columns: 1
 
@@ -42,7 +40,7 @@ sections:
     content:
       title: "Interests"
       items:
-        - title: "인공지능 (AI)"
+        - name: "인공지능 (AI)"
         - title: "데이터 분석 (Data Science)"
         - title: "개발 (Development)"
         - title: "의학, 의공학"
