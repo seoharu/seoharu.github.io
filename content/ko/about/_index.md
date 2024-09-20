@@ -85,21 +85,21 @@ sections:
 
   - block: features
     content:
-      title: "Hobbies"
+      title: Hobbies
       items:
-        - name: "독서"
-        - name: "악기 연주"
-          description: "피아노, 바이올린, 드럼"
-        - name: "전시회 및 공연 관람"
-        - name: "사진 촬영"
-          description: "바다, 하늘 등 풍경 사진 찍기"
+        - name: 독서
+        - name: 악기 연주
+          description: 피아노, 바이올린, 드럼
+        - name: 전시회 및 공연 관람
+        - name: 사진 촬영
+          description: 바다, 하늘 등 풍경 사진 찍기
     design:
       columns: 2
   - block: features
     content:
-      title: "Favorites"
+      title: Favorites
       items:
-        - name: "Cat"
+        - name: Cat
 
 ---
 
