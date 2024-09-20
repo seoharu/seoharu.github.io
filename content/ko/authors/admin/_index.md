@@ -122,6 +122,12 @@ skills:
       - name: TypeScript
         description: ''
         percent: 30
+  - name: Web Frameworks
+  items:
+    - name: Vue.js
+      description: ''
+      icon: vuejs
+      icon_pack: fab
   - name: Deep Learning Frameworks
     items:
       - name: Python (TensorFlow, PyTorch)
@@ -130,12 +136,7 @@ skills:
       - name: C++ (CUDA)
         description: ''
         percent: 45
-  - name: Web Frameworks
-    items:
-      - name: Vue.js
-        description: ''
-        icon: vuejs
-        icon_pack: fab
+
   - name: DBMS
     items:
       - name: MySQL
