@@ -70,6 +70,7 @@ sections:
       title: Languages & Technologies
       text: ''
       username: admin
+      css_class: 'col-12 col-md-3'
       
     design:
         columns: '1'
