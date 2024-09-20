@@ -10,7 +10,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography
+  - block: about
     content:
       # 표시할 사용자 프로필 선택 (`content/authors/` 내 폴더명)
       username: "admin"
