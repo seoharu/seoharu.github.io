@@ -30,7 +30,7 @@ sections:
       title: "Education"
       items:
         - name: "M.S. in 전자.정보공학부(컴퓨터공학전공)"
-          description: "전북대학교 (학석사 연계 과정), 2025.09 ~ 2027.02 (예정)"
+          description: "전북대학교 (학석사 연계 과정),<br> 2025.09 ~ 2027.02 (예정)"
         - name: "B.S. in 전북대학교 컴퓨터공학부"
           description: "2022 ~ 진행 중 (2025.09 졸업 예정)"
     design:
@@ -43,7 +43,7 @@ sections:
         - name: "인공지능 (AI)"
           icon: code-branch
           icon_pack: fas
-        - name: "데이터 분석 (Data Science)"
+        - name: "Data Science"
           icon: database
           icon_pack: fas
         - name: "개발 (Development)"
