@@ -97,7 +97,6 @@ languages:
         description: daily conversation 
 
 skills:
-  css_class: 'col-12 col-md-3'
   - name: Programming Languages
     items:
       - name: C
@@ -123,6 +122,7 @@ skills:
       - name: TypeScript
         description: ''
         percent: 30
+        css_class: 'col-12 col-md-3'
     css_class: 'col-12 col-md-3'
 
   - name: Deep Learning Frameworks
@@ -133,6 +133,8 @@ skills:
       - name: C++ (CUDA)
         description: ''
         percent: 45
+  
+  css_class: 'col-12 col-md-3'
 
   - name: Web Frameworks
     items:
