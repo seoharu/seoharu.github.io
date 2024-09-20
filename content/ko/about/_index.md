@@ -78,7 +78,7 @@ sections:
     content:
       title: Language
       text: ''
-      username: admin
+      username: admin2
 
     design:
       columns: 1
