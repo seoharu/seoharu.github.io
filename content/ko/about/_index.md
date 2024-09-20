@@ -23,7 +23,7 @@ sections:
           icon_pack: fas
     design:
       background: white
-        color: blue
+      color: blue
 
   - block: features
     content:
@@ -67,13 +67,13 @@ sections:
       title: "Skills"
       items:
         - name: "데이터 분석 및 모델링"
-          : 50
+          description: 50
         - name: "Front-end"
-          percent: 40
+          description: 40
         - name: "Back-end"
-          percent: 10
+          description: 10
         - name: "AI"
-          percent: 30
+          description: 30
     design:
       columns: 2
 
