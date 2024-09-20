@@ -33,8 +33,7 @@ sections:
           description: 전북대학교 (학석사 연계 과정),<br> 2025.09 ~ 2027.02 (예정)
         - title: B.S. in 전북대학교 컴퓨터공학부
           description: 2022 ~ 진행 중 (2025.09 졸업 예정)
-    design:
-      columns: 1
+
 
   - block: features
     content:
