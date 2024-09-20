@@ -122,9 +122,6 @@ skills:
       - name: TypeScript
         description: ''
         percent: 30
-        css_class: 'col-12 col-md-3'
-    css_class: 'col-12 col-md-3'
-    css_style: 'width: 25%;'
 
   - name: Deep Learning Frameworks
     items:
@@ -134,7 +131,6 @@ skills:
       - name: C++ (CUDA)
         description: ''
         percent: 45
-    css_class: 'col-12 col-md-3'
 
   - name: Web Frameworks
     items:

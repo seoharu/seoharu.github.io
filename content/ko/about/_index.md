@@ -70,7 +70,10 @@ sections:
       title: Languages & Technologies
       text: ''
       username: admin
-      css_class: 'col-12 col-md-3'
+      css_style: |
+        #skills-section > .row > col-md-6 {
+          width: 25% !important;
+        }
       
     design:
         columns: '1'
