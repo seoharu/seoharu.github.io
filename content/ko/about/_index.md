@@ -25,7 +25,7 @@ sections:
       background:
         color: black
 
-  - block: experience
+  - block: features
     content:
       title: Education
       items:
