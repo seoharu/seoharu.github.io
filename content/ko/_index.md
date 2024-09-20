@@ -1,7 +1,4 @@
 
-
-
-
 ---
 # Leave the homepage title empty to use the site title
 title: seoharu.github.io
@@ -10,7 +7,7 @@ type: landing
 
 sections:
 
-  - block: features
+  - block: about
     content:
       title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
       text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
