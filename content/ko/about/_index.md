@@ -22,8 +22,8 @@ sections:
           url: https://github.com/seoharu
           icon_pack: fas
     design:
-      background: white
-      color: blue
+      # background: white
+      # color: blue
 
   - block: features
     content:
