@@ -97,14 +97,15 @@ languages:
         description: daily conversation 
 
 skills:
-  - name: "데이터 분석 및 모델링"
-    percent: 50
-  - name: "Front-end"
-    percent: 40
-  - name: "Back-end"
-    percent: 10
-  - name: "AI"
-    percent: 30
+  items:
+    - name: "데이터 분석 및 모델링"
+      percent: 50
+    - name: "Front-end"
+      percent: 40
+    - name: "Back-end"
+      percent: 10
+    - name: "AI"
+      percent: 30
 
 hobbys:
   items:
