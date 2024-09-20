@@ -138,6 +138,7 @@ skills:
         description: ''
         icon: vuejs
         icon_pack: fab
+    css_class: 'col-12 col-md-3'
 
   - name: DBMS
     items:
@@ -151,6 +152,7 @@ skills:
         percent: 20
         icon: database
         icon_pack: fas
+
 skills:
   - name: Language
     items:
