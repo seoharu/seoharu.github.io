@@ -10,20 +10,20 @@ sections:
       subtitle: Undergraduate Student & Undergraduate Research Student
       image:
         filename: 
-      text: |-
+      bio: |-
         컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다.
       body: |-
         어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 우선 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 연결짓고 융합해 복합적인 무언가를 만들어내는 것을 즐깁니다. 의학과 공학의 결합으로 의공학, 뇌공학 전반을 연구하는 삶을 살고 싶습니다. 의료인공지능의 응용 영역에서도 뇌공학과 뇌신경 쪽, 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다.
-      social:
-        - icon: envelope
+      actions:
+        - label: "E-mail Me"
           url: 'mailto:yunseul@jbnu.ac.kr'
-          icon_pack: fas
-        - icon: github
+          icon: at-symbol
+        - label: "GitHub"
           url: https://github.com/seoharu
-          icon_pack: fas
+          icon: github
     design:
-      # background: white
-      # color: blue
+      background:
+        color: white
 
   - block: features
     content:
@@ -41,24 +41,11 @@ sections:
       title: "Interests"
       items:
         - name: "인공지능 (AI)"
-          icon: code-branch
-          icon_pack: fas
         - title: "데이터 분석 (Data Science)"
-          icon: database
-          icon_pack: fas
         - title: "개발 (Development)"
-          icon: laptop
-          icon_pack: fas
         - title: "의학, 의공학"
-          icon: brain
-          icon_pack: fas
         - title: "Medical AI & Brain"
-          icon: laptop-medical
-          icon_pack: fas
-        - title: "Algorithm"
-          icon: folder-tree
-          icon_pack: fas
-
+        - title: "Global"
     design:
       columns: 2
 
@@ -66,14 +53,14 @@ sections:
     content:
       title: "Skills"
       items:
-        - name: "데이터 분석 및 모델링"
-          description: 50
-        - name: "Front-end"
-          description: 40
-        - name: "Back-end"
-          description: 10
-        - name: "AI"
-          description: 30
+        - title: "데이터 분석 및 모델링"
+          percent: 50
+        - title: "Front-end"
+          percent: 40
+        - title: "Back-end"
+          percent: 10
+        - title: "AI"
+          percent: 30
     design:
       columns: 2
 
@@ -99,11 +86,11 @@ sections:
     content:
       title: "Language Proficiency"
       items:
-        - name: "Korean"
+        - title: "Korean"
           description: "Native"
-        - name: "English"
+        - title: "English"
           description: "Academic (말레이시아에서 한 학기 교환학생)"
-        - name: "Spanish"
+        - title: "Spanish"
           description: "일상 회화 가능"
     design:
       columns: 2
@@ -112,11 +99,11 @@ sections:
     content:
       title: "Hobbies"
       items:
-        - name: "독서"
-        - name: "악기 연주"
+        - title: "독서"
+        - title: "악기 연주"
           description: "피아노, 바이올린, 드럼"
-        - name: "전시회 및 공연 관람"
-        - name: "사진 촬영"
+        - title: "전시회 및 공연 관람"
+        - title: "사진 촬영"
           description: "바다, 하늘 등 풍경 사진 찍기"
     design:
       columns: 2
@@ -124,7 +111,7 @@ sections:
     content:
       title: "Favorites"
       items:
-        - name: "Cat"
+        - title: "Cat"
 
 ---
 
