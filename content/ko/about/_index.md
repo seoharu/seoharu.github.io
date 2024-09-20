@@ -71,7 +71,7 @@ sections:
       text: ''
       username: admin
       css_style: |
-        #skills-section > .row > col-md-6 {
+        #skills-section > .row > .col-md-6 {
           flex: 0 0 25% !important;
         }
       
