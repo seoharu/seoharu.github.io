@@ -43,9 +43,9 @@ header:
     show_search: true
 
     logo:
-      text: ""
+      text: "SEOYEON"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      # filename: "logo.svg"
     button:
       enable: true
       text: "more"
