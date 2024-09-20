@@ -1,143 +1,172 @@
 ---
-# Display name
+# Leave the homepage title empty to use the site title
 title: seoharu.github.io
+date: 2024-09-01
+type: landing
 
-# Name pronunciation (optional)
-name_pronunciation: 최서연
+sections:
 
-# Full name (for SEO)
-first_name: SEOYEON
-last_name: CHOI
-
-# Status emoji
-status:
-  icon: 💻
-
-authors:
-  - admin
-  
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Student
-position: Undergraduate research student
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: JBNU - Division of Computer Science and Engineering
-    url: https://csai.jbnu.ac.kr/csai/index.do
-affiliations:
-  - name: MACS
-    url: https://jbnu.macs.or.kr/
-major: 컴퓨터공학
-joint_major: 메디컬AI
-
-# Short bio (displayed in user profile at end of posts)
-bio: 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. 
-
-interests:
-  - 인공지능 (AI)
-  - 데이터 분석 (Data Science)
-  - 개발 (Development)
-  - 의학, 의공학
-  - Medical AI & Brain
-  - Global
-
-education:
-  courses:
-    - course: M.S. in (전자.정보공학부(컴퓨터공학전공))
-      institution: 전북대학교 (학석사 연계 과정)
-      year: 2025.09 ~ 2027.02 (예정)
-    - course: B.S. in (컴퓨터공학부)
-      institution: 전북대학교
-      year: 2022 ~ 진행 중 (2025.09 졸업 예정)
-
-skills:
-  items:
-    - name: 데이터 분석 및 모델링
-      description: ''
-      percent: 50
-      icon: chart-bar
-    - name: Front-end
-      description: ''
-      percent: 40
-    - name: Back-end
-      description: ''
-      percent: 10
-    - name: AI
-      description: ''
-      percent: 30
-languages:
-  - name: programming
-    items: 
-      - name: Basic Language
-        description: C, C++, Python
-      - name: Web-oriented Language
-        description: Javascript, TypeScript
-  - name: frameworks
-    items:
-      - name: Deep learning frameworks
-        desctription: Python (Tensorflow, pytorch), C++ (CUDA)
-      - name: Web frameworks
-        description: Vue.js
-  - name: DBMS
-    items: 
-      - name: SQL
-        description: MySQL, MongoDB
-  - name: AWS
-    
-  - name: lingual
-    items:
-      - name: Korean
-        description: Native
-      - name: English
-        description: Academic (studying one semester as exchange students in Malaysia)
-      - name: Espanol
-        description: daily conversation 
-
-hobbys:
-  items:
-    - name: 독서
-      description: ''
-    - name: 악기
-      description: 피아노, 바이올린 and 드럼
-    - name: 전시회, 공연 감상
-    - name: 사진
-
-favorites:
-  items:
-    - name: Cat
-    - name: 
+  - block: features
+    content:
+      title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
+      text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
+        {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}}
 
 
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:yunseul@jbnu.ac.kr'
-    label: E-mail Me
-  - icon: github
-    url: https://github.com/seoharu
-    label: github
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  # - icon: academicons/cv
-  #   url: uploads/resume.pdf
-  #   label: Download my resume
-  # - icon: rss
-  #   url: ./post/index.xml
-  #   label: Subscribe to my blog via RSS feed
+  - block: slider
+    content:
+      slides:
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+      - title: <span style="font-size:70%">About</span>
+        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: user
+          icon_pack: fas
+          text: <span style="font-size:60%">Contact</span>
+          text-color: '#000'
+          url: contact
 
-user_groups:
-  - admin
+      - title: <span style="font-size:70%">Medical AI</span>
+        content: <span style="font-size:70%">Medical AI 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
 
-# Author's website URL
-website: "https://seoharu.github.io/"
+      - title: <span style="font-size:70%">Project</span>
+        content: <span style="font-size:70%">여러 프로젝트 및 연구 진행</span>
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">Development</span>
+        content: <span style="font-size:70%">Litmus Renewal Project 등 여러 개발에 참여</span>
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">Activity</span>
+        content: <span style="font-size:70%">교환학생 등 다양한 활동</span>
+        align: center
+        background:
+          image:
+            filename: 
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '350px'
+      slide_width: '100px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
+
+
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:75%">My Interests</span>
+      text: 저는 좋아하는 것들로 일상을 채우고, 발전하고 싶어하는 사람입니다.<br><br><br><br>
+      items:
+        - name: 인공지능(AI)
+          icon: code-branch
+          icon_pack: fas
+          description: <span style="font-size:90%">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</span><br><br>
+        - name: 데이터 분석 (Data Science)
+          icon: calculator
+          icon_pack: fas
+          description:  <span style="font-size:90%">여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</span><br><br>
+        - name: 개발 (Development)
+          icon: laptop
+          icon_pack: fas
+          description:  <span style="font-size:90%">여러 개발 프로젝트에 참여했습니다.</span><br><br>
+        - name: Medical AI
+          icon: connection
+          icon_pack: fab
+          description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
+        - name: ALPS 부회장
+          icon: 🖥️
+          icon_pack: fab
+          description:  <span style="font-size:90%">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
+        - name: etc
+          icon: globe
+          icon_pack: fab
+          description:  <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
+
+
+
+  - block: collection
+    content:
+      title: Project
+      subtitle:
+      text:
+      count: 3
+      filters:
+        folders:
+          - side
+          - course
+          - collaborate
+      offset: 0
+      order: desc
+      page_type: 
+    design:
+      view: community/custom_card
+      columns: '2'
+    advanced:
+      css_style: "text-align: center;"
+
+  - block: collection
+    content:
+      id: section-2
+      title: Personal
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - event
+          - etc
+          - Blog
+    design:
+      view: community/custom_card
+      columns: '2'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}
+    design:
+      columns: '1'
 ---
-
-어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 우선 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 연결짓고 융합해 복합적인 무언가를 만들어내는 것을 즐깁니다. 의학과 공학의 결합으로 의공학, 뇌공학 전반을 연구하는 삶을 살고 싶습니다. 의료인공지능의 응용 영역에서도 뇌공학과 뇌신경 쪽, 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다.
-
 
