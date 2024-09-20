@@ -62,20 +62,14 @@ sections:
     design:
       columns: 2
 
-  - block: features
+  - block: skills
     content:
-      title: "Skills"
-      items:
-        - name: "데이터 분석 및 모델링"
-          description: 50
-        - name: "Front-end"
-          description: 40
-        - name: "Back-end"
-          description: 10
-        - name: "AI"
-          description: 30
+      title: Skills
+      text: ''
+      username: admin
+      
     design:
-      columns: 2
+      columns: '2'
 
   - block: features
     content:
