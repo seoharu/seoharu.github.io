@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2024-09-20
-type: landing
+# type: landing
 
 sections:
   - block: hero
