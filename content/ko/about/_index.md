@@ -23,7 +23,6 @@ sections:
           icon: github
     design:
       background:
-        color: white
 
   - block: features
     content:
