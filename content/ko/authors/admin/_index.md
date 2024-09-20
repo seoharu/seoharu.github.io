@@ -131,7 +131,7 @@ skills:
       - name: C++ (CUDA)
         description: ''
         percent: 45
-        
+
   - name: Web Frameworks
     items:
       - name: Vue.js
@@ -150,6 +150,21 @@ skills:
         description: ''
         percent: 20
         icon: database
+        icon_pack: fas
+skills:
+  name: Language
+    items:
+      - name: "Korean"
+        description: "Native"
+        icon: language
+        icon_pack: fas
+      - name: "English"
+        description: "Academic (말레이시아에서 한 학기 교환학생)"
+        icon: earth-americas
+        icon_pack: fas
+      - name: "Spanish"
+        description: "일상 회화 가능"
+        icon: globe
         icon_pack: fas
 
 hobbys:

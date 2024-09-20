@@ -83,16 +83,12 @@ sections:
             flex-wrap: nowrap
           }
 
-  - block: features
+  - block: skills
     content:
-      title: "Language Proficiency"
-      items:
-        - name: "Korean"
-          description: "Native"
-        - name: "English"
-          description: "Academic (말레이시아에서 한 학기 교환학생)"
-        - name: "Spanish"
-          description: "일상 회화 가능"
+      title: Language
+      text: ''
+      username: admin
+      
     design:
       columns: 1
 
