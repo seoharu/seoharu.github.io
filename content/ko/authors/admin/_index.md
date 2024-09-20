@@ -122,6 +122,7 @@ skills:
       - name: TypeScript
         description: ''
         percent: 30
+    css_class: 'col-12 col-md-3'
 
   - name: Deep Learning Frameworks
     items:
