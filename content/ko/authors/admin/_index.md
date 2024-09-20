@@ -97,15 +97,20 @@ languages:
         description: daily conversation 
 
 skills:
-  items:
-    - name: "데이터 분석 및 모델링"
-      percent: 50
-    - name: "Front-end"
-      percent: 40
-    - name: "Back-end"
-      percent: 10
-    - name: "AI"
-      percent: 30
+  - name: Technical
+    items:
+      - name: "Programming Languages"
+        description: "C, C++, Python"
+        percent: 80
+      - name: "Web-oriented Languages"
+        description: "JavaScript, TypeScript"
+      - name: "Deep Learning Frameworks"
+        description: "Python (TensorFlow, PyTorch), C++ (CUDA)"
+      - name: "Web Frameworks"
+        description: "Vue.js"
+      - name: "DBMS"
+        description: "MySQL, MongoDB"
+      - name: "AWS"
 
 hobbys:
   items:

@@ -64,30 +64,12 @@ sections:
 
   - block: skills
     content:
-      title: Skills
+      title: Languages & Technologies
       text: ''
       username: admin
       
     design:
       columns: '2'
-
-  - block: features
-    content:
-      title: "Languages & Technologies"
-      items:
-        - name: "Programming Languages"
-          description: "C, C++, Python"
-        - name: "Web-oriented Languages"
-          description: "JavaScript, TypeScript"
-        - name: "Deep Learning Frameworks"
-          description: "Python (TensorFlow, PyTorch), C++ (CUDA)"
-        - name: "Web Frameworks"
-          description: "Vue.js"
-        - name: "DBMS"
-          description: "MySQL, MongoDB"
-        - name: "AWS"
-    design:
-      columns: 2
 
   - block: features
     content:
