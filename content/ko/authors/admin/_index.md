@@ -114,8 +114,6 @@ skills:
         percent: 70
         icon: python
         icon_pack: fab
-  - name: Web-oriented Languages
-    items:
       - name: JavaScript
         description: ''
         percent: 30
@@ -149,7 +147,7 @@ skills:
         description: ''
         percent: 20
         icon: database
-        icon_pack: fab
+        icon_pack: fas
 
 hobbys:
   items:

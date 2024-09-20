@@ -60,7 +60,7 @@ sections:
           icon_pack: fas
 
     design:
-      columns: 2
+      columns: '1'
 
   - block: skills
     content:
