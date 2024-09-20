@@ -4,7 +4,7 @@ date: 2024-09-20
 type: landing
 
 sections:
-  - block: about
+  - block: hero
     content:
       name: "CHOI SEOYEON"
       subtitle: Undergraduate Student & Undergraduate Research Student
