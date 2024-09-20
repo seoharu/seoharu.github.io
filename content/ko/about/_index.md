@@ -22,7 +22,8 @@ sections:
           url: https://github.com/seoharu
           icon: github
     design:
-      background: black
+      background:
+        color: black
 
   - block: features
     content:
