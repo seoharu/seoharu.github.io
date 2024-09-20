@@ -1,0 +1,26 @@
+<section id="hero">
+    <div class="container">
+      <h1>{{ .content.title }}</h1>
+      <p>{{ .content.subtitle }}</p>
+      
+      {{ if .content.image.filename }}
+        <img src="{{ .content.image.filename }}" alt="Hero Image">
+      {{ end }}
+  
+      <div class="bio">
+        <p>{{ .content.bio }}</p>
+        <p>{{ .content.body }}</p>
+      </div>
+  
+      {{ if .content.buttons }}
+        <div class="buttons">
+          {{ range .content.buttons }}
+            <a href="{{ .url }}" class="btn">
+              <i class="{{ .icon }}"></i> {{ .label }}
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+  
