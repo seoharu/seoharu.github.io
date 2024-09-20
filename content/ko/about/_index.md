@@ -3,35 +3,36 @@ title: ""
 date: 2024-09-20
 type: landing
 
-widget: hero
-
-title: "CHOI SEOYEON"
-subtitle: "Undergraduate Student & Undergraduate Research Student"
-image:
-  filename: 
-text: |-
-  "컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다."
-text: |-
-  "어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 우선 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 연결짓고 융합해 복합적인 무언가를 만들어내는 것을 즐깁니다. 의학과 공학의 결합으로 의공학, 뇌공학 전반을 연구하는 삶을 살고 싶습니다. 의료인공지능의 응용 영역에서도 뇌공학과 뇌신경 쪽, 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다."
-cta_alt:
-  - label: "E-mail Me"
-    url: 'mailto:yunseul@jbnu.ac.kr'
-    icon: at-symbol
-  - label: "GitHub"
-    url: https://github.com/seoharu
-    icon: github
-# design:
-#   background:
-#     color: black
-
-  - block: features
+sections:
+  - block: hero
     content:
-      title: "Education"
+      title: "CHOI SEOYEON"
+      subtitle: "Undergraduate Student & Undergraduate Research Student"
+      image:
+        filename: 
+      text: |-
+        "컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다."
+      text: |-
+        "어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 우선 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 연결짓고 융합해 복합적인 무언가를 만들어내는 것을 즐깁니다. 의학과 공학의 결합으로 의공학, 뇌공학 전반을 연구하는 삶을 살고 싶습니다. 의료인공지능의 응용 영역에서도 뇌공학과 뇌신경 쪽, 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다."
+      cta_alt:
+        - label: "E-mail Me"
+          url: 'mailto:yunseul@jbnu.ac.kr'
+          icon: at-symbol
+        - label: "GitHub"
+          url: https://github.com/seoharu
+          icon: github
+    design:
+      background:
+        color: black
+
+  - block: experience
+    content:
+      title: Education
       items:
-        - name: "M.S. in 전자.정보공학부(컴퓨터공학전공)"
-          description: "전북대학교 (학석사 연계 과정),<br> 2025.09 ~ 2027.02 (예정)"
-        - name: "B.S. in 전북대학교 컴퓨터공학부"
-          description: "2022 ~ 진행 중 (2025.09 졸업 예정)"
+        - title: M.S. in 전자.정보공학부(컴퓨터공학전공)
+          description: 전북대학교 (학석사 연계 과정),<br> 2025.09 ~ 2027.02 (예정)
+        - title: B.S. in 전북대학교 컴퓨터공학부
+          description: 2022 ~ 진행 중 (2025.09 졸업 예정)
     design:
       columns: 1
 
