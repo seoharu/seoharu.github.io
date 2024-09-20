@@ -97,6 +97,7 @@ languages:
         description: daily conversation 
 
 skills:
+  css_class: 'col-12 col-md-3'
   - name: Programming Languages
     items:
       - name: C
