@@ -20,9 +20,9 @@ cta_alt:
   - label: "GitHub"
     url: https://github.com/seoharu
     icon: github
-design:
-  background:
-    color: black
+# design:
+#   background:
+#     color: black
 
   - block: features
     content:
