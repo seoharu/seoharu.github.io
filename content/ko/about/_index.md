@@ -25,14 +25,18 @@ sections:
       background:
         color: black
 
-  - block: features
+  - block: experience
     content:
       title: Education
       items:
         - title: M.S. in 전자.정보공학부(컴퓨터공학전공)
-          description: 전북대학교 (학석사 연계 과정),<br> 2025.09 ~ 2027.02 (예정)
-        - title: B.S. in 전북대학교 컴퓨터공학부
-          description: 2022 ~ 진행 중 (2025.09 졸업 예정)
+          description: 전북대학교 (학석사 연계 과정)
+          date_start: '2025-09-02'
+          date_end: '2027-02-28'
+        - title: B.S. in (컴퓨터공학부)
+          description: 전북대학교 (JBNU) 컴퓨터공학부
+          date_start: '2022-03-02'
+          date_end: '2025-08-31'
 
 
   - block: features
@@ -68,8 +72,16 @@ sections:
       username: admin
       
     design:
-      columns: '4'
-      css_style: 'display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;'
+        columns: '1'
+        css_style: |
+          #skills-section {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr); 
+            gap: 20px;
+                }
+          .row {
+            flex-wrap: nowrap
+          }
 
   - block: features
     content:
