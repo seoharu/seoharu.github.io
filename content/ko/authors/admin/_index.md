@@ -113,14 +113,14 @@ skills:
         description: ''
         percent: 70
         icon: python
-        icon_pack: fas
+        icon_pack: fab
   - name: Web-oriented Languages
     items:
       - name: JavaScript
         description: ''
         percent: 30
         icon: js
-        icon_pack: fas
+        icon_pack: fab
       - name: TypeScript
         description: ''
         percent: 30
@@ -137,7 +137,7 @@ skills:
       - name: Vue.js
         description: ''
         icon: vuejs
-        icon_pack: fas
+        icon_pack: fab
   - name: DBMS
     items:
       - name: MySQL
@@ -149,7 +149,7 @@ skills:
         description: ''
         percent: 20
         icon: database
-        icon_pack: fas
+        icon_pack: fab
 
 hobbys:
   items:
