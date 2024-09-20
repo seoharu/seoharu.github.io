@@ -152,7 +152,7 @@ skills:
         icon: database
         icon_pack: fas
 skills:
-  name: Language
+  - name: Language
     items:
       - name: "Korean"
         description: "Native"
