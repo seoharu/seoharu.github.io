@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # 표시할 사용자 프로필 선택 (`content/authors/` 내 폴더명)
       username: admin
@@ -22,7 +22,7 @@ sections:
         color: black
         image:
           # `assets/media/`에 배경 이미지를 추가하세요.
-          filename: a.svg
+          # filename: a.svg
           filters:
             brightness: 1.0
           size: cover
