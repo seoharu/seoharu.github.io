@@ -68,7 +68,7 @@ sections:
       username: admin
       
     design:
-      columns: '1'
+      columns: '4'
       css_style: 'display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;'
 
   - block: features
