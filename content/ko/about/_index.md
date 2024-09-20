@@ -41,11 +41,24 @@ sections:
       title: "Interests"
       items:
         - name: "인공지능 (AI)"
+          icon: code-branch
+          icon_pack: fas
         - title: "데이터 분석 (Data Science)"
+          icon: database
+          icon_pack: fas
         - title: "개발 (Development)"
+          icon: laptop
+          icon_pack: fas
         - title: "의학, 의공학"
+          icon: brain
+          icon_pack: fas
         - title: "Medical AI & Brain"
-        - title: "Global"
+          icon: laptop-medical
+          icon_pack: fas
+        - title: "Algorithm"
+          icon: folder-tree
+          icon_pack: fas
+
     design:
       columns: 2
 
