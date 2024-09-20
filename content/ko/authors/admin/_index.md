@@ -124,6 +124,7 @@ skills:
         percent: 30
         css_class: 'col-12 col-md-3'
     css_class: 'col-12 col-md-3'
+    css_style: 'width: 25%;'
 
   - name: Deep Learning Frameworks
     items:
