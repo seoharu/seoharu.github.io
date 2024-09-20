@@ -97,20 +97,59 @@ languages:
         description: daily conversation 
 
 skills:
-  - name: Technical
+  - name: Programming Languages
     items:
-      - name: "Programming Languages"
-        description: "C, C++, Python"
-        percent: 80
-      - name: "Web-oriented Languages"
-        description: "JavaScript, TypeScript"
-      - name: "Deep Learning Frameworks"
-        description: "Python (TensorFlow, PyTorch), C++ (CUDA)"
-      - name: "Web Frameworks"
-        description: "Vue.js"
-      - name: "DBMS"
-        description: "MySQL, MongoDB"
-      - name: "AWS"
+      - name: C
+        description: ''
+        percent: 30
+        icon: c
+        icon_pack: fas
+      - name: C++
+        description: ''
+        percent: 40
+        icon: plus
+        icon_pack: fas
+      - name: Python
+        description: ''
+        percent: 70
+        icon: python
+        icon_pack: fas
+  - name: Web-oriented Languages
+    items:
+      - name: JavaScript
+        description: ''
+        percent: 30
+        icon: js
+        icon_pack: fas
+      - name: TypeScript
+        description: ''
+        percent: 30
+  - name: Deep Learning Frameworks
+    items:
+      - name: Python (TensorFlow, PyTorch)
+        description: ''
+        percent: 50
+      - name: C++ (CUDA)
+        description: ''
+        percent: 45
+  - name: Web Frameworks
+    items:
+      - name: Vue.js
+        description: ''
+        icon: vuejs
+        icon_pack: fas
+  - name: DBMS
+    items:
+      - name: MySQL
+        description: ''
+        percent: 20
+        icon: database
+        icon_pack: fas
+      - name: MongoDB
+        description: ''
+        percent: 20
+        icon: database
+        icon_pack: fas
 
 hobbys:
   items:
