@@ -1,4 +1,7 @@
 ---
+authors:
+  - admin
+  
 # Display name
 title: seoharu.github.io
 
@@ -9,9 +12,7 @@ name_pronunciation: 최서연
 first_name: SEOYEON
 last_name: CHOI
 
-authors:
-  - admin
-  
+
 # Status emoji
 status:
   icon: 💻
