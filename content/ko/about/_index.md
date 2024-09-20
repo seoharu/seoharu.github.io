@@ -69,7 +69,7 @@ sections:
       username: admin
       
     design:
-      columns: 4
+      columns: '1'
 
   - block: features
     content:
