@@ -73,22 +73,13 @@ sections:
       
     design:
         columns: '1'
-        css_style: |
-          #skills-section {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr); 
-            gap: 20px;
-                }
-          .row {
-            flex-wrap: nowrap
-          }
 
   - block: skills
     content:
       title: Language
       text: ''
       username: admin
-      
+
     design:
       columns: 1
 
