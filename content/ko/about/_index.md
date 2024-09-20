@@ -66,14 +66,14 @@ sections:
     content:
       title: "Skills"
       items:
-        - title: "데이터 분석 및 모델링"
-          percent: 50
-        - title: "Front-end"
-          percent: 40
-        - title: "Back-end"
-          percent: 10
-        - title: "AI"
-          percent: 30
+        - name: "데이터 분석 및 모델링"
+          description: 50
+        - name: "Front-end"
+          description: 40
+        - name: "Back-end"
+          description: 10
+        - name: "AI"
+          description: 30
     design:
       columns: 2
 
@@ -81,17 +81,17 @@ sections:
     content:
       title: "Languages & Technologies"
       items:
-        - title: "Programming Languages"
+        - name: "Programming Languages"
           description: "C, C++, Python"
-        - title: "Web-oriented Languages"
+        - name: "Web-oriented Languages"
           description: "JavaScript, TypeScript"
-        - title: "Deep Learning Frameworks"
+        - name: "Deep Learning Frameworks"
           description: "Python (TensorFlow, PyTorch), C++ (CUDA)"
-        - title: "Web Frameworks"
+        - name: "Web Frameworks"
           description: "Vue.js"
-        - title: "DBMS"
+        - name: "DBMS"
           description: "MySQL, MongoDB"
-        - title: "AWS"
+        - name: "AWS"
     design:
       columns: 2
 
@@ -99,24 +99,24 @@ sections:
     content:
       title: "Language Proficiency"
       items:
-        - title: "Korean"
+        - name: "Korean"
           description: "Native"
-        - title: "English"
+        - name: "English"
           description: "Academic (말레이시아에서 한 학기 교환학생)"
-        - title: "Spanish"
+        - name: "Spanish"
           description: "일상 회화 가능"
     design:
-      columns: 2
+      columns: 1
 
   - block: features
     content:
       title: "Hobbies"
       items:
-        - title: "독서"
-        - title: "악기 연주"
+        - name: "독서"
+        - name: "악기 연주"
           description: "피아노, 바이올린, 드럼"
-        - title: "전시회 및 공연 관람"
-        - title: "사진 촬영"
+        - name: "전시회 및 공연 관람"
+        - name: "사진 촬영"
           description: "바다, 하늘 등 풍경 사진 찍기"
     design:
       columns: 2
@@ -124,7 +124,7 @@ sections:
     content:
       title: "Favorites"
       items:
-        - title: "Cat"
+        - name: "Cat"
 
 ---
 
