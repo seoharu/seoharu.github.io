@@ -72,7 +72,7 @@ sections:
       username: admin
       css_style: |
         #skills-section > .row > col-md-6 {
-          width: 25% !important;
+          flex: 0 0 25% !important;
         }
       
     design:
