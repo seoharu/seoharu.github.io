@@ -26,7 +26,7 @@ role: Student / Undergraduate Research Student
 organizations:
   - name: JBNU - Division of Computer Science and Engineering
     url: https://csai.jbnu.ac.kr/csai/index.do
-  - name: MACS
+  - name: MACSLAB
     url: https://jbnu.macs.or.kr/
 
 major: 컴퓨터공학
@@ -42,6 +42,19 @@ interests:
   - 의학, 의공학
   - Medical AI & Brain
   - Global
+
+hobbies:
+  - 독서
+  - 악기 (피아노, 바이올린, 드럼)
+  - 전시회 및 공연 관람
+  - 풍경 사진 촬영
+  - 고양이 러버
+
+skills:
+  - 데이터 분석 및 모델링
+  - FrontEnd
+  - BackEnd
+  - AI
 
 education:
   courses:
@@ -68,6 +81,7 @@ skills:
     - name: AI
       description: ''
       percent: 30
+
 languages:
   - name: programming
     items: 
