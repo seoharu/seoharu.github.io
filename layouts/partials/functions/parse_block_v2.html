@@ -1,6 +1,6 @@
-{{ if $block.content.text }}
+{{ if .Content }}
   <!-- Render content related to text -->
-  {{ $block.content.text }}
+  {{ .Content }}
 {{ else }}
   <!-- Provide a default or skip rendering if text is nil -->
   No content available.
