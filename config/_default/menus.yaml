@@ -48,6 +48,10 @@ main:
     name: collaborative-project
     url: project
     weight: 330
+  - parent: Projects
+    name: research-project
+    url: project
+    weight: 340
   
   - name: Activity
     url: activity
