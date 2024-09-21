@@ -40,7 +40,7 @@ sections:
           link: 'https://sites.google.com/view/jbnu-alps'
         - name: HRC (우수학생 기숙형대학) 선발, 활동
           tag: club
-        - name: 2차년도 MIT-Harvard Scientist Online Program & 2차년도 Harvard Medical School Bio-Science Online Program 참여
+        - name: 2차년도 MIT&&Harvard Scientist Online Program & 2차년도 Harvard Medical School Bio-Science Online Program 참여
           tag: activity
         - name: 2022 동계 자기설계 도전활동 공모전 참여
           tag: activity
@@ -53,11 +53,11 @@ sections:
         - name: 2023년 동계 빅데이터 캠프 [딥러닝의 세계, 머신러닝의 미래] 참여, 수상
           description: AWS 실습 교육 및 딥레이서 경진대회 참여, 동상 수상
           tag: awards
-        - name: 침해사고 대응훈련 - 스피어피싱 대응 기본, 심화 교육
+        - name: 침해사고 대응훈련 스피어피싱 대응 기본, 심화 교육
           description: 2023 실전형 사이버훈련장 KISA
           tag: education
         - name: 2023 TBM 창업캠프 참여
-          description: 
+          description: 식재료 주의자들을 위한 식재료 분석 어플 개발
           tag: activity
 
 
