@@ -26,7 +26,7 @@ role: Student / Undergraduate Research Student
 organizations:
   - name: JBNU - Division of Computer Science and Engineering
     url: https://csai.jbnu.ac.kr/csai/index.do
-  - name: MACSLAB
+  - name: Medical AI & Computational Science (Macs) Lab
     url: https://jbnu.macs.or.kr/
 
 major: 컴퓨터공학
