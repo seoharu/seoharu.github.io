@@ -9,9 +9,7 @@ sections:
     content:
       title: ''
       username: admin
-      text: |- 
-        컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. 
-        {style="font-size: 1.2rem; color: #FFF;} 
+      
       
     design:
       background:

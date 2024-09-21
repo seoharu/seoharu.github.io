@@ -35,6 +35,20 @@ joint_major: 메디컬AI
 # Short bio (displayed in user profile at end of posts)
 bio: 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. 
 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yunseul@jbnu.ac.kr'
+  - icon: github
+    icon_pack: fas
+    link: https://github.com/seoharu
+  - icon: cv
+    icon_pack: ai
+    # link: 
+email: 'yunseul@jbnu.ac.kr'
+# Author's website URL
+website: "https://seoharu.github.io/"
+
 interests:
   - 인공지능 (AI)
   - 데이터 분석 (Data Science)
@@ -43,6 +57,12 @@ interests:
   - Medical AI & Brain
   - Global
 
+skills:
+  - 데이터 분석 및 모델링
+  - FrontEnd
+  - BackEnd
+  - AI
+
 hobbies:
   - 독서
   - 악기 (피아노, 바이올린, 드럼)
@@ -50,11 +70,7 @@ hobbies:
   - 풍경 사진 촬영
   - 고양이 러버
 
-skills:
-  - 데이터 분석 및 모델링
-  - FrontEnd
-  - BackEnd
-  - AI
+
 
 education:
   courses:
