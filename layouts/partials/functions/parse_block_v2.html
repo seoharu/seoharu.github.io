@@ -1,0 +1,7 @@
+{{ if $block.content.text }}
+  <!-- Render content related to text -->
+  {{ $block.content.text }}
+{{ else }}
+  <!-- Provide a default or skip rendering if text is nil -->
+  No content available.
+{{ end }}
