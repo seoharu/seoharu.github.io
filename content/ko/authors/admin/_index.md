@@ -40,7 +40,7 @@ social:
     icon_pack: fas
     link: 'mailto:yunseul@jbnu.ac.kr'
   - icon: github
-    icon_pack: fav
+    icon_pack: fab
     link: https://github.com/seoharu
   - icon: cv
     icon_pack: ai
