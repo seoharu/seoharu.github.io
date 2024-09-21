@@ -16,9 +16,10 @@ sections:
 
   - block: markdown
     content:
-      title: bio
+      title: About me
       text: |-
-        컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. 
+        어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 우선 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 연결짓고 융합해 복합적인 무언가를 만들어내는 것을 즐깁니다. 의학과 공학의 결합으로 의공학, 뇌공학 전반을 연구하는 삶을 살고 싶습니다. 의료인공지능의 응용 영역에서도 뇌공학과 뇌신경 쪽, 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다.
+        
 
   - block: features
     content:
@@ -100,6 +101,121 @@ sections:
           description: 전북대학교 (JBNU) 컴퓨터공학부
           date_start: '2022-03-02'
           date_end: '2025-08-31'
+
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      subtitle: 
+      # text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      filters:
+        # Folders to display content from
+        folders:
+          - project
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        kinds:
+          - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'tag'
+      sort_ascending: false
+      # Default portfolio filter button
+      # 0 corresponds to the first button below and so on
+      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Liitmus Renewal Project
+          tag: collaborate
+          link: 'https://litmus.jbnu.ac.kr/'
+        - name: 인공지능 전공 특화 교육 개인 프로젝트 - 'DATA-AI'
+          tag: side
+          link: 'https://github.com/seoharu/DATA-AI'
+        - name: 3D 공간정보 모델링 프로젝트 참여 
+          tag: collaborate
+        - name: [24-2 WSD] Github pages로 개인 소개 웹사이트 (포폴) 만들기
+          tag: course
+          link: 'https://seoharu.github.io/'
+        - name: [24-2 캡스톤] 전공과제 - 인공지능 학습 데이터셋 구축을 위한 지능형 온라인 레이블 툴 제작
+          tag: course
+        - name: MRI 영상 기반 암 진단 자동화를 위한 segmentation 모델 연구개발
+          description: MIL Mentoring 참여 - (1) 위 데이터셋을 사용한 medical image segmentation 기존연구(논문) 조사, (2) 최신 segmentation 모델 조사, (3)기존 모델 변경 및 성능 비교
+          tag: side
+    content:
+      title: Activities
+      subtitle: 
+      # text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      filters:
+        # Folders to display content from
+        folders:
+          - project
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        kinds:
+          - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'tag'
+      sort_ascending: false
+      # Default portfolio filter button
+      # 0 corresponds to the first button below and so on
+      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: ALPS (ALgorithm & Programming Study group) 부회장
+          tag: club
+          link: 'https://sites.google.com/view/jbnu-alps'
+        - name: HRC (우수학생 기숙형대학) 선발, 활동
+          tag: club
+        - name: 2차년도 MIT-Harvard Scientist Online Program & 2차년도 Harvard Medical School Bio-Science Online Program 참여
+          tag: activity
+        - name: 2022 동계 자기설계 도전활동 공모전 참여
+          tag: activity
+        - name: AUEA 교환학생 파견 @ Malaysia UM
+          tag: activity
+          description: 해외교환학습, 해외인턴십과정 (23-1학기)
+        - name: 각종 교육, 특강, 캠프 참여
+          description : 딥러닝 컴퓨터비전 교육, 파이썬 인공지능 코딩 특강, 
+          tag: education
+        - name: 2023년 동계 빅데이터 캠프 [딥러닝의 세계, 머신러닝의 미래] 참여, 수상
+          description: AWS 실습 교육 및 딥레이서 경진대회 참여, 동상 수상
+          tag: awards
+        - name: 침해사고 대응훈련 - 스피어피싱 대응 기본, 심화 교육
+          description: 2023 실전형 사이버훈련장 KISA
+          tag: education
+        - name: 2023 TBM 창업캠프 참여
+          description: 
+          tag: activity
+
+
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # Choose a listing view
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: true
+
+
 
 ---
 
