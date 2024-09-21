@@ -1,6 +1,6 @@
 ---
 # Display name
-title: seoharu.github.io
+title: CHOI SEOYEON
 
 # Name pronunciation (optional)
 name_pronunciation: 최서연
@@ -20,16 +20,15 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Student
-position: Undergraduate research student
+role: Student / Undergraduate Research Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: JBNU - Division of Computer Science and Engineering
     url: https://csai.jbnu.ac.kr/csai/index.do
-affiliations:
   - name: MACS
     url: https://jbnu.macs.or.kr/
+
 major: 컴퓨터공학
 joint_major: 메디컬AI
 
@@ -49,9 +48,10 @@ education:
     - course: M.S. in (전자.정보공학부(컴퓨터공학전공))
       institution: 전북대학교 (학석사 연계 과정)
       year: 2025.09 ~ 2027.02 (예정)
-    - course: B.S. in (컴퓨터공학부)
+    - course: B.S. in (컴퓨터공학부, 메디컬AI 연계전공)
       institution: 전북대학교
       year: 2022 ~ 진행 중 (2025.09 졸업 예정)
+
 
 skills:
   items:
