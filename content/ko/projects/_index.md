@@ -44,7 +44,7 @@ sections:
           link: 'https://github.com/seoharu/DATA-AI'
         - name: 3D 공간정보 모델링 프로젝트 참여 
           tag: collaborate
-         - name: [24-2 WSD] Github pages로 개인 소개 웹사이트 (포폴) 만들기
+        - name: [24-2 WSD] Github pages로 개인 소개 웹사이트 (포폴) 만들기
           tag: course
           link: 'https://seoharu.github.io/'
         - name: [24-2 캡스톤] 전공과제 '인공지능 학습 데이터셋 구축을 위한 지능형 온라인 레이블 툴 제작'
