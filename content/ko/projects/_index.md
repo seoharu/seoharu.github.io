@@ -42,8 +42,8 @@ sections:
         - name: 인공지능 전공 특화 교육 개인 프로젝트 'DATAI'
           tag: side
           link: 'https://github.com/seoharu/DATA-AI'
-        - name: 3D 공간정보 모델링 프로젝트 참여 
-          tag: collaborate
+        # - name: 3D 공간정보 모델링 프로젝트 참여 
+        #   tag: collaborate
         - name: [24-2 WSD] Github pages로 개인 소개 웹사이트 (포폴) 만들기
           tag: course
           link: 'https://seoharu.github.io/'
