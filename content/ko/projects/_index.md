@@ -61,6 +61,7 @@ sections:
           description: |-
             MIL Mentoring 참여 : (1) 위 데이터셋을 사용한 medical image segmentation 기존연구(논문) 조사, (2) 최신 segmentation 모델 조사, (3) 기존 모델 변경 및 성능 비교
           tag: side
-          file: content/ko/projects/MIL Mentoring 참여.pdf
+        #   pdf 파일 넣기 
+          
 
 ---
