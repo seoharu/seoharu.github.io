@@ -14,30 +14,11 @@ sections:
       background:
         color: blue
 
-  - block: about.avatar
-    id: about
+  - block: markdown
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin2
-      # Override your profile text from `authors/admin/_index.md`?
+      title: bio
       text: |-
         컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. 
-
-
-
-  - block: experience
-    content:
-      title: Education
-      items:
-        - title: M.S. in 전자.정보공학부(컴퓨터공학전공)
-          description: 전북대학교 (학석사 연계 과정)
-          date_start: '2025-09-02'
-          date_end: '2027-02-28'
-        - title: B.S. in (컴퓨터공학부)
-          description: 전북대학교 (JBNU) 컴퓨터공학부
-          date_start: '2022-03-02'
-          date_end: '2025-08-31'
-
 
   - block: features
     content:
@@ -106,6 +87,19 @@ sections:
       title: Favorites
       items:
         - name: Cat
+  
+  - block: experience
+    content:
+      title: Education
+      items:
+        - title: M.S. in 전자.정보공학부(컴퓨터공학전공)
+          description: 전북대학교 (학석사 연계 과정)
+          date_start: '2025-09-02'
+          date_end: '2027-02-28'
+        - title: B.S. in (컴퓨터공학부)
+          description: 전북대학교 (JBNU) 컴퓨터공학부
+          date_start: '2022-03-02'
+          date_end: '2025-08-31'
 
 ---
 
