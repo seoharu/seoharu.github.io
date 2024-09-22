@@ -108,16 +108,16 @@ sections:
           icon_pack: fas
           description:  <span style="font-size:90%">여러 개발 프로젝트에 참여했습니다.</span><br><br>
         - name: Medical AI
-          icon: connection
-          icon_pack: fab
+          icon: laptop-medical
+          icon_pack: fas
           description:  <span style="font-size:90%">메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
         - name: ALPS 부회장
-          icon: 🖥️
-          icon_pack: fab
+          icon: laptop-code
+          icon_pack: fas
           description:  <span style="font-size:90%">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
         - name: etc
           icon: globe
-          icon_pack: fab
+          icon_pack: fas
           description:  <span style="font-size:90%">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span><br><br>
 
 
