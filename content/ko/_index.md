@@ -168,4 +168,7 @@ sections:
         {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}
     design:
       columns: '1'
+    advanced:
+      css_style: "text-align: center;"
+
 ---
