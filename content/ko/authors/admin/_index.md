@@ -3,7 +3,7 @@
 title: CHOI SEOYEON
 
 # Name pronunciation (optional)
-name_pronunciation: 최서연
+name_pronunciation: 하고싶은 거 하면서 사는
 
 # Full name (for SEO)
 first_name: SEOYEON
