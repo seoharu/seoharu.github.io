@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:95%">저에게 용건이 있으시다면, 아래로 연락주시면 되겠습니다.</span> <br>
+        <br> <span style="font-size:95%">만약 저에게 용건이 있으시다면, 아래 이메일이나 전화번호를 통해 저에게 연락주세요.</span> <br>
       name: CHOI SEOYEON 최서연
       email: yunseul(at)jbnu.ac.kr
       phone: +82-10-8589-7591
