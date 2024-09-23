@@ -182,7 +182,7 @@ sections:
       flip_alt_rows: true
 
 
-  - block: collection
+  - block: portfolio
     id: activity
     content:
       title: Activities
