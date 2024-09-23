@@ -55,7 +55,7 @@ main:
     hasChildren: true
   - parent: Activity
     name: club
-    url: club
+    url: activity/club
     weight: 410
   - parent: Activity
     name: Awards
@@ -65,6 +65,10 @@ main:
     name: abroad
     url: activity
     weight: 430
+  - parent: Activity
+    name: education
+    url: activity/edu
+    weight: 440
     
   - name: Personal
     url: post
