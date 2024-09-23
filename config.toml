@@ -1,4 +1,1 @@
 ignoreLogs = ['error-remote-getcsv']
-
-[params]
-color_theme: "ocean"
