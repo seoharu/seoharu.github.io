@@ -49,7 +49,7 @@ main:
     url: project
     weight: 330
   
-  - name: Activity
+  - name: Activities
     url: activity
     weight: 400
     hasChildren: true
