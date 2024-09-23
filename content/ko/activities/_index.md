@@ -1,11 +1,11 @@
 ---
-title: "Activities"
+title: "Activity"
 type: landing
 
 
 sections:
   - block: portfolio
-    id: projects
+    id: activity
     content:
       title: Activities
       subtitle: 
