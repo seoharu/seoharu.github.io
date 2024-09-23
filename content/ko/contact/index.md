@@ -27,7 +27,7 @@ sections:
       contact_links:
         - icon: github
           icon_pack: fab
-          name: github
+          name: My Github
           link: 'https://github.com/seoharu'
         - icon: discord
           icon_pack: fab
