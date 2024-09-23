@@ -20,6 +20,7 @@ sections:
         postcode: '54896'
         country: 대한민국
         country_code: KO
+      directions: MACS LAB
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
