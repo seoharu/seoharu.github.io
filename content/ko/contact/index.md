@@ -24,11 +24,17 @@ sections:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
       directions: 
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      contact_links:
+        - icon: github
+          icon_pack: fab
+          name: github
+          link: 'https://github.com/seoharu'
+        - icon: discord
+          icon_pack: fab
+          name: Discord Me
+          link: 'discordapp.com/users/1080733192723644416'
+      
+       
     
       # Automatically link email and phone or display as text?
       autolink: true
