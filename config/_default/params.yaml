@@ -44,9 +44,9 @@ header:
     show_theme_chooser: true
 
   logo:
-    text: ""
+    text: "123"
     # Logo filename in `assets/media/` folder
-    filename: "logo.svg"
+    # filename: "logo.svg"
     
   button:
     enable: true
