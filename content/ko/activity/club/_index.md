@@ -10,9 +10,8 @@ sections:
         - title: ALPS
           date_start: '2022-03-01'
           description: |2-
-            2024 ALPS 부회장 <br>
-            Litmus Renewal Project https://litmus.jbnu.ac.kr/ 개발, 유지보수 참여
-          link: 'https://sites.google.com/view/jbnu-alps'
+            2024 ALPS(https://sites.google.com/view/jbnu-alps) 부회장 <br>
+            2024 Litmus Renewal Project https://litmus.jbnu.ac.kr/ 개발, 유지보수 참여
         - title: LIKELION
           date_start: '2024-03-01'
           description: |2-
