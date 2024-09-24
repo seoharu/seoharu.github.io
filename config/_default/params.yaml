@@ -10,7 +10,7 @@ appearance:
   font: native
   font_size: L
   # mode: light
-  color: sky
+  # color: sky
 
 # SEO
 marketing:
