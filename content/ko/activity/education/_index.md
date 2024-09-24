@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Activity-Education
 type: landing
 
 sections:
