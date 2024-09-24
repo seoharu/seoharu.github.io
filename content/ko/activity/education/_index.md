@@ -4,10 +4,10 @@ type: landing
 
 sections:
   - block: slider
-    content:
-      slides:
-        - title: My acitivity - education
-          content: Take a look at what I'm working or studying on...
+    content: 
+      slides: Take a look at what I'm working or studying on...
+        - title: 23-1 AUEA 교환학생 파견 
+          content: @Universiti Malaya(https://www.um.edu.my/student)
           align: center
           background:
             image:
