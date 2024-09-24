@@ -7,7 +7,7 @@ sections:
     content:
       slides: 
         - title: 23-1 AUEA 교환학생 파견 
-          content: @Universiti Malaya(https://www.um.edu.my/student)
+          content: (at) Universiti Malaya(https://www.um.edu.my/student)
           align: center
           background:
             image:
