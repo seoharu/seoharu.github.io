@@ -7,7 +7,7 @@ sections:
     id: activity
     content:
       title: My acitivites
-      subtitle: My subtitle
+      subtitle: 여러 활동들 중 교육과 관련된 내용입니다. 
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
@@ -39,7 +39,7 @@ sections:
           tag: Global
         - name: 알고리즘 과목 TA 활동
           tag: TA
-        - name: ALPS 멘토링 C 언어 멘토
+        - name: ALPS 스터디 C 언어 멘토
           tag: Mentoring
     design:
       # See Page Builder docs for all section customization options.
