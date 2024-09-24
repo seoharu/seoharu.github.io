@@ -67,7 +67,7 @@ main:
     weight: 430
   - parent: Activity
     name: education
-    url: education
+    url: activity/education
     weight: 440
     
   - name: Personal
