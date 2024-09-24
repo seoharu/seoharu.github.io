@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 
-  color: purple
 
 # Appearance
 appearance:
@@ -14,6 +13,8 @@ appearance:
   font_size: L
   # mode: light
   # color: sky
+
+color: purple
 
 # SEO
 marketing:
