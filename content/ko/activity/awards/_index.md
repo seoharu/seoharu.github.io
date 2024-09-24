@@ -2,6 +2,8 @@
 title: Activity-Awards
 type: landing
 
+# 카드 형식으로 
+
 sections:
   - block: accomplishments
     content:
