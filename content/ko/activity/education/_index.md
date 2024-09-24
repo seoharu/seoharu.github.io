@@ -10,16 +10,6 @@ sections:
       subtitle: 여러 활동들 중 교육과 관련된 내용입니다. 
       text: ''
       filters:
-        # Folders to display content from
-        folders:
-          - activity
-        # Only show content with these tags
-        tags: []
-        # Exclude content with these tags
-        exclude_tags: []
-        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
-        kinds:
-          - page
       # Field to sort by, such as Date or Title
       sort_by: 'tag'
       sort_ascending: false
