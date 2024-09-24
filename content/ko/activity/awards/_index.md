@@ -3,29 +3,30 @@ title: Activity-Awards
 type: landing
 
 sections:
-  - block: accomplishments
-    content:
-      title: Awards & Certification
-      subtitle: ''
-      text: ''
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2022
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: 2023년 동계 빅데이터 캠프의 AWS 딥레이서 경진대회
-          certificate_url: ''
-          date: '2024-01-27'
-          description: '동상'
-          icon: coursera
-          organization: 빅데이터 혁신융합대학 사업단
-          organization_url: ''
-          url: ''
+    - block: accomplishments
+        content:
+        title: Awards & Certification
+        subtitle: ''
+        text: ''
+        # Date format: https://wowchemy.com/docs/customization/#date-format
+        date_format: Jan 2022
+        # Accomplishments.
+        #   Add/remove as many `items` blocks below as you like.
+        #   `title`, `organization`, and `date_start` are the required parameters.
+        #   Leave other parameters empty if not required.
+        #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+        items:
+            - title: 2023년 동계 빅데이터 캠프의 AWS 딥레이서 경진대회
+            certificate_url: ''
+            date: '2024-01-27'
+            description: '동상'
+            icon: coursera
+            organization: 빅데이터 혁신융합대학 사업단
+            organization_url: ''
+            url: ''
         
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+        design:
+        # Choose how many columns the section has. Valid values: '1' or '2'.
+        columns: '2'
 ---
+
