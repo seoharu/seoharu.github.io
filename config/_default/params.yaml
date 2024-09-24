@@ -4,17 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 
-color: emerald
 
 # Appearance
 appearance:
-  theme_night: maximum
-  theme_day: maximum
+  theme_night: minimum
+  theme_day: minimum
   font: native
   font_size: L
-  # color: purple
-  # mode: light
-  # color: sky
 
 # SEO
 marketing:
