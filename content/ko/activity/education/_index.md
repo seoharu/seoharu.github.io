@@ -10,9 +10,6 @@ sections:
       subtitle: 여러 활동들 중 교육과 관련된 내용입니다. 
       text: ''
       filters:
-        # Folders to display content from
-        folders:
-          - activity/education
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
