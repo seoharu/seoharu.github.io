@@ -36,7 +36,7 @@ header:
     enable: true
     blox: "navbar"
     align: "right"
-    show_logo: false
+    show_logo: true
     fixed_to_top: true
     show_language: true
     show_day_night: true
@@ -48,11 +48,6 @@ header:
     # Logo filename in `assets/media/` folder
     # filename: "logo.svg"
     
-  button:
-    enable: true
-    text: "more"
-    url: "https://github.com/seoharu/seoharu.github.io"
-
 # Site footer
 footer:
   copyright:
