@@ -1,0 +1,32 @@
+<section id="{{ .Params.id }}" class="portfolio py-5">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-8 text-center">
+          <h2>{{ .Params.content.title }}</h2>
+          <p class="lead">{{ .Params.content.subtitle }}</p>
+        </div>
+      </div>
+  
+      <div class="row mt-5">
+        {{ range where .Site.Pages "Section" "project" }}
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card shadow-sm">
+              <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}">
+              <div class="card-body">
+                <h5 class="card-title">{{ .Title }}</h5>
+                <p class="card-text">{{ .Params.description }}</p>
+                <a href="{{ .Permalink }}" class="btn btn-primary">더 보기</a>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+    <div class="btn-group mb-3" role="group" aria-label="Portfolio Filters">
+        {{ range .Params.content.buttons }}
+          <button type="button" class="btn btn-outline-primary" data-filter="{{ .tag }}">{{ .name }}</button>
+        {{ end }}
+      </div>
+      
+  </section>
+  
