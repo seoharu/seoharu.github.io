@@ -7,6 +7,35 @@ title: seoharu.github.io # Website name
 baseURL: 'https://seoharu.github.io/' # Website URL
 
 ############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options
+  - _target:
+      path: /blog/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Blog section options
+  - _target:
+      path: /blog/*
+      kind: section
+    # Set the listing view
+    view: date-title-summary
+
+############################
 ## LANGUAGE
 ############################
 
@@ -35,7 +64,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -51,25 +80,10 @@ markup:
   _merge: deep
   highlight:
     lineNos: false
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
 security:
   _merge: deep
 sitemap:
   _merge: deep
-
-
-
-############################
-## CUSTOM CSS
-############################
 
 params:
   customCSS: ["css/style.css"]

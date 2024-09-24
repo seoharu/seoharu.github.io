@@ -1,9 +1,11 @@
-name = "Research Group"
+name = "Landing Page Builder"
 license = "MIT"
-licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
-description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
-homepage = "https://github.com/wowchemy/starter-hugo-research-group"
-demosite = "https://research-group.netlify.app/"
+licenselink = "https://github.com/HugoBlox/theme-landing-page/blob/main/LICENSE.md"
+description = "Easily build your landing page with pre-designed blocks. Create beautiful startup websites, marketing websites, and landing pages to accelerate your business growth."
+
+homepage = "https://github.com/HugoBlox/theme-landing-page"
+demosite = "https://theme-landing-page.netlify.app/"
+
 
 tags = ["academic",
         "university",
@@ -41,6 +43,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form", "secure", "fast", "search", "dark mode", "widgets", "secure", "fast", "search", "dark mode", "widgets"
             ] 
 
+# If the theme has a single author
 [author]
   name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  homepage = "https://georgecushen.com/"
