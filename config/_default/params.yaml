@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  theme_night: minimal
-  theme_day: minimal
+  theme_night: maxinum
+  theme_day: maxinum
   font: native
   font_size: L
   color: purple
@@ -17,7 +17,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'student'
     person_name: 'CHOI SEOYEON'
     description: 'seoharu'
     twitter: 'GetResearchDev'
