@@ -30,7 +30,7 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: World-Class Semiconductor Lab
+        - title: 24-1 ALPS 멘토링 C 언어 멘토 
           content: 'Just opened last month!'
           align: right
           background:
@@ -42,11 +42,11 @@ sections:
                 brightness: 0.5
             position: center
             color: '#333'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Join Us
-            url: ../contact/
+        #   link:
+        #     icon: graduation-cap
+        #     icon_pack: fas
+        #     text: Join Us
+        #     url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
