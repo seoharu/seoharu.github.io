@@ -9,6 +9,7 @@ appearance:
   theme_day: minimal
   font: native
   font_size: L
+  color: purple
   # mode: light
   # color: sky
 
