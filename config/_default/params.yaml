@@ -36,7 +36,7 @@ header:
     enable: true
     blox: "navbar"
     align: "right"
-    show_logo: true
+    show_logo: false
     fixed_to_top: true
     show_language: true
     show_day_night: true
