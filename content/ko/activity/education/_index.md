@@ -8,7 +8,7 @@ sections:
     content:
       title: My acitivites
       subtitle: 여러 활동들 중 교육과 관련된 내용입니다. 
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: ''
       filters:
         # Folders to display content from
         folders:
