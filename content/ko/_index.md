@@ -191,7 +191,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - Activity
+          - activity
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
