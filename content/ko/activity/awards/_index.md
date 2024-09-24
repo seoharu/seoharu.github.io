@@ -17,14 +17,15 @@ sections:
     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
     items:
         - title: 2023년 동계 빅데이터 캠프의 AWS 딥레이서 경진대회
-        certificate_url: ''
-        date: '2024-01-27'
-        description: '동상'
-        icon: coursera
-        organization: 빅데이터 혁신융합대학 사업단
-        organization_url: ''
-        url: ''
-    
+          certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          url: ''
+          
     design:
     # Choose how many columns the section has. Valid values: '1' or '2'.
     columns: '2'
