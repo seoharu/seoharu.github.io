@@ -3,13 +3,15 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+
+  color: purple
+
 # Appearance
 appearance:
   theme_night: maxinum
   theme_day: maxinum
   font: native
   font_size: L
-  color: purple
   # mode: light
   # color: sky
 
