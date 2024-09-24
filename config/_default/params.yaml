@@ -8,8 +8,8 @@ color: purple
 
 # Appearance
 appearance:
-  theme_night: minimal
-  theme_day: minimal
+  theme_night: maximum
+  theme_day: maximum
   font: native
   font_size: L
   color: purple
