@@ -35,7 +35,7 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: "right"
     show_logo: true
     fixed_to_top: true
     show_language: true
