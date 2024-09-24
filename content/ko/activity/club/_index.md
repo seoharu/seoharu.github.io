@@ -12,6 +12,11 @@ sections:
           description: |2-
             2024 ALPS 부회장
             Litmus Renewal Project 개발, 유지보수 참여
+        - title: LIKELION
+          date_start: '2024-03-01'
+          description: |2-
+            2024-1 '멋쟁이 사자처럼' 운영진
+            
 
 ---
 
