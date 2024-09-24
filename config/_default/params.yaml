@@ -49,7 +49,7 @@ header:
     logo:
       text: "SEOYEON"
       # Logo filename in `assets/media/` folder
-      # filename: "logo.svg"
+      filename: "logo.svg"
     button:
       enable: true
       text: "more"
