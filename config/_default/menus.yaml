@@ -58,17 +58,13 @@ main:
     url: activity/club
     weight: 410
   - parent: Activity
-    name: Awards
+    name: activity/awards
     url: activity
     weight: 420
   - parent: Activity
-    name: abroad
-    url: activity
-    weight: 430
-  - parent: Activity
     name: education
     url: activity/education
-    weight: 440
+    weight: 430
     
   - name: Personal
     url: post
