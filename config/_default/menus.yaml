@@ -58,8 +58,8 @@ main:
     url: activity/club
     weight: 410
   - parent: Activity
-    name: activity/awards
-    url: activity
+    name: Awards
+    url: activity/awards
     weight: 420
   - parent: Activity
     name: education
