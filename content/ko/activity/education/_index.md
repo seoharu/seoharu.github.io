@@ -12,7 +12,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - activity
+          - about
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
@@ -46,7 +46,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # Choose a listing view
-      view: community/custom_card
+      view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ---
