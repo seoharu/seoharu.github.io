@@ -2,7 +2,7 @@
 title: My Activities
 
 # Listing view
-view: showcase
+view: community/custom_card
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
