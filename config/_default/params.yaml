@@ -43,6 +43,15 @@ header:
     show_search: true
     show_theme_chooser: true
 
+  logo:
+    text: ""
+    # Logo filename in `assets/media/` folder
+    filename: "logo.svg"
+    
+  button:
+    enable: true
+    text: "more"
+    url: "https://github.com/seoharu/seoharu.github.io"
 
 # Site footer
 footer:
