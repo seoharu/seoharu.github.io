@@ -35,7 +35,7 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "right"
+    align: right
     show_logo: true
     fixed_to_top: true
     show_language: true
@@ -44,7 +44,7 @@ header:
     show_theme_chooser: true
 
   logo:
-    text: "123"
+    text: "CHOI SEOYEON"
     # Logo filename in `assets/media/` folder
     # filename: "logo.svg"
     
