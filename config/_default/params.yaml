@@ -16,9 +16,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: 'student'
-    person_name: 'CHOI SEOYEON'
-    description: 'seoharu'
+    local_business_type: ''
+    org_name: ''
+    description: 'seoharu.github.io'
     twitter: 'GetResearchDev'
   # analytics:
   #   google_analytics: ''
@@ -29,6 +29,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    bing: ''
 
 # Site header
 header:
