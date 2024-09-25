@@ -7,10 +7,11 @@
 
 # Appearance
 appearance:
-  theme_night: minimum
-  theme_day: minimum
+  theme_night: custom
+  theme_day: custom
   font: native
   font_size: L
+  color: red
 
 # SEO
 marketing:
