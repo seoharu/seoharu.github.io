@@ -1,34 +1,66 @@
 # Theme metadata
 name = "Custom"
 
-# Is theme light or dark?
 [light]
+  # Primary
+  primary = "#1565c0"
 
-# Primary
-primary = "#1565c0"
+  # Links
+  link = "#3273dc"
+  link_hover = "#2b2b2b"
 
-# Menu
-menu_primary = "#00f"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#2962ff"
+  menu_title = "#2b2b2b"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
 
+  # Background
+  background = "#fff"
+
+  # Cards
+  card_text = "#000"
+  card_background = "#fff"
+  card_text_color_in_site_footer = "#000"
+  card_border_color = "rgba(0,0,0,0.1)"
+
+  # Footer
+  footer_text = "#000"
+  footer_link = "#000"
+  footer_link_hover = "#000"
 
 [dark]
+  # Primary
+  primary = "#1976d2"
 
-# Primary
-primary = "#1565c0"
+  # Links
+  link = "#bbdefb"
+  link_hover = "#fff"
 
-# Menu
-menu_primary = "#f00"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+  # Menu
+  menu_primary = "#000"
+  menu_text = "#fff"
+  menu_text_active = "#1976d2"
+  menu_title = "#fff"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+  # Home sections
+  home_section_odd = "rgb(20, 20, 20)"
+  home_section_even = "rgb(28, 28, 28)"
+
+  # Background
+  background = "#000"
+
+  # Cards
+  card_text = "#fff"
+  card_background = "#333"
+  card_text_color_in_site_footer = "#fff"
+  card_border_color = "rgba(255,255,255,0.15)"
+
+  # Footer
+  footer_text = "#fff"
+  footer_link = "#fff"
+  footer_link_hover = "#fff"
