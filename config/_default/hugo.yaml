@@ -84,6 +84,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-params:
-  customCSS: ["css/style.css"]
