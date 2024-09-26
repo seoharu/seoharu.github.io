@@ -15,7 +15,7 @@ sections:
       text: ''
       # Display content from the `content/post/` folder
         folders:
-          - fields
+          - research/fields
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
