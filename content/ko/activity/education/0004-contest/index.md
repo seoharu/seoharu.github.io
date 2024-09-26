@@ -1,7 +1,7 @@
 ---
-title: "여러 교육 및 특강 참여"
+title: "여러 대회 참여"
 description: ""
-tags: ["special lecture"]
+tags: ["contest"]
 date: "2022-03-01"
 ---
 
