@@ -1,5 +1,5 @@
 ---
-title: My Activities
+title: My Activities related Education
 
 # Listing view
 view: community/custom_card
