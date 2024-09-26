@@ -22,7 +22,7 @@ sections:
         align: center
         background:
           image:
-            filename: 
+            filename: me.png
             filters:
               brightness: 0.4
           position: center
