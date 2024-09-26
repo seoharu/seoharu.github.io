@@ -1,25 +1,2 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
 
-<head>
-    <!-- 기본 메타 태그 -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
-    <meta name="keywords" content="{{ .Params.keywords | default .Site.Params.keywords }}">
-    <meta name="author" content="{{ .Params.author | default .Site.Params.author }}">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-  
-    <!-- 오픈 그래프 메타 태그 (Open Graph Meta Tags) -->
-    <meta property="og:title" content="{{ .Title }}">
-    <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}">
-    <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ .Params.image | default .Site.Params.image }}">
-  
-    <!-- 트위터 카드 메타 태그 (Twitter Card Meta Tags) -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ .Title }}">
-    <meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}">
-    <meta name="twitter:image" content="{{ .Params.image | default .Site.Params.image }}">
-  </head>
-  
