@@ -3,11 +3,9 @@ banner:
   caption: ''
   image: 'field.jpg'
 
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'field.jpg'
 ---
 
-+++
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
