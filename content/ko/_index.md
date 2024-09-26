@@ -64,7 +64,7 @@ sections:
           url: https://jbnu.macs.or.kr/
 
       - title: <span style="font-size:70%">Project</span>
-        content: <span style="font-size:70%">데이터 과학, 모델링 및 렌더링 등 여러 프로젝트와 의료ai 연구 진행</span>
+        content: <span style="font-size:70%">데이터 과학, 모델링 및 렌더링 등 여러 프로젝트와 의료AI 연구 진행</span>
         align: center
         background:
           image:
