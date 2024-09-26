@@ -14,7 +14,6 @@ sections:
       subtitle: 여러 연구 주제 분야
       text: ''
       # Display content from the `content/post/` folder
-      filters:
         folders:
           - fields
     design:
