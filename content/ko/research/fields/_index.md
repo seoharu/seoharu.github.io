@@ -1,7 +1,7 @@
 ---
 banner:
   caption: ''
-  image: 'research.jpg'
+  image: 'field.jpg'
 
 ---
 
