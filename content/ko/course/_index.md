@@ -1,6 +1,5 @@
 ---
-title: Collaborate Projects
-
+title: Course Projects
 # Listing view
 view: community/custom_card
 
