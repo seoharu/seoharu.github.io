@@ -149,8 +149,8 @@ sections:
       order: desc
       filters:
         folders:
-          - acitivty
-          - course
+          - activity/education
+          - education
           - side
     design:
       view: community/custom_card
