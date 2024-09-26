@@ -73,21 +73,20 @@ sections:
 
   - block: collection
     content:
-      title: Projects
+      id: section-1
+      title: Various Activities
       subtitle:
       text:
-      count: 2
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+      count: 30
       offset: 0
       order: desc
-      page_type: post
+      filters:
+        folders:
+          - collaborate/Litmus Renewal Project
+          - researchproject
+          - course/CAPSTONE
     design:
-      view: compact
+      view: card
       columns: '2'
 
   - block: tag_cloud
