@@ -11,12 +11,11 @@ appearance:
   theme_day: custom
   font: native
   font_size: L
-  color: red
 
 # SEO
 marketing:
   seo:
-    site_type: "Person"
+    site_type: Person
     local_business_type: ''
     org_name: 'hi'
     description: 'seoharu.github.io : 최서연의 깃허브페이지'
@@ -37,7 +36,7 @@ header:
   navbar:
     enable: true
     blox: "my-navbar"
-    align: right
+    align: c
     show_logo: true
     fixed_to_top: true
     show_language: true
@@ -45,10 +44,6 @@ header:
     show_search: true
     show_theme_chooser: true
 
-  logo:
-    text: "CHOI SEOYEON"
-    # Logo filename in `assets/media/` folder
-    # filename: "logo.svg"
     
 # Site footer
 footer:
