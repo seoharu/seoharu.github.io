@@ -28,7 +28,7 @@ main:
 
   - parent: Research
     name: Research Projects
-    url: research
+    url: research/projects
     weight: 210
 
   - parent: Research
