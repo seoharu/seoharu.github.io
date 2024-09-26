@@ -29,7 +29,11 @@ sections:
           description: |2-
             2023학년도 독토리 북클럽 활동 <br>
             우수 활동 그룹으로 선정 <br>
-            
+ 
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'research.jpg'
 
 ---
 
