@@ -151,9 +151,9 @@ sections:
       order: desc
       filters:
         folders:
-          - side
-          - course
-          - collaborate
+          - side/DATAI
+          - course/CAPSTONE
+          - collaborate/Litmus Renewal Projectt
       page_type: 
     design:
       view: community/custom_card
