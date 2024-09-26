@@ -151,8 +151,8 @@ sections:
         folders:
           - collaborate
           - side
-          - activity/education
-          - projects
+          - activity
+          - course
     design:
       view: community/custom_card
       columns: '2'
