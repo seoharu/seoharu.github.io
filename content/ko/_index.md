@@ -34,7 +34,7 @@ sections:
           text-color: '#000'
           url: contact
 
-      - title: <span style="font-size:70%">Majort</span>
+      - title: <span style="font-size:70%">Bio</span>
         content: <span style="font-size:70%">Major - 컴퓨터공학부<br> Joint Major - 메디컬AI 연계전공</span>
         align: center
         background:
