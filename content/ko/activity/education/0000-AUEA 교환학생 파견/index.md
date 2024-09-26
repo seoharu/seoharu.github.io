@@ -5,10 +5,11 @@ tags: ["Global"]
 date: "2023-02-01"
 ---
 
-6개월 동안 말레이시아에서 생활, Universiti Malalya에서 공부 <br>
+6개월 동안 말레이시아에서 생활하며 Universiti Malalya(UM)에서 공부했습니다. 
+
 
 <br>
-__수강 과목__<br>
+__수강 과목__ <br>
 - COMPUTATIONAL THINKING WITH ROBOTICS <br>
 - ARTIFICIAL ORGANS & BIOTRANSPORT <br>
 - COMPUTER PROGRAMMING <br>
