@@ -147,10 +147,6 @@ sections:
       count: 3
       offset: 0
       order: desc
-      filters:
-        folders:
-          - collaborate
-          - projects
     design:
       view: community/custom_card
       columns: '2'
