@@ -1,6 +1,10 @@
+
 ---
-title: 인공지능 (AI) 연구 주제
-date: 2024-09-01
+title: "인공지능 (AI) 연구 주제"
+description: ""
+tags: ["fields"]
+date: "2024-04-01"
+
 ---
 
 __사용하는 주요 기술__
