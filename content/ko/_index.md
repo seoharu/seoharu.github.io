@@ -34,23 +34,41 @@ sections:
           text-color: '#000'
           url: contact
 
+      - title: <span style="font-size:70%">Majort</span>
+        content: <span style="font-size:70%">Major - 컴퓨터공학부<br> Joint Major - 메디컬AI 연계전공</span>
+        align: center
+        background:
+          image:
+            filename: medical.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        
+
       - title: <span style="font-size:70%">Medical AI</span>
         content: <span style="font-size:70%">Medical AI 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
         align: center
         background:
           image:
-            filename: 
+            filename: lab.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: labtop-medical
+          icon_pack: fas
+          text: <span style="font-size:60%">MacsLAB</span>
+          text-color: '#000'
+          url: https://jbnu.macs.or.kr/
 
       - title: <span style="font-size:70%">Project</span>
         content: <span style="font-size:70%">여러 프로젝트 및 연구 진행</span>
         align: center
         background:
           image:
-            filename: 
+            filename: project.jpg
             filters:
               brightness: 0.4
           position: center
@@ -61,7 +79,7 @@ sections:
         align: center
         background:
           image:
-            filename: 
+            filename: development.jpg
             filters:
               brightness: 0.4
           position: center
@@ -72,7 +90,7 @@ sections:
         align: center
         background:
           image:
-            filename: 
+            filename: malaysia.jpg
             filters:
               brightness: 0.4
           position: center
