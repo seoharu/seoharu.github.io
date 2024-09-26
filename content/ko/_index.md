@@ -47,7 +47,7 @@ sections:
         
 
       - title: <span style="font-size:70%">Medical AI</span>
-        content: <span style="font-size:70%">Medical AI 연계 전공 및 관련 랩실 학부연구생<span style="font-size:70%">
+        content: <span style="font-size:70%">의료 인공지능 랩실 학부연구생<span style="font-size:70%">
         align: center
         background:
           image:
@@ -64,7 +64,7 @@ sections:
           url: https://jbnu.macs.or.kr/
 
       - title: <span style="font-size:70%">Project</span>
-        content: <span style="font-size:70%">여러 프로젝트 및 연구 진행</span>
+        content: <span style="font-size:70%">데이터 과학, 모델링 및 렌더링 등 여러 프로젝트와 의료ai 연구 진행</span>
         align: center
         background:
           image:
