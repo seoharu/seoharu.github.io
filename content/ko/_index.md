@@ -159,7 +159,7 @@ sections:
   - block: collection
     content:
       id: section-2
-      title: Activities
+      title: Research Projects
       subtitle:
       text:
       count: 30
