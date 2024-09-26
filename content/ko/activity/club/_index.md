@@ -18,6 +18,17 @@ sections:
           date_start: '2024-03-01'
           description: |2-
             2024-1 '멋쟁이 사자처럼' 운영진
+        - title: HRC
+          date_start: '2022-03-01'
+          description: |2-
+            전북대학교 우수학생 기숙형 대학 Honors Residential College, HRC <br>
+            여러 독서 활동 참여, AUEA 파견으로 말레이시아 교환학생 <br>
+        - title: 독토리
+          date_start: '2023-09-01'
+          date_end: '2023-12-29'
+          description: |2-
+            2023학년도 독토리 북클럽 활동 <br>
+            우수 활동 그룹으로 선정 <br>
             
 
 ---
