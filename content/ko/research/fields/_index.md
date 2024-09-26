@@ -12,8 +12,9 @@ sections:
     content:
       title: Research Fields
       subtitle: 여러 연구 주제 분야
-      text: ''
+      text: ""
       # Display content from the `content/post/` folder
+      filters:
         folders:
           - research/fields
     design:
