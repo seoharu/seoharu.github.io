@@ -1,4 +1,3 @@
-
 ---
 title: "Litmus Renewal Project"
 description: 'https://github.com/seoharu/JBNU-Litmus'
