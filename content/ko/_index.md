@@ -154,7 +154,7 @@ sections:
           - activity
           - course
     design:
-      view: community/custom_card
+      view: showcase
       columns: '2'
 
 
