@@ -33,7 +33,7 @@ sections:
         - icon: discord
           icon_pack: fab
           name: Discord Me
-          link: 'discordapp.com/users/1080733192723644416'
+          link: discordapp.com/users/1080733192723644416
       
        
     
