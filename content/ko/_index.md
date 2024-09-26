@@ -151,8 +151,24 @@ sections:
         folders:
           - collaborate
           - side
-          - activity
           - course
+    design:
+      view: card
+      columns: '2'
+  
+  - block: collection
+    content:
+      id: section-1
+      title: Projects
+      subtitle:
+      text:
+      count: 30
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - activity
+          - education
     design:
       view: showcase
       columns: '2'
