@@ -1,5 +1,11 @@
 ---
-title: "Side Projects"
----
+title: Side Projects
 
-이 폴더에는 개인 사이드 프로젝트에 대한 내용이 들어갑니다.
+# Listing view
+view: community/custom_card
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'side.jpg'
+---
