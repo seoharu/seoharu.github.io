@@ -35,7 +35,7 @@ sections:
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'research.jpg'
+  image: 'featured.jpg'
 
 ---
 
