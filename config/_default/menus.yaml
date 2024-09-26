@@ -33,7 +33,7 @@ main:
 
   - parent: Research
     name: Fields
-    url: research/field
+    url: research/fields
     weight: 220
 
 
