@@ -144,9 +144,12 @@ sections:
       title: Projects
       subtitle:
       text:
-      count: 30
+      count: 3
       offset: 0
       order: desc
+      filters:
+        folders:
+          - collaborate
     design:
       view: community/custom_card
       columns: '2'

@@ -1,7 +1,6 @@
 ---
 title: 3D 공간정보 모델링 프로젝트 참여
 summary: https://github.com/seoharu/3d_gis_modeling
-type: project
 draft: false
 tags:
   - collaborate
