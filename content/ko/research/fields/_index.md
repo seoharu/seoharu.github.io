@@ -1,4 +1,4 @@
-<!-- ---
+---
 # Page title
 title: My page
 # Page type - we want a landing page (such as a homepage)
@@ -24,9 +24,9 @@ sections:
       view: list
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
---- -->
-
 ---
+
+<!-- ---
 title: Research Fiedls
 
 # Listing view
@@ -36,4 +36,4 @@ view: community/custom_list
 banner:
   caption: ''
   image: 'research.jpg'
----
+--- -->
