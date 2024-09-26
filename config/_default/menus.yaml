@@ -27,7 +27,7 @@ main:
     hasChildren: true
 
   - parent: Research
-    name: content
+    name: contents
     url: research/contents
     weight: 210
 
