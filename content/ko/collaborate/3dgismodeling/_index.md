@@ -1,6 +1,6 @@
 ---
 title: "3D 공간정보 모델링 프로젝트 참여"
-description: 'https://github.com/seoharu/3d_gis_modeling'
+description: "https://github.com/seoharu/3d_gis_modeling"
 tags: ["collaborate"]
 date: "2022-12-01"
 featured: true
