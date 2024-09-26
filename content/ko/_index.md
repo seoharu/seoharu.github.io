@@ -149,7 +149,6 @@ sections:
       order: desc
       filters:
         folders:
-          - activity/education
           - collaborate
           - projects
     design:
