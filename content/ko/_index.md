@@ -158,8 +158,25 @@ sections:
   
   - block: collection
     content:
-      id: section-1
-      title: Projects
+      id: section-2
+      title: Activities
+      subtitle:
+      text:
+      count: 30
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - researchproject
+          - 
+    design:
+      view: compact
+      columns: '2'
+
+  - block: collection
+    content:
+      id: section-2
+      title: Activities
       subtitle:
       text:
       count: 30

@@ -22,14 +22,20 @@ main:
   #   weight: 120
 
   - name: Research
-    url: field
+    url: research
     weight: 200
     hasChildren: true
 
   - parent: Research
-    name: Research Fields
-    url: field
+    name: Research Projects
+    url: research
     weight: 210
+
+  - parent: Research
+    name: Research Fields
+    url: research/field
+    weight: 220
+
 
   - name: Projects
     url: project
