@@ -24,6 +24,7 @@ sections:
           description: |2-
             전북대학교 우수학생 기숙형 대학 Honors Residential College, HRC <br>
             AUEA 파견, 6개월 동안 말레이시아 교환학생으로 수학<br>
+            HRC 디지털역량강화 프로그램- Data Science Projects (네이버 부스트캠프) 참여 <br>
             여러 독서활동 참여, 리더 <br>
         - title: 독토리
           date_start: '2023-09-01'
