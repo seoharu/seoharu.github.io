@@ -149,7 +149,7 @@ sections:
       order: desc
       filters:
         folders:
-          - collaborate
+          - acitivty
           - course
           - side
     design:
