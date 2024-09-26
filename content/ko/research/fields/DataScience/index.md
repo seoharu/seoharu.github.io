@@ -1,6 +1,9 @@
 ---
-title: Data Science 연구 주제
-date: 2024-09-01
+title: "Data Science 연구 주제"
+description: ""
+tags: ["fields"]
+date: "2024-04-01"
+
 ---
 
 
