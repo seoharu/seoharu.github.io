@@ -144,7 +144,7 @@ sections:
       title: Projects
       subtitle:
       text:
-      count: 3
+      count: 30
       offset: 0
       order: desc
     design:
