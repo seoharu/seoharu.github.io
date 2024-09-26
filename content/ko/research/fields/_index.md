@@ -1,4 +1,4 @@
----
+<!-- ---
 # Page title
 title: My page
 # Page type - we want a landing page (such as a homepage)
@@ -8,7 +8,7 @@ type: landing
 sections:
   # A section to display blog posts
   - block: collection
-    id: section-1
+    id: section-2
     content:
       title: Research Fields
       subtitle: 여러 연구 주제 분야
@@ -24,7 +24,7 @@ sections:
       view: list
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
----
+--- -->
 
 <!-- ---
 title: Research Fiedls
