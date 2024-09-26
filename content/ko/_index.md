@@ -124,17 +124,18 @@ sections:
 
   - block: collection
     content:
-      title: Project
+      id: section-1
+      title: Projects
       subtitle:
       text:
       count: 3
+      offset: 0
+      order: desc
       filters:
         folders:
           - side
           - course
           - collaborate
-      offset: 0
-      order: desc
       page_type: 
     design:
       view: community/custom_card

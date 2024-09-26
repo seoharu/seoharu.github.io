@@ -2,6 +2,8 @@
 title: "Projects"
 type: landing
 
+# Listing view
+view: community/custom_card
 
 sections:
   - block: portfolio
