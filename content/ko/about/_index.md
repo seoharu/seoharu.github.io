@@ -73,7 +73,7 @@ sections:
 
   - block: collection
     content:
-      title: Notifications & News
+      title: Projects
       subtitle:
       text:
       count: 2
@@ -89,7 +89,7 @@ sections:
     design:
       view: compact
       columns: '2'
-      
+
   - block: tag_cloud
     content:
       title: My tags
