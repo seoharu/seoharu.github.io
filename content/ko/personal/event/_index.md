@@ -1,36 +1,63 @@
 ---
-title: ETC
+title: Event
 type: landing
 
 sections:
-  - block: features
+  - block: slider
     content:
-      title: My Favorites
-      subtitle: Section subtitle
-      text: Section text
-      items:
-        - name: Cat
-          description: 99%
-          icon: cat
-          icon_pack: fas
-        - name: Book
-          description: 100%
-          icon: book-bookmark
-          icon_pack: fas
-        - name: Music
-          description: 피아노와 바이올린을 비롯한 클래식과 밴드는 사랑입니다.
-          icon: guitar
-          icon_pack: fas
-        - name: Photography
-          description: 찰나의 순간을 포착합니다. 특히 풍경-바다와 하늘이 프레임에 들어옵니다.
-          icon: camera-retro
-          icon_pack: fas
-        - name: Coffee & Tea
-          description: 뭐 대충 제 혈관엔 카페인이 흐릅니다.
-          icon: mug-saucer
-          icon_pack: fas
-        - name: Whiskey
-          description: Espresso Martini 주세요.
-          icon: whiskey-glass
-          icon_pack: fas
+      slides:
+        - title: Event page
+          content: 최근 이슈들을 보여드립니다.
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: ''
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+        - title: Español
+          content: 'Estoy aprendiendo español estos días. I am also studying English. Of course, Java.'
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: 'lang.jpg'
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+        - title: World-Class Semiconductor Lab
+          content: 'Just opened last month!'
+          align: right
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: ''
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ''
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+
 ---
