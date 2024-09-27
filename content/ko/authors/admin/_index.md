@@ -50,6 +50,10 @@ email: 'yunseul@jbnu.ac.kr'
 # Author's website URL
 website: "https://seoharu.github.io/"
 
+_build:
+  render: always
+  list: never
+
 interests:
   - 인공지능 (AI)
   - 데이터 분석 (Data Science)
