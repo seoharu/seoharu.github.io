@@ -68,8 +68,8 @@ main:
     url: activity/awards
     weight: 420
   - parent: Activity
-    name: education
-    url: activity/education
+    name: experience
+    url: activity/experience
     weight: 430
     
   - name: Personal
