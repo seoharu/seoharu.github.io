@@ -1,5 +1,5 @@
 ---
-title: Course Projects
+title: Side Projects
 
 # Listing view
 view: community/custom_card
