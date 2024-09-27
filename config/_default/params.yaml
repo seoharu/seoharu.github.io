@@ -77,7 +77,7 @@ features:
     url: 'https://github.com/seoharu/seoharu.github.io'
     branch: main
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
   comment:
     provider: ''
