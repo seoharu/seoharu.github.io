@@ -1,11 +1,11 @@
 :root {
-    --theme: #df1717;
+    --theme: #7e87a7;
     --entry: #4646dd;
-    --primary: rgba(184, 44, 93, 0.88);
-    --secondary: rgba(14, 108, 186, 0.78);
-    --tertiary: rgba(27, 2, 10, 0.16);
-    --content: rgba(19, 157, 208, 0.88);
-    --hljs-bg: #1c1d21;
+    --primary: rgba(52, 138, 218, 0.88);
+    --secondary: rgba(57, 120, 172, 0.78);
+    --tertiary: rgba(155, 180, 239, 0.16);
+    --content: rgba(28, 136, 175, 0.88);
+    --hljs-bg: #5e6991;
     --code-bg: #f5f5f5;
     --border: #eee;
 }

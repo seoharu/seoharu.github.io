@@ -1,5 +1,5 @@
-// Starter Blog Template
-// https://hugoblox.com/hugo-themes/
+/* Starter Blog Template */
+/* https://hugoblox.com/hugo-themes/ */
 
 body {
   background-color: rgb(24, 250, 252);
@@ -14,7 +14,7 @@ body {
   background-color: rgb(31, 39, 51);
 }
 
-// custom footer color
+/* custom footer color */
 .page-footer {
   background-color: rgb(247, 250, 252);
 }
@@ -23,7 +23,7 @@ body {
   background-color: rgb(26, 32, 44);
 }
 
-// more rounded cards and larger gap between cards
+/* more rounded cards and larger gap between cards */
 .card-simple {
   margin-top: 1.8rem;
   border-radius: 15px;
@@ -33,12 +33,13 @@ body {
   background: rgb(31, 39, 51);
 }
 
-// no navbar shadow
+/* no navbar shadow */
 .navbar {
-  box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+  box-shadow: none !important; 
+  /* 'important' to override dark mode box-shadow too. */
 }
 
-// custom section padding
+/* custom section padding */
 .home-section {
   padding: 1rem 0;
 }
@@ -79,7 +80,7 @@ ul.network-icon .big-icon {
   margin-bottom: 1em;
 }
 
-// Narrower container for Hello World sections (primarily Blank widget content).
+/* Narrower container for Hello World sections (primarily Blank widget content). */
 @media (min-width: 1200px) {
   .home-section .container {
     max-width: 880px;
@@ -91,7 +92,7 @@ ul.network-icon .big-icon {
   }
 }
 
-// Custom avatar size on homepage
+/* Custom avatar size on homepage */
 .avatar {
   width: auto;
   height: auto;
@@ -99,7 +100,7 @@ ul.network-icon .big-icon {
   max-height: 225px;
 }
 
-// Prevent stretching on About page with narrow container
+ /* Prevent stretching on About page with narrow container */
 .wg-about .avatar {
   width: auto;
   height: auto;
@@ -107,7 +108,7 @@ ul.network-icon .big-icon {
   max-height: 200px;
 }
 
-// Smaller Name and Role text on About page than in homepage `about.avatar` widget
+/* Smaller Name and Role text on About page than in homepage `about.avatar` widget */
 .wg-about .portrait-title h2 {
   font-size: 1rem;
 }
