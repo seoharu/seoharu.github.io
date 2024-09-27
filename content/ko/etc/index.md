@@ -9,10 +9,10 @@ sections:
       subtitle: Section subtitle
       text: Section text
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
+        - name: Cat
+          description: 99%
+          icon: cat
+          icon_pack: fas
         - name: Statistics
           description: 100%
           icon: chart-line
