@@ -184,8 +184,7 @@ sections:
       order: desc
       filters:
         folders:
-          - club
-          - experience
+          - activity
     design:
       view: showcase
       columns: '2'
