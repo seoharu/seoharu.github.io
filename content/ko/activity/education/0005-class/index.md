@@ -19,7 +19,7 @@ __1학년 여름계절__ 6학점 <br>
 - [교양] 기초생물학
 
 __1학년 2학기__ 21학점 <br>
--[전선] 컴퓨터공학총론
+- [전선] 컴퓨터공학총론
 - [전선] C++프로그래밍
 - [전선] 선형대수학
 - [전필] 자료구조
@@ -28,11 +28,11 @@ __1학년 2학기__ 21학점 <br>
 - [교양] 과학기술과문화적상상
 
 __1학년 겨울계절__ 6학점 <br>
--[전선] 이산수학
+- [전선] 이산수학
 - [일선] 벤처창업론
 
 __2학년 1학기__ 13학점, UM <br>
--[전선] computer programming
+- [전선] computer programming
 - [전선] cyber security
 - [일선] computational thinking with robotics
 - [일선] artificial organs & biotransport
