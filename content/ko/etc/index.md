@@ -6,8 +6,8 @@ sections:
   - block: features
     content:
       title: My Favorites
-      subtitle: Section subtitle
-      text: Section text
+      subtitle: 제가 좋아하는 것들의 목록입니다.
+      text: ''
       items:
         - name: Cat
           description: 99%
