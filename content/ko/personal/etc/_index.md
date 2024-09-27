@@ -6,7 +6,7 @@ sections:
   - block: features
     content:
       title: My Favorites
-      subtitle: Section subtitle
+      subtitle: 제가 좋아하는 것들의 목록입니다. 
       text: Section text
       items:
         - name: Cat
@@ -16,6 +16,10 @@ sections:
         - name: Book
           description: 100%
           icon: book-bookmark
+          icon_pack: fas
+        - name: Writing
+          description: 읽고 쓰는 것을 즐깁니다.
+          icon: pen-nib
           icon_pack: fas
         - name: Music
           description: 피아노와 바이올린을 비롯한 클래식과 밴드는 사랑입니다.
@@ -33,4 +37,5 @@ sections:
           description: Espresso Martini 주세요.
           icon: whiskey-glass
           icon_pack: fas
+
 ---
