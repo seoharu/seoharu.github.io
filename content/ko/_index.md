@@ -176,7 +176,7 @@ sections:
   - block: collection
     content:
       id: section-2
-      title: Activities
+      title: Experiences
       subtitle:
       text:
       count: 20
