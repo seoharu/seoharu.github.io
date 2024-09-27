@@ -179,12 +179,12 @@ sections:
       title: Activities
       subtitle:
       text:
-      count: 30
+      count: 20
       offset: 0
       order: desc
       filters:
         folders:
-          - activity
+          - club
           - experience
     design:
       view: showcase
