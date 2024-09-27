@@ -18,8 +18,8 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Español
-          content: 'Estoy aprendiendo español estos días. I am also studying English. Of course, Java.'
+        - title: Language
+          content: 'Estoy aprendiendo español estos días. <br> I am also studying English. <br> Of course, Java.'
           align: left
           background:
             image:
