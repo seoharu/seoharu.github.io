@@ -18,14 +18,14 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: class ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
+        - title: Español
+          content: 'Estoy aprendiendo español estos días. I am also studying English. Of course, Java.'
           align: left
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: ''
+              filename: 'lang.jpg'
               filters:
                 brightness: 0.7
             position: center
@@ -56,4 +56,8 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+
 ---
