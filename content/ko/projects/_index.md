@@ -24,7 +24,7 @@ sections:
       buttons:
         - name: "All"
           tag: '*'
-        - name: "Liitmus Renewal Project"
+        - name: "Litmus Renewal Project"
           tag: collaborate
           link: 'https://litmus.jbnu.ac.kr/'
         - name: "인공지능 전공 특화 교육 개인 프로젝트 - 'DATA-AI'"
