@@ -18,7 +18,7 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Lunch & Learn ☕️
+        - title: class ☕️
           content: 'Share your knowledge with the group and explore exciting new topics together!'
           align: left
           background:
