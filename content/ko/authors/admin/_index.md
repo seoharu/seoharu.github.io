@@ -18,6 +18,7 @@ authors:
   
 # Is this the primary user of the site?
 superuser: true
+profile: true
 
 # Role/position/tagline
 role: Student / Undergraduate Research Student
