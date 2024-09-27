@@ -43,16 +43,16 @@ main:
     hasChildren: true
 
   - parent: Projects
-    name: Side-project
-    url: project
+    name: Side
+    url: project/side
     weight: 310
   - parent: Projects
-    name: Course-project
-    url: project
+    name: Course
+    url: project/course
     weight: 320
   - parent: Projects
-    name: collaborative-project
-    url: project
+    name: Collaborative
+    url: project/collabo
     weight: 330
   
   - name: Activity
