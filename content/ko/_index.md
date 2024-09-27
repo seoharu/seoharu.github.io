@@ -185,7 +185,7 @@ sections:
       filters:
         folders:
           - activity
-          - education
+          - experience
     design:
       view: showcase
       columns: '2'
