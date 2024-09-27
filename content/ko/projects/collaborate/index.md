@@ -24,7 +24,7 @@ sections:
       buttons:
         - name: "All"
           tag: '*'
-        - name: "Liitmus Renewal Project"
+        - name: "Litmus Renewal Project"
           tag: development
           link: 'https://litmus.jbnu.ac.kr/'
         - name: "3D 공간정보 모델링 프로젝트 참여"
