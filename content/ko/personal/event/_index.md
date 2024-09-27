@@ -28,7 +28,7 @@ sections:
               filename: 'lang.jpg'
               filters:
                 brightness: 0.7
-            position: center
+            position: right
             color: '#555'
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
