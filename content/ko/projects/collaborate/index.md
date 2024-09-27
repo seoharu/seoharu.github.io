@@ -1,43 +1,38 @@
 ---
-# A section created with the Portfolio widget.
-# This section displays content from `content/project/`.
-# See https://docs.hugoblox.com/widget/portfolio/
-widget: portfolio
+title: "Projects"
+type: landing
 
-# This file represents a page section.
-headless: true
+# Listing view
+view: community/custom_card
 
-# Order that this section appears on the page.
-weight: 20
+sections:
+  - block: portfolio
+    id: projects
+    content:
+      title: "Projects"
+      subtitle: "Explore my work and collaborations"
+      filters:
+        folders:
+          - project
+        tags: []
+        exclude_tags: []
+        kinds:
+          - page
+      sort_by: 'tag'
+      sort_ascending: false
+      default_button_index: 0
+      buttons:
+        - name: "All"
+          tag: '*'
+        - name: "Liitmus Renewal Project"
+          tag: development
+          link: 'https://litmus.jbnu.ac.kr/'
+        - name: "3D 공간정보 모델링 프로젝트 참여"
+          tag: modeling
+        
+    design:
+      columns: '3'
+      view: showcase
+      flip_alt_rows: true
 
-title: 'Collaborate Projects'
-subtitle: ''
-
-content:
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Litmus Renewal Project
-      tag: Development
-    - name: 3D GIS Modeling
-      tag: Modeling
-
-
-design:
-  columns: '1'
-  view: masonry
-  flip_alt_rows: true
-  background: {}
-  spacing: {padding: [0, 0, 0, 0]}
 ---
