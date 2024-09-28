@@ -122,27 +122,27 @@ sections:
         - name: 인공지능(AI)
           icon: code-branch
           icon_pack: fas
-          description: <span style="font-size:125%;"> Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</span><br><br>
+          description: <span style="font-size:90%;"> <span class="justified-text">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</spn></span><br><br>
         - name: 데이터 분석 (Data Science)
           icon: calculator
           icon_pack: fas
-          description: <span style="font-size:125%;"> 여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</span><br><br>
+          description: <span style="font-size:90%;"><span class="justified-text"> 여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</spn></span><br><br>
         - name: 개발 (Development)
           icon: laptop
           icon_pack: fas
-          description: <span style="font-size:125%;"> 여러 개발 프로젝트에 참여했습니다.</span><br><br>
+          description: <span style="font-size:90%;"> <span class="justified-text"> 여러 개발 프로젝트에 참여했습니다.</span></span><br><br>
         - name: Medical AI
           icon: laptop-medical
           icon_pack: fas
-          description:  <span style="font-size:125%;"> 메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다.</span><br><br>
+          description:  <span style="font-size:90%;"> <span class="justified-text"> 메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다. </span></span><br><br>
         - name: ALPS 부회장
           icon: laptop-code
           icon_pack: fas
-          description:  <span style="font-size:125%;">ALPS 부회장으로, Litmus Renewal Project에 참여했습니다.</span><br><br>
+          description: <span style="font-size:90%;"> <span class="justified-text"> ALPS 부회장으로, Litmus Renewal Project에 참여했습니다. </spn></span><br><br>
         - name: etc
           icon: globe
           icon_pack: fas
-          description:  <span style="font-size:125%;"> <span class="justified-text">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span> </span><br><br>
+          description:  <span style="font-size:90%;"> <span class="justified-text">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span> </span><br><br>
 
   - block: collection
     content:
