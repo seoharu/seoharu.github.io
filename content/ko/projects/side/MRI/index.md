@@ -10,4 +10,6 @@ link: static/files/mri.pdf
 
 ---
 
-<span class="justified-text"> 2024년 1~2월동안 'LGG Segmentation Dataset'을 가지고 MRI 영상 기반 암 진단 자동화를 위한 segmentation 모델을 연구 개발하였습니다. 해당 데이터셋을 사용한 medical image segmentation 기존 연구 논문 조사부터 최신 segmentation 모델 조사, 기존 모델 변경 및 성능 비교 작업을 진행하였습니다. 해당 프로젝트 관련 자세한 내용은 [PDF 파일] '{{static/files/mri.pdf}}'에서 확인할 수 있습니다. </span>
+<span class="justified-text"> 2024년 1~2월동안 'LGG Segmentation Dataset'을 가지고 MRI 영상 기반 암 진단 자동화를 위한 segmentation 모델을 연구 개발하였습니다. 해당 데이터셋을 사용한 medical image segmentation 기존 연구 논문 조사부터 최신 segmentation 모델 조사, 기존 모델 변경 및 성능 비교 작업을 진행하였습니다.
+<a href="/files/mri.pdf" target="_blank">Download the MRI Research PDF</a>
+ 해당 프로젝트 관련 자세한 내용은 위의 [PDF 파일]에서 확인할 수 있습니다. </span>
