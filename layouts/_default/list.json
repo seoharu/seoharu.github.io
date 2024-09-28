@@ -6,8 +6,8 @@
       "permalink" .Permalink 
       "content" .Plain 
       "summary" .Summary 
-      "description" .Params.description 
-      "tags" .Params.tags
+      "description" (or .Params.description "") 
+      "tags" (or .Params.tags (slice))
       "date" .Date
     ) -}}
   {{- end -}}
