@@ -138,10 +138,10 @@ sections:
           icon: laptop-medical
           icon_pack: fas
           description:  <span style="font-size:90%;"> <span class="justified-text"> 메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다. </span></span><br><br>
-        - name: ALPS 부회장
+        - name: Algorithm
           icon: laptop-code
           icon_pack: fas
-          description: <span style="font-size:90%;"> <span class="justified-text"> ALPS 부회장으로, Litmus Renewal Project에 참여했습니다. </spn></span><br><br>
+          description: <span style="font-size:90%;"> <span class="justified-text"> 어쩌다 보니 알고리즘을 꾸준히 하고 있습니다. </spn></span><br><br>
         - name: Experience
           icon: globe
           icon_pack: fas
