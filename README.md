@@ -1,7 +1,7 @@
 # [Seoharu.github.io] (https://seoharu.github.io/)
 
 Seoharu's Personal Website
-이 프로젝트는 개인 웹사이트를 생성하고 관리하는 Hugo 기반의 정적 사이트입니다. 
+- 이 프로젝트는 개인 웹사이트를 생성하고 관리하는 Hugo 기반의 정적 사이트입니다. 
 2024-2 WSD 1차 과제 - Github pages로 개인 소개 웹사이트 (포폴) 만들기 프로젝트로 제작하였습니다.
 
 
