@@ -21,6 +21,7 @@ sections:
           description: <span class="justified-text"> 피아노와 바이올린을 비롯한 클래식과 밴드는 사랑입니다. </span>
           icon: guitar
           icon_pack: fas
+        <br>
         - name: Photography
           description: <span class="justified-text"> 찰나의 순간을 포착합니다. 특히 풍경-바다와 하늘이 프레임에 들어옵니다. </span>
           icon: camera-retro
