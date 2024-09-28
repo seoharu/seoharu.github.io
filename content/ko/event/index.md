@@ -40,25 +40,28 @@ sections:
             position: right
             color: '#555'
             
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
+        - title: Concert
+          content: |-
+            2023.02.05 : 2022 YOUNHA CONCERT C 2022YH
+            2024.02.07 : TAYLOR SWIFT THE ERAS TOUR (at) Tokyo Dome
+            2024.11.16 : LOVELYZ CONCERT 겨울나라의 러블리즈
+            2024.11.17 : 2024 윤하 연말 콘서트 GROWTH THEORY
+                <div style="text-align: center; margin-top: 20px;">
+                    Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+                </div> 
           align: right
         
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: ''
+              filename: 'concert.png'
               caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
               filters:
                 brightness: 0.5
             position: center
             color: '#333'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: Join Us
-            url: ''
+            
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
