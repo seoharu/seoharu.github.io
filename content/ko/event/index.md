@@ -27,6 +27,7 @@ sections:
               # or delete the image section to remove it
               filename: 'lang.jpg'
               filters:
+                opacity: 0.8     # 이미지의 투명도를 조절
                 brightness: 0.7
             position: right
             color: '#555'
