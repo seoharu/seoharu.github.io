@@ -11,6 +11,18 @@ body {
   display: block;
 }
 
+.cta-group {
+  justify-content: center;
+}
+.btn-primary {
+  background-color: rgb(57, 171, 210)!important;
+  margin: auto;
+  display: block;
+  width: 100%; /* 버튼을 가로로 꽉 차게 만듦 */
+  text-align: justify;
+  vertical-align: middle;
+}
+
 .article-container {
   background-color: #fff;
   border-radius: 15px;
