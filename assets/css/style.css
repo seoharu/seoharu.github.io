@@ -119,4 +119,9 @@ ul.network-icon .big-icon {
 
 .btn-toolbar {
   justify-content: center;
+  text-align: justify;
+}
+
+.justified-cta {
+  text-align: justify;
 }
