@@ -188,7 +188,7 @@ sections:
       title: Experiences
       subtitle:
       text:
-      count: 10
+      count: 30
       offset: 0
       order: desc
       filters:
