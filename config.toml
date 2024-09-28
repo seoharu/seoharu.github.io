@@ -2,10 +2,13 @@ ignoreLogs = ['error-remote-getcsv']
 
 
 [outputs]
-home = ["HTML", "JSON"]
+home = ["HTML", "JSON", "RSS"]
 section = ["HTML", "JSON"]
 taxonomy = ["HTML", "JSON"]
 term = ["HTML", "JSON"]
 
 [frontmatter]
   lastmod = ["git", "date"]
+
+[params]
+  search = true
