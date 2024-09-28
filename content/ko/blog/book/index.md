@@ -1,7 +1,7 @@
 ---
 title: Book
 summary: 읽은, 읽을 책들을 공유합니다.
-date: 2024-09-01
+date: Sep 1 2024
 math: true
 authors:
   - admin
