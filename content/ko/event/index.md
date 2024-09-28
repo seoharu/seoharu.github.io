@@ -14,6 +14,7 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: ''
+              fit: cover
               caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
               filters:
                 brightness: 0.7
