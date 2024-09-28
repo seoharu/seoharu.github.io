@@ -56,7 +56,7 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: 'concert.png'
-              caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+              caption: 'Image credit: 개인 블로그'
               filters:
                 brightness: 0.5
             position: center
