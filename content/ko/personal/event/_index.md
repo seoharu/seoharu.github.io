@@ -26,7 +26,8 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: 'lang.jpg'
-              caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+              fit: cover
+              description: 'Image credit: [**Unsplash**](https://unsplash.com/)'
               filters:
                 brightness: 0.7
             
