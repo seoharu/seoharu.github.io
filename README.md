@@ -32,7 +32,7 @@ Hugo의 이 템플릿을 메인으로 여러 테마를 섞어 저만의 개성�
 
 
 
-
+<br><br><br>
 ## 아래는 휴고 템플릿 관련 부분입니다. 참고하세요.
 The Hugo **Landing Page Template** empowers you to easily create startup websites, marketing websites, and landing pages to accelerate your business growth.
 
