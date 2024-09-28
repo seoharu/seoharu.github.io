@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CHOI SEOYEON
+title: 최서연
 
 # Name pronunciation (optional)
 name_pronunciation: 하고싶은 거 다 하면서 살고싶은
