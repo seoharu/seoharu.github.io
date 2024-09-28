@@ -123,11 +123,11 @@ sections:
           icon: code-branch
           icon_pack: fas
           description: <span style="font-size:90%;"> <span class="justified-text">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</spn></span><br><br>
-        - name: 데이터 분석 (Data Science)
+        - name: 데이터 분석 <br<(Data Science)
           icon: calculator
           icon_pack: fas
           description: <span style="font-size:90%;"><span class="justified-text"> 여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</spn></span><br><br>
-        - name: 개발 (Development)
+        - name: 개발 <br>(Development)
           icon: laptop
           icon_pack: fas
           description: <span style="font-size:90%;"> <span class="justified-text"> 여러 개발 프로젝트에 참여했습니다.</span></span><br><br>
