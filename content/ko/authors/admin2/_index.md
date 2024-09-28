@@ -168,21 +168,23 @@ skills:
         description: "일상 회화 가능"
         icon: globe
         icon_pack: fas
+
+  - name: Technical Field
+    items:
+      - name: 데이터 분석 및 모델링
+        description: ''
+        percent: 50
+        icon: chart-bar
+      - name: Front-end
+        description: ''
+        percent: 40
+      - name: Back-end
+        description: ''
+        percent: 10
+      - name: AI
+        description: ''
+        percent: 30
   
-
-hobbys:
-  items:
-    - name: 독서
-      description: ''
-    - name: 악기
-      description: 피아노, 바이올린 and 드럼
-    - name: 전시회, 공연 감상
-    - name: 사진
-
-favorites:
-  items:
-    - name: Cat
-    - name: 
 
 
 # Social Networking

@@ -175,7 +175,7 @@ sections:
       subtitle: ''
       text: 어떤 태그들을 주로 사용했는지 확인할 수 있습니다.
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: categories
+      taxonomy: tags
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
     design:
