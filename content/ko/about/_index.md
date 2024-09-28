@@ -72,6 +72,10 @@ sections:
           flex-direction: column;
           flex: 0 0 25%;
         }
+        .skills-content {
+          margin-left: 30px;
+          margin-right: 30px;
+        }
         .skills-wrapper {
           border: 1px solid #00E5E5;
         }
