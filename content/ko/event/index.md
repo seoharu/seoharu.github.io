@@ -23,7 +23,7 @@ sections:
         - title: Language
           content: |-
             Estoy aprendiendo español estos días. <br> I am also studying English. <br> Of course, Java.   
-            <div style="text-align: center; margin-top: 20px;">
+            <div style="text-align: left; margin-bottom: 5px;">
                 Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
             </div> 
           align: left
@@ -42,11 +42,11 @@ sections:
             
         - title: Concert
           content: |-
-            2023.02.05 : 2022 YOUNHA CONCERT C 2022YH
-            2024.02.07 : TAYLOR SWIFT THE ERAS TOUR (at) Tokyo Dome
-            2024.11.16 : LOVELYZ CONCERT 겨울나라의 러블리즈
-            2024.11.17 : 2024 윤하 연말 콘서트 GROWTH THEORY
-                <div style="text-align: center; margin-top: 20px;">
+            2023.02.05 : 2022 YOUNHA CONCERT C 2022YH <br>
+            2024.02.07 : TAYLOR SWIFT THE ERAS TOUR (at) Tokyo Dome <br>
+            2024.11.16 : LOVELYZ CONCERT 겨울나라의 러블리즈 <br>
+            2024.11.17 : 2024 윤하 연말 콘서트 GROWTH THEORY <br>
+                <div style="text-align: left; margin-bottom: 5px;">
                     Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
                 </div> 
           align: right
