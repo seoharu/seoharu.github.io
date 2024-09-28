@@ -33,6 +33,8 @@ sections:
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
           align: right
+          banner:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
           background:
             image:
               # Specify an image from `assets/media/`
@@ -58,8 +60,5 @@ sections:
       interval: 2000
 
 
-banner:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'lang.jpg'
 
 ---
