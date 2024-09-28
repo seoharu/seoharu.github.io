@@ -145,3 +145,18 @@ ul.network-icon .big-icon {
   width: 100%; /* 버튼을 가로로 꽉 차게 만듦 */
   text-align: center; /* 텍스트를 가운데 정렬 */
 }
+
+.col-12 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
+}
+
+.col-12 .col-md-6 {
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* 부드러운 그림자 */
+}

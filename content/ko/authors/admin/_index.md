@@ -116,7 +116,7 @@ languages:
   - name: frameworks
     items:
       - name: Deep learning frameworks
-        desctription: Python (Tensorflow, pytorch), C++ (CUDA)
+        description: Python (Tensorflow, pytorch), C++ (CUDA)
       - name: Web frameworks
         description: Vue.js
   - name: DBMS
