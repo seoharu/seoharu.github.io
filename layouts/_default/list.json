@@ -14,4 +14,3 @@
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
 
-<!-- 파일 끝에 빈 줄 추가 -->
