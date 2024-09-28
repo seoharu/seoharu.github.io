@@ -45,3 +45,16 @@
     text-align: center; /* 텍스트를 가운데 정렬 */
 }
 
+
+#section-skills .coll-12 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: flex-start;
+}
+#section-skills .row {
+    flex-direction: column;
+}
+#section-skills .col-12 .col-md-6 {
+    flex: 0 0 25%;
+}
