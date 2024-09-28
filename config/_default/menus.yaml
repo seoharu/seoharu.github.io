@@ -27,7 +27,7 @@ main:
     hasChildren: true
 
   - parent: Research
-    name: contents
+    name: Contents
     url: research/contents
     weight: 210
 
@@ -60,7 +60,7 @@ main:
     weight: 400
     hasChildren: true
   - parent: Activity
-    name: club
+    name: Club
     url: activity/club
     weight: 410
   - parent: Activity
@@ -68,7 +68,7 @@ main:
     url: activity/awards
     weight: 420
   - parent: Activity
-    name: experience
+    name: Experience
     url: activity/experience
     weight: 430
     
