@@ -26,8 +26,11 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: 'lang.jpg'
+
               filters:
                 brightness: 0.7
+            banner:
+              caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
             position: right
             color: '#555'
         - title: World-Class Semiconductor Lab
