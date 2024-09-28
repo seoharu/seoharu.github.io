@@ -197,6 +197,7 @@ sections:
           - awards
           - experience/0000-AUEA
           - blog/book
+          - blog/After-Yang
     design:
       view: showcase
       columns: '1'
