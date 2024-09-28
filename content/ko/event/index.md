@@ -26,10 +26,11 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: 'lang.jpg'
-              caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+              
               filters:
                 opacity: 0.8     # 이미지의 투명도를 조절
                 brightness: 0.7
+                caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
             position: right
             color: '#555'
             
