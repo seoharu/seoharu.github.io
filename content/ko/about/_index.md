@@ -57,10 +57,20 @@ sections:
       text: ''
       username: admin
       css_style: |
-        #section-skills > .col-md-6 {
-        display: block !important;
-        width: 100% !important;  
-        margin-bottom: 20px !important; 
+        #section-skills > .col-12 {
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+          justify-content: flex-start;
+        } 
+        
+        #section-skills .row {
+          display: flex;
+          flex-direction: column;
+        }
+        #section-skills .col-12 .col-md-6 {
+          flex-direction: column;
+          flex: 0 0 25%;
         }
           
     design:
@@ -71,6 +81,26 @@ sections:
       title: Language
       text: ''
       username: admin2
+      css_style: |
+        #section-skills > .col-12 {
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+          justify-content: flex-start;
+        } 
+        
+        #section-skills .row {
+          display: flex;
+          flex-direction: column;
+        }
+        #section-skills .col-12 .col-md-6 {
+          flex-direction: row;
+          flex: 0 0 25%;
+        }
+        #section-skills .skills-content {
+          margin-left: 30px;
+          margin-right: 30px;
+        }
 
     design:
       columns: 1
