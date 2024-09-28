@@ -197,10 +197,6 @@ sections:
     design:
       view: showcase
       columns: '2'
-    css: |-
-      .col-md-6 {
-        flex: 0 0 50%;
-      }
 
 
   - block: markdown
