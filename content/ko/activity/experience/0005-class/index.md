@@ -3,6 +3,7 @@ title: "수강 과목"
 description: "2022년부터 수강한 과목입니다."
 tags: ["class"]
 date: "2022-03-01"
+bi0: 2022년부터 수강한 과목입니다.
 ---
 
 <span class="justified-text">
