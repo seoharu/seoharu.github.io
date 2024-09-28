@@ -201,7 +201,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}
+        <span class="justified-text"> {{% cta cta_link="./contact/" cta_text="더 알아보기 →" %}}</span>
     design:
       columns: '1'
       css_style: "text-align: center;"
