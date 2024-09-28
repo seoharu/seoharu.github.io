@@ -18,7 +18,7 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Español
+        - title: Language
           content: 'Estoy aprendiendo español estos días. <br> I am also studying English. <br> Of course, Java.'
           align: left
           background:
@@ -30,6 +30,8 @@ sections:
                 brightness: 0.7
             position: right
             color: '#555'
+            banner:
+                caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
           align: right
