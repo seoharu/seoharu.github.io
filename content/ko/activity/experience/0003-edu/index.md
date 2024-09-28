@@ -1,6 +1,5 @@
 ---
 title: "여러 교육 및 특강 참여"
-description: ""
 tags: ["special lecture"]
 date: "2022-03-01"
 summary: 교육 및 특강 참여 목록입니다. 

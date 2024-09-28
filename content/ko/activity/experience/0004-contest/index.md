@@ -1,6 +1,5 @@
 ---
 title: "여러 대회 참여"
-description: ""
 tags: ["contest"]
 date: "2022-03-01"
 summary: 참여 대회 목록입니다.
