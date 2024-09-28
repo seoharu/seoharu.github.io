@@ -9,9 +9,11 @@ date: "2023-02-01"
 
 
 <br>
+<span class="justified-text">
 [수강 과목] <br>
 - COMPUTATIONAL THINKING WITH ROBOTICS <br>
 - ARTIFICIAL ORGANS & BIOTRANSPORT <br>
 - COMPUTER PROGRAMMING <br>
 - CYBER SECURITY <br>
 - CRIME FICTION: An Investigation <br>
+</span>
