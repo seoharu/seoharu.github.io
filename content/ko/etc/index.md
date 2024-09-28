@@ -10,11 +10,11 @@ sections:
       text: ''
       items:
         - name: Cat
-          description: 99%
+          description: <span class="justified-text"> 나만 없어 고양이 <br>독립 후 고양이와 살 계획입니다. </span>
           icon: cat
           icon_pack: fas
         - name: Book
-          description: 100%
+          description: <span class="justified-text"> 사자가 위장에 탈이 나면 풀을 먹듯이 병든 인간만이 책을 읽습니다. </span>
           icon: book-bookmark
           icon_pack: fas
         - name: Music
