@@ -14,6 +14,7 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: ''
+              caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
               filters:
                 brightness: 0.7
             position: right
@@ -37,13 +38,13 @@ sections:
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
           align: right
-          banner:
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+        
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: ''
+              caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
               filters:
                 brightness: 0.5
             position: center
