@@ -188,12 +188,15 @@ sections:
       title: Experiences
       subtitle:
       text:
-      count: 20
+      count: 10
       offset: 0
       order: desc
       filters:
         folders:
-          - blog
+          - club
+          - awards
+          - experience/0000-AUEA
+          - blog/book
     design:
       view: showcase
       columns: '1'
