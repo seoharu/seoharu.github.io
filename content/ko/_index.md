@@ -193,11 +193,12 @@ sections:
       order: desc
       filters:
         folders:
+          - experience\AUEA
+          - blog\book
+          - blog\After-Yang
           - club
           - awards
-          - experience/0000-AUEA
-          - blog/book
-          - blog/After-Yang
+
     design:
       view: showcase
       columns: '1'
