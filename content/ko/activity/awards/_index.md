@@ -11,7 +11,7 @@ sections:
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2022
+      # date_format: Jan 2022
       # Accomplishments.
       #   Add/remove as many `items` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -20,8 +20,8 @@ sections:
       items:
         - title: 2023년 동계 빅데이터 캠프의 AWS 딥레이서 경진대회
           certificate_url: ''
-          date_end: '2024-01-26'
-          date_start: '2024-01-22'
+          date_end: '26 Jan 2024'
+          date_start: '22 Jan 2024'
           description: '동상 (3위)'
           icon: AWS
           organization: 빅데이터 혁신융합대학 사업단
