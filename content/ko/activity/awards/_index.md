@@ -20,8 +20,8 @@ sections:
       items:
         - title: 2023년 동계 빅데이터 캠프의 AWS 딥레이서 경진대회
           certificate_url: ''
-          date_end: ''
-          date_start: '2024-01-27'
+          date_end: '2024-01-26'
+          date_start: '2024-01-22'
           description: '동상 (3위)'
           icon: AWS
           organization: 빅데이터 혁신융합대학 사업단
