@@ -26,13 +26,13 @@ sections:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
               filename: 'lang.jpg'
+              caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
               filters:
                 opacity: 0.8     # 이미지의 투명도를 조절
                 brightness: 0.7
             position: right
             color: '#555'
-          banner:
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+            
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
           align: right
