@@ -133,7 +133,7 @@ sections:
         - name: 개발 
           icon: laptop
           icon_pack: fas
-          description: <span style="font-size:90%;"> <span class="justified-text"> 여러 개발 프로젝트에 참여했습니다.</span></span><br><br>
+          description: <span style="font-size:90%;"> <span class="justified-text"> 여러 개발 프로젝트에 참여했습니다. 현재는 Litmus Renewal Project 유지보수와 Reader test 웹페이지 제작 개발을 수행하고 있습니다.</span></span><br><br>
         - name: Medical AI
           icon: laptop-medical
           icon_pack: fas
