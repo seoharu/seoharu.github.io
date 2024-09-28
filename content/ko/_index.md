@@ -139,10 +139,10 @@ sections:
           icon: laptop-code
           icon_pack: fas
           description: <span style="font-size:90%;"> <span class="justified-text"> ALPS 부회장으로, Litmus Renewal Project에 참여했습니다. </spn></span><br><br>
-        - name: etc
+        - name: experience
           icon: globe
           icon_pack: fas
-          description:  <span style="font-size:90%;"> <span class="justified-text">교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span> </span><br><br>
+          description:  <span style="font-size:90%;"> <span class="justified-text"> 경험을 중시합니다. 여러 분야에 관심이 많아 교환학생, 동아리 부회장 등 여러 다양한 경험을 했습니다.</span> </span><br><br>
 
   - block: collection
     content:
