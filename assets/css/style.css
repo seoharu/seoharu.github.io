@@ -5,6 +5,12 @@ body {
   background-color: rgb(24, 250, 252);
 }
 
+.justified-text {
+  text-align: justify;
+  font-size: 125%;
+  display: block;
+}
+
 .article-container {
   background-color: #fff;
   border-radius: 15px;
