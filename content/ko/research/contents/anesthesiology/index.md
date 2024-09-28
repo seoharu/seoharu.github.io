@@ -3,7 +3,7 @@
 title: "Anesthesiology-data analysis"
 description: "anesthesiology https://github.com/JBNU-MacsLAB/anesthesiology"
 tags: ["paper"]
-date: "2024-04-01"
+date: "04-01-2024"
 
 ---
 
