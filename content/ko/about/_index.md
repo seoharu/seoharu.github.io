@@ -103,7 +103,6 @@ sections:
         #section-skills .col-12 .col-md-6 {
           display: flex;
           flex: 0 0 100%;
-          flex-direction: row;
         }
         .skills-content {
           margin-left: 30px;
