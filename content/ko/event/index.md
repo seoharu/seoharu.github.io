@@ -57,7 +57,9 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 
+
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'lang.jpg'
 
 ---
