@@ -20,3 +20,9 @@
 .btn-toolbar .btn.btn-primary:hover, .btn-toolbar .btn.btn-primary:focus {
     background-color: rgb(136, 144, 227) !important;
 }
+
+.justified-cta {
+    display: block;
+    width: 100%; /* 버튼을 가로로 꽉 차게 만듦 */
+    text-align: center; /* 텍스트를 가운데 정렬 */
+}

@@ -123,5 +123,7 @@ ul.network-icon .big-icon {
 }
 
 .justified-cta {
-  text-align: justify;
+  display: block;
+  width: 100%; /* 버튼을 가로로 꽉 차게 만듦 */
+  text-align: center; /* 텍스트를 가운데 정렬 */
 }
