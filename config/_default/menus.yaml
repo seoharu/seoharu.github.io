@@ -38,21 +38,21 @@ main:
 
 
   - name: Projects
-    url: project
+    url: projects
     weight: 300
     hasChildren: true
 
   - parent: Projects
     name: Side
-    url: project/side
+    url: projects/side
     weight: 310
   - parent: Projects
     name: Course
-    url: project/course
+    url: projects/course
     weight: 320
   - parent: Projects
-    name: Collaborative
-    url: project/collabo
+    name: Collaboration
+    url: projects/collaboration
     weight: 330
   
   - name: Activity
