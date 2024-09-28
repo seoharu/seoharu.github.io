@@ -1,2 +1,8 @@
 ignoreLogs = ['error-remote-getcsv']
 
+
+[outputs]
+home = ["HTML", "JSON"]
+section = ["HTML", "JSON"]
+taxonomy = ["HTML", "JSON"]
+term = ["HTML", "JSON"]

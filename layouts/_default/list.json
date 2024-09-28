@@ -1,5 +1,17 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
-  {{- $.Scratch.Add "index" (dict "title" .Title "description" .Params.description "content" .Plain "keywords" .Params.keywords) -}}
+  {{- if not .Params.draft -}}
+    {{- $.Scratch.Add "index" (dict 
+      "title" .Title 
+      "permalink" .Permalink 
+      "content" .Plain 
+      "summary" .Summary 
+      "description" .Params.description 
+      "tags" .Params.tags
+      "date" .Date
+    ) -}}
+  {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
+
+<!-- 파일 끝에 빈 줄 추가 -->

@@ -4,6 +4,9 @@ title: "MRI 영상 기반 암 진단 자동화 연구"
 description: "LGG Segmentation Dataset으로 MRI 영상 기반 암 진단 자동화를 위한 segmentation 모델 연구 및 개발"
 tags: ["side"]
 date: "2024-01-01"
+icon: cv
+icon_pack: ai
+link: static/files/mri.pdf
 
 ---
 
