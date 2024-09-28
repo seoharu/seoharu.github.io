@@ -193,13 +193,10 @@ sections:
       order: desc
       filters:
         folders:
-          - activity/experience/AUEA
-          - activity/club
-          - activity/awards
-
+          - activity
     design:
       view: showcase
-      columns: '1'
+      columns: '2'
 
 
   - block: markdown
