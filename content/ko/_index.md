@@ -193,8 +193,6 @@ sections:
       order: desc
       filters:
         folders:
-          - club
-          - awards
           - experience
           - fields
 
