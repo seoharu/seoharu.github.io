@@ -31,8 +31,8 @@ sections:
                 brightness: 0.7
             position: right
             color: '#555'
-            banner:
-                caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+          banner:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
         - title: World-Class Semiconductor Lab
           content: 'Just opened last month!'
           align: right
