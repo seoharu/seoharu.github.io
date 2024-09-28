@@ -89,7 +89,7 @@ sections:
 
   - block: skills
     content:
-      title: SKills
+      title: Skills
       text: ''
       username: admin2
       css_style: |
