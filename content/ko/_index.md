@@ -193,8 +193,9 @@ sections:
       order: desc
       filters:
         folders:
-          - experience
-          - fields
+          - activity/experience/AUEA
+          - activity/club
+          - activity/awards
 
     design:
       view: showcase
