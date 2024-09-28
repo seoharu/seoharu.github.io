@@ -22,7 +22,10 @@ sections:
             color: '#666'
         - title: Language
           content: |-
-            Estoy aprendiendo español estos días. <br> I am also studying English. <br> Of course, Java.   <br> Image credit: [**Unsplash**](https://unsplash.com/)
+            Estoy aprendiendo español estos días. <br> I am also studying English. <br> Of course, Java.   
+            <div style="text-align: center; margin-top: 20px;">
+                Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+            </div> 
           align: left
           background:
             image:
