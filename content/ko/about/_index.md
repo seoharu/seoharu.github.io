@@ -85,7 +85,7 @@ sections:
 
   - block: skills
     content:
-      title: Language
+      title: SKills
       text: ''
       username: admin2
       css_style: |
