@@ -53,8 +53,6 @@
     justify-content: flex-start;
 }
 #section-skills .row {
-    flex-direction: row;
-}
-#section-skills .col-12 .col-md-6 {
-    flex: 0 0 25%;
+    flex-direction: column;
+    flex: 0 0 100%;
 }

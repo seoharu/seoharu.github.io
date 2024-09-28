@@ -168,6 +168,7 @@ skills:
         description: "일상 회화 가능"
         icon: globe
         icon_pack: fas
+  
 
 hobbys:
   items:
