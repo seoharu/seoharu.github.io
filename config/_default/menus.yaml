@@ -76,7 +76,7 @@ main:
     url: post
     weight: 500
   - parent: Personal
-    name: event
+    name: Event
     url: event
     weight: 510
   - parent: Personal
