@@ -1,7 +1,7 @@
 ---
 title: 상실 이후 마주한 숭고함과 존재를 이루는 우주 - 영화 <애프터 양> 비평
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-12-10
+summary: 영화 애프터 양은 상실을 통해 일상의 숭고함을 발견하는 과정을 그린 작품이다. 양이라는 안드로이드의 부재를 통해 남겨진 가족의 일상과 기억의 아름다움을 조명하며, 인간과 안드로이드의 정체성에 대한 철학적 질문을 던진다. 동양 철학적 요소가 자연스럽게 녹아든 이 영화는 인간 중심적 사고에 대한 의문을 제기하며, 차와 기억을 통해 존재의 의미를 탐구한다.
+date: Sep 2022
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
