@@ -94,10 +94,11 @@ sections:
           flex-direction: column;
         }
         #section-skills .col-12 .col-md-6 {
+          display: flex;
+          flex: 0 0 100%;
           flex-direction: row;
-          flex: 0 0 25%;
         }
-        #section-skills .skills-content {
+        .skills-content {
           margin-left: 30px;
           margin-right: 30px;
         }
