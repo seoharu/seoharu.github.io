@@ -18,19 +18,19 @@ sections:
           icon: book-bookmark
           icon_pack: fas
         - name: Music
-          description: 피아노와 바이올린을 비롯한 클래식과 밴드는 사랑입니다.
+          description: <span class="justified-text"> 피아노와 바이올린을 비롯한 클래식과 밴드는 사랑입니다. </span>
           icon: guitar
           icon_pack: fas
         - name: Photography
-          description: 찰나의 순간을 포착합니다. 특히 풍경-바다와 하늘이 프레임에 들어옵니다.
+          description: <span class="justified-text"> 찰나의 순간을 포착합니다. 특히 풍경-바다와 하늘이 프레임에 들어옵니다. </span>
           icon: camera-retro
           icon_pack: fas
         - name: Coffee & Tea
-          description: 뭐 대충 제 혈관엔 카페인이 흐릅니다.
+          description: <span class="justified-text"> 뭐 대충 제 혈관엔 카페인이 흐릅니다. </span>
           icon: mug-saucer
           icon_pack: fas
         - name: Whiskey
-          description: Espresso Martini 주세요.
+          description: <span class="justified-text"> Espresso Martini 주세요. </span>
           icon: whiskey-glass
           icon_pack: fas
 
