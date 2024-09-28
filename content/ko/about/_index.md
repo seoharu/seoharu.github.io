@@ -72,6 +72,13 @@ sections:
           flex-direction: column;
           flex: 0 0 25%;
         }
+        .skills-wrapper {
+          border: 1px solid #00E5E5;
+        }
+        .skills-percent {
+          background-color: #00FFFF;
+
+        }
           
     design:
         columns: '1'
@@ -102,6 +109,13 @@ sections:
           margin-left: 30px;
           margin-right: 30px;
         }
+        .skills-wrapper {
+          border: 1px solid #00E5E5;
+        }
+        .skills-percent {
+          background-color: #00FFFF;
+
+        }
 
     design:
       columns: 1
@@ -130,7 +144,7 @@ sections:
       subtitle: ''
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
-      taxonomy: name
+      taxonomy: tags
       # Choose how many tags you would like to display (0 = all tags)
       count: 20
     design:
