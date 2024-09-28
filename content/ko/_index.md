@@ -9,7 +9,7 @@ sections:
   - block: features
     content:
       title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
-      text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
+      text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다. <br> 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 의료 인공지능 관련 연구실 학부연구생으로서 메디컬AI 분야의 연구와 프로젝트를 수행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력하는, 하고 싶은 것들은 다 해야 직성이 풀리는 사람입니다. 앞으로도 메디컬AI 연구를 수행하며 특히 뇌신경 분야에서 독보적인 능력을 가진 전문가가 되고 싶습니다.</span> <br><br>
         {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}}
    
 
