@@ -62,10 +62,11 @@
 }
 
 @media (min-width: 768px) {
-    .col-md-6 {
-        flex: 0 0 50%;
-
-    } 
+    .home-section .wg-skills {
+        .col-md-6 {
+            flex: 0 0 25%;
+        } 
+    }
 }
 .skills-wrapper {
     border: 1px solid #0073E5;
