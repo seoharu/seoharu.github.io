@@ -175,14 +175,20 @@ skills:
         description: ''
         percent: 50
         icon: chart-bar
+        icon_pack: fas
       - name: Front-end
         description: ''
+        icon: laptop-code
+        icon_pack: fas
         percent: 40
       - name: Back-end
         description: ''
+        icon: laptop-file
+        icon_pack: fas
         percent: 10
       - name: AI
         description: ''
+        icon: ai
         percent: 30
   
 
