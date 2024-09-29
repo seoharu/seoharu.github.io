@@ -67,7 +67,17 @@
             flex: 0 0 25%;
         } 
     }
+} 
+.col-12 .col-lg-8 {
+    flex: 0 0 50%;
+
 }
+@media (min-width: 992px) {
+    .col-lg-8 {
+        flex: 0 0 67%;
+    }
+}
+
 .skills-wrapper {
     border: 1px solid #0073E5;
 }
