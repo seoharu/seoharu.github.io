@@ -1,138 +1,81 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🧠 Preference 취향은 어디에서 왔으며, 무엇을 사유하고 즐기는가에 대하여
+summary: 취향을 엿볼 수 있습니다.
+date: 2024-09-30
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - preference
+  - personal
+  - about
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: photo by me'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+## 취향 형성의 뿌리 (책, 영화, 노래 등)
+<mark>나의 취향은 어디에서 기반하는가 </mark>
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+## 나와 공명하는 시 
+- 박참새 시인의 [정신머리]
+ 제목에서부터 '정돈되지 않은 날 것'의 느낌이 강했던 시집이다. 
+- [그리하여 흘려 쓴 것들 _ 이제니]
+- [왜냐하면 우리는 우리를 모르고 _ 이제니]
+- [나는 내가 싫고 좋고 이상하고 _ 백은선]
+- [쓸쓸해서 머나먼 _ 최승자]
+제목부터 눈을 이끄는 시집이지 않은가.
+그리고 아직 출간되진 않았지만, '김겨울' 작가의 시집이 기대된다. 
 
-## Mindmaps
 
-Hugo Blox supports a Markdown extension for mindmaps.
+## 아끼는 오브제
+아낀다기 보다는, 시계를 좋아한다. 
+시계에서도 나름의 확고한 취향이 있는 편.
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+## 소울푸드
+- 회!! 해산물을 사랑한다.
+매일 잘 먹는 건 과일이고, 특히 체리, 멜론, 망고, 용과, 자몽, 샤인머스캣, 이런 류를 좋아한다. 
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+## 좋아하는 영화 시퀀스
+- 일단 좋아하는 영화는 [AFTER YANG], [EVERYTHING EVERYWHERE ALL AT ONCE].
+일단 소품, 배경, 구도 등등에서 감독의 의도가 명확해야 하고, 미감이 좋아야 하고, 색감이 좋아야 한다.
+애프터 양에서 그 뮤트한 녹색 색감이 마음에 들었고,
+에에올은 1부-2부-3부로 이어지는 주제 충실한 시퀀스가 좋았다. 끝없이 발산하다가도 어느 순간 하나로 이어지는 수렴이란!
 
-renders as
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+## 좋아하는 영화 음악
+- 한때 AFTER YANG의 soundtrack을 많이 들었다. 
 
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
+## 텍스트로 인마이백
+- 메인엔 노트북, 아이패드, 헤드셋 용이나 대신 각종 충전기가 들어있는 케이스
+  그리고 그 앞엔 카피바라 키링이 달려있고, 조그만 주머니 두 개 - 1. 각각 USB가 들어있는 조그만 파우치와 안경닦이, 파우치 | 2. 무선 이어폰 2개
 
-renders as
 
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+## 칵테일 취향
+- <mark> ESPRESSO MARTINI </mark>
+카페인 처돌이인 인간은 술 마실 때도 카페인 필수임 (아님)
+- 단 것보다는 드라이한 게 좋다. 커피나 여러 과일들 믹스한 칵테일 또는 아예 위스키 샷을 즐긴다.
 
-## Highlighting
 
-<mark>Highlight</mark> important text with `mark`:
+## 최근에 찍은 하늘 사진
+첨부한 사진 참고하세요. 
+최근이라기엔 한 달도 더 됐지만, 저 때 하늘이 색다른 느낌의 구름이라 좋았다. 
+참고로 제주도 하늘입니다.
+개인적으로는 바다와 하늘의 조화, 하늘과 숲의 조화를 프레임에 담는 것을 좋아한다. 푸른 게 좋아.
+올리고 싶은 사진들은 많은데 첨부는 하나만 되는 것 같아 아쉽다. 
 
-```html
-<mark>Highlighted text</mark>
-```
 
-## Callouts
+## 기분이 안 좋을 때 듣는 노래
+락, 메탈
+또는 시원 청량한 노래 
 
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
 
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
+## 선호하는 커피 혹은 차 
+- 무조건 <mark> 콜드브루 </mark> 따뜻한 커피는 <mark>  에스프레소 </mark> 정도만 취급한다
 
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
 
-renders as
 
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+  
