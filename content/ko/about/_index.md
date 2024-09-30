@@ -134,9 +134,9 @@ sections:
       order: desc
       filters:
         folders:
-          - collaborate/Litmus Renewal Project
+          - collaborate
           - researchproject
-          - course/CAPSTONE
+          - course
     design:
       view: card
       columns: '2'
