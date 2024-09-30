@@ -122,24 +122,28 @@ sections:
       title: <span style="font-size:75%">My Interests</span>
       text: 저는 좋아하는 것들로 일상을 채우고, 발전하고 싶어하는 사람입니다.<br><br><br><br>
       items:
-        - name: 인공지능(AI)
-          icon: code-branch
+        - name: Brain, Medical Science
+          icon: brain
           icon_pack: fas
-          description: <span style="font-size:90%;"> <span class="justified-text">Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다.</spn></span><br><br>
+          description: <span style="font-size:90%;"> <span class="justified-text"> 의과학, 의공학, 뇌 전반에 관심이 많습니다. </span></span><br><br>
+        - name: 인공지능(AI)
+          icon: microchip
+          icon_pack: fas
+          description: <span style="font-size:90%;"> <span class="justified-text"> 인간의 뇌에서 일어나는 직관을 어떻게 하면 AI 모델에 적용시킬 수 있을지 생각합니다. 그 전반적인 원리를 알고 싶습니다.  </spn></span><br><br>
+        - name: Medical AI
+          icon: laptop-medical
+          icon_pack: fas
+          description:  <span style="font-size:90%;"> <span class="justified-text"> AI에서도 Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다. 메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다. </span></span><br><br>
         - name: 데이터 분석 
           icon: calculator
           icon_pack: fas
           description: <span style="font-size:90%;"><span class="justified-text"> 여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</spn></span><br><br>
         - name: 개발 
-          icon: laptop
+          icon: laptop-code
           icon_pack: fas
           description: <span style="font-size:90%;"> <span class="justified-text"> 여러 개발 프로젝트에 참여했습니다. 현재는 Litmus Renewal Project 유지보수와 Reader test 웹페이지 제작 개발을 수행하고 있습니다.</span></span><br><br>
-        - name: Medical AI
-          icon: laptop-medical
-          icon_pack: fas
-          description:  <span style="font-size:90%;"> <span class="justified-text"> 메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다. </span></span><br><br>
         - name: Algorithm
-          icon: laptop-code
+          icon: sitemap
           icon_pack: fas
           description: <span style="font-size:90%;"> <span class="justified-text"> 어쩌다 보니 알고리즘을 꾸준히 하고 있습니다. </spn></span><br><br>
         - name: Experience
