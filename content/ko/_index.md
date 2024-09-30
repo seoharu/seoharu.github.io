@@ -87,14 +87,14 @@ sections:
           position: center
           color: '#000'
         link:
-          icon: labtop-medical
+          icon: tags
           icon_pack: fas
           text: <span style="font-size:60%">MacsLAB</span>
           text-color: '#000'
           url: https://jbnu.macs.or.kr/
 
       - title: <span style="font-size:90%">Projects</span>
-        content: <span style="font-size:70%">제가 개인적으로 수행한 Side 프로젝트들, 수업 과제로 수행한 Course 프로젝트들, 협력하여 진행한 Collaboration 프로젝트들을 소개합니다. 개발과 데이터 과학, 메디컬AI 관련 프로젝트들이 많습니다.</span>
+        content: <span style="font-size:70%">제가 개인적으로 수행한 [Side], 수업 과제로 수행한 [Course], 협력하여 진행한 [Collaboration] 프로젝트들을 소개합니다. 개발과 데이터 과학, 메디컬AI 관련 프로젝트들이 많습니다.</span>
         align: center
         background:
           image:
@@ -124,7 +124,7 @@ sections:
         link:
           icon: list-check
           icon_pack: fas
-          text: <span style="font-size:60%">Activity/span>
+          text: <span style="font-size:60%">Activity</span>
           text-color: '#000'
           url: activity
 
@@ -155,11 +155,11 @@ sections:
           position: center
           color: '#000'
         link:
-          icon: blog
+          icon: envelope
           icon_pack: fas
           text: <span style="font-size:60%">Contact!</span>
           text-color: '#000'
-          url: contact
+          url: Contact
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
