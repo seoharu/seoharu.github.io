@@ -60,8 +60,11 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects]
-  section: [HTML, RSS]
+  home: [HTML, RSS, headers, redirects, JSON]
+  section: [HTML, RSS, JSON]
+  taxonomy: [HTML, JSON]
+  term: [HTML, JSON]
+
 imaging:
   resampleFilter: lanczos
   quality: 95
