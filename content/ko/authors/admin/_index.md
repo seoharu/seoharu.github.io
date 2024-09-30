@@ -3,7 +3,7 @@
 title: 최서연
 
 # Full name (for SEO)
-first_name: SEOYEON
+first_name: SEOYEON 최서연
 last_name: CHOI
 
 
