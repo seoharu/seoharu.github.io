@@ -1,6 +1,6 @@
 ---
 # Display name
-title: seoharu.github.io
+title: 최서연
 
 # Name pronunciation (optional)
 name_pronunciation: 최서연
@@ -10,7 +10,7 @@ first_name: SEOYEON
 last_name: CHOI
 
 # Status emoji
-status:
+status: 
   icon: 💻
 
 authors:
@@ -25,10 +25,9 @@ position: Undergraduate research student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: JBNU - Division of Computer Science and Engineering
+  - name: 전북대학교 컴퓨터공학부 JBNU - Division of Computer Science and Engineering
     url: https://csai.jbnu.ac.kr/csai/index.do
-affiliations:
-  - name: MACS
+  - name: Medical AI & Computational Science (Macs) Lab
     url: https://jbnu.macs.or.kr/
 major: 컴퓨터공학
 joint_major: 메디컬AI
