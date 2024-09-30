@@ -35,7 +35,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "my-navbar"
+    blox: "navbar"
     align: c
     show_logo: true
     fixed_to_top: true
