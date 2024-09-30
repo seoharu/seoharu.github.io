@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'choi'
     description: 'seoharu.github.io : 최서연의 깃허브페이지'
     twitter: 'GetResearchDev'
   analytics:
@@ -120,3 +120,5 @@ role: 학생
 organization: 전북대학교 컴퓨터공학부
 organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
 email: 'yunseul@jbnu.ac.kr'
+
+ogImage: "assets/media/icon.png"
