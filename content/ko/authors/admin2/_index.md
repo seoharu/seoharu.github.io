@@ -160,14 +160,17 @@ skills:
         description: "Native"
         icon: language
         icon_pack: fas
+        percent: 100
       - name: "English"
         description: "Academic <br> (말레이시아에서 한 학기 교환학생)"
         icon: earth-americas
         icon_pack: fas
+        percent: 60
       - name: "Spanish"
         description: "일상 회화 가능"
         icon: globe
         icon_pack: fas
+        percent: 50
 
   - name: Technical Field
     items:
