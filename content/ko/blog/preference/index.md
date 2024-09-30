@@ -12,6 +12,7 @@ image:
   caption: 'Image credit: photo by me'
 ---
 
+[Preference - 취향]
 
 ## 취향 형성의 뿌리 (책, 영화, 노래 등)
 <mark>나의 취향은 어디에서 기반하는가 </mark>
