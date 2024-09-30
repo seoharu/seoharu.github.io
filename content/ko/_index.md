@@ -26,7 +26,7 @@ sections:
     content:
       slides:
       - title: <span style="font-size:90%;">Home</span>
-        content: <span style="font-size:70%">최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!</span>
+        content: <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!</span>
         align: center
         background:
           image:
@@ -129,7 +129,7 @@ sections:
           url: activity
 
       - title: <span style="font-size:90%;">Personal</span>
-        content: <span style="font-size:70%">[Event]에는 요즘 이슈들을, [ETC]에는 제가 좋아하는 것들의 목록을 적어뒀습니다. [Blog]에는 제 블로그 글 중 일부를 가져왔습니다. </span>
+        content: <span style="font-size:70%">[Event]에는 요즘 이슈들을, [ETC]에는 제가 좋아하는 것들의 목록을 적어뒀습니다. <br> [Blog]에는 제 블로그 글 중 일부를 가져왔습니다. </span>
         align: center
         background:
           image:
@@ -265,7 +265,7 @@ sections:
     design:
       view: showcase
       columns: '2'
-
+      
 
   - block: markdown
     content:
