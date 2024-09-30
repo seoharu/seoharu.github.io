@@ -161,7 +161,7 @@ skills:
         icon: language
         icon_pack: fas
       - name: "English"
-        description: "Academic (말레이시아에서 한 학기 교환학생)"
+        description: "Academic <br> (말레이시아에서 한 학기 교환학생)"
         icon: earth-americas
         icon_pack: fas
       - name: "Spanish"
