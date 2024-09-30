@@ -55,12 +55,14 @@ _build:
   list: never
 
 interests:
-  - 인공지능 (AI)
-  - 데이터 분석 (Data Science)
-  - 개발 (Development)
-  - 의학, 의공학
-  - Medical AI & Brain
-  - Global
+  - Brain, Medical Science
+  - AI, Medical AI
+  - Data Science
+  - Development
+  
+  - Book
+  - Travel
+
 
 skills:
   - 데이터 분석 및 모델링

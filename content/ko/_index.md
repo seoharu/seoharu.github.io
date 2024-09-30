@@ -134,7 +134,7 @@ sections:
           icon: laptop-medical
           icon_pack: fas
           description:  <span style="font-size:90%;"> <span class="justified-text"> AI에서도 Medical AI 분야 위주로, 특히 뇌공학 분야에 AI 기술 적용해 뇌의 여러 비밀을 밝혀내고 싶습니다. 메디컬AI 연게 전공을 하고 있고 관련 랩실에서 학부 연구생으로 있습니다. </span></span><br><br>
-        - name: 데이터 분석 
+        - name: Data Science
           icon: calculator
           icon_pack: fas
           description: <span style="font-size:90%;"><span class="justified-text"> 여러 분야의 데이터를 분석하고 모델링하는 것에 관심 있습니다.</spn></span><br><br>

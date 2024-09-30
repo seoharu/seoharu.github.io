@@ -15,7 +15,7 @@ sections:
       
     design:
       background:
-        color: gray
+        color: #dfdfe6
 
   - block: markdown
     content:
