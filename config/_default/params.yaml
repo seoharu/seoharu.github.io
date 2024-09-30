@@ -27,7 +27,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'https://seoharu.github.io/sitemap.xml'
     baidu: ''
     bing: ''
 
