@@ -3,10 +3,14 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+
+
 # Appearance
 appearance:
-  mode: system
-  color: sky
+  theme_night: custom
+  theme_day: custom
+  font: native
+  font_size: L
 
 # SEO
 marketing:
@@ -14,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'seoharu.github.io : 최서연의 깃허브페이지'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -25,24 +29,34 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    bing: ''
 
 # Site header
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    blox: "my-navbar"
+    align: c
+    show_logo: true
     fixed_to_top: true
+    logo:
+      text: "CHOI SEOYEON"
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
+    button:
+      enable: true
+      text: "seoharu"
+      url: "https://seoharu.github.io/"
+    show_language: true
+    show_day_night: true
     show_search: true
     show_theme_chooser: true
-    show_translations: true
-    hide_language_name: false
-    logo:
-      text: "Sakang Hong"
 
+    
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2024} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -51,12 +65,31 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Sep 1, 2024'
+  time_format: '14:30 PM'
+
 
 # Site features
+
 features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+
+name: 최서연
+role: 학생
+organization: 전북대학교 컴퓨터공학부
+organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
+email: 'yunseul@jbnu.ac.kr'
+
