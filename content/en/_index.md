@@ -57,6 +57,7 @@ sections:
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: medical.jpg
             filters:
               brightness: 0.4
@@ -75,6 +76,7 @@ sections:
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: lab.jpg
             filters:
               brightness: 0.4
@@ -92,6 +94,7 @@ sections:
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: project.jpg
             filters:
               brightness: 0.4
@@ -109,6 +112,7 @@ sections:
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: malaysia.jpg
             filters:
               brightness: 0.4

@@ -57,6 +57,7 @@ sections:
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: medical.jpg
             filters:
               brightness: 0.4
@@ -75,6 +76,7 @@ sections:
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: lab.jpg
             filters:
               brightness: 0.4
@@ -92,6 +94,7 @@ sections:
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: project.jpg
             filters:
               brightness: 0.4
@@ -105,11 +108,11 @@ sections:
           url: projects
 
       - title: <span style="font-size:90%">Activity</span>
-        content: <span style="font-size:70%">여러 동아리 활동, 수상 내역과 자격증, 여러 다양한 경험들에 대한 내용입니다. <br>
-                  주요 내용에는 AUEA 파견 - 말레이시아 교환학생 경험이 있습니다. </span>
+        content: <span style="font-size:70%">여러 동아리 활동, 수상 내역과 자격증, 여러 다양한 경험들에 대한 내용입니다. <br> 주요 내용에는 AUEA 파견 - 말레이시아 교환학생 경험이 있습니다. </span>
         align: center
         background:
           image:
+            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: malaysia.jpg
             filters:
               brightness: 0.4
