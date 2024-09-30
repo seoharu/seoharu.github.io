@@ -30,13 +30,13 @@ sections:
       title: "Interests"
       items:
         - name: "인공지능 (AI)"
-          icon: code-branch
+          icon: microchip
           icon_pack: fas
         - name: "Data Science"
-          icon: database
+          icon: chart-line
           icon_pack: fas
         - name: "개발 (Development)"
-          icon: laptop
+          icon: laptop-code
           icon_pack: fas
         - name: "의학, 의공학"
           icon: brain
@@ -45,7 +45,7 @@ sections:
           icon: laptop-medical
           icon_pack: fas
         - name: "Algorithm"
-          icon: folder-tree
+          icon: sitemap
           icon_pack: fas
 
     design:
