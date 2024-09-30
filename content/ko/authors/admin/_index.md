@@ -2,23 +2,31 @@
 # Display name
 title: 최서연
 
-# Name pronunciation (optional)
-name_pronunciation: 하고싶은 거 다 하면서 살고싶은
-
 # Full name (for SEO)
 first_name: SEOYEON
 last_name: CHOI
+
+
+# Username (this should match the folder name)
+authors:
+  - admin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Name pronunciation (optional)
+name_pronunciation: 하고싶은 거 다 하면서 살고싶은
+
 
 # Status emoji
 status:
   icon: 💻
 
-authors:
-  - admin
-  
-# Is this the primary user of the site?
-superuser: true
 profile: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 
 # Role/position/tagline
 role: Student / Undergraduate Research Student
@@ -40,6 +48,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yunseul@jbnu.ac.kr'
+    label: E-mail Me!
   - icon: github
     icon_pack: fab
     link: https://github.com/seoharu
