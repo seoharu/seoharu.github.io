@@ -50,7 +50,7 @@ cascade:
       path: /about/*
       kind: section
     # Set the listing view
-    view: date-title-summary
+    view: widget
 
 ############################
 ## LANGUAGE
