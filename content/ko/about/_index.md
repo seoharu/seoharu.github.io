@@ -29,20 +29,20 @@ sections:
     content:
       title: "Interests"
       items:
+        - name: "의학, 의공학"
+          icon: notes-medical
+          icon_pack: fas
+        - name: "Medical AI & Brain"
+          icon: brain
+          icon_pack: fas
         - name: "인공지능 (AI)"
-          icon: microchip
+          icon: laptop
           icon_pack: fas
         - name: "Data Science"
           icon: chart-line
           icon_pack: fas
         - name: "개발 (Development)"
           icon: laptop-code
-          icon_pack: fas
-        - name: "의학, 의공학"
-          icon: brain
-          icon_pack: fas
-        - name: "Medical AI & Brain"
-          icon: laptop-medical
           icon_pack: fas
         - name: "Algorithm"
           icon: sitemap
