@@ -167,7 +167,7 @@ skills:
         icon_pack: fas
         percent: 60
       - name: "Spanish"
-        description: "일상 회화 가능"
+        description: "Conversational <br> 일상 회화 가능"
         icon: globe
         icon_pack: fas
         percent: 50
