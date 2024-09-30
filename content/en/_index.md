@@ -9,74 +9,150 @@ sections:
   - block: features
     content:
       title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
-      text: <p><span style="font-size:125%">Welcome to SEOYEON's Page!</span> </p>
-        {{% cta cta_link="./about/" cta_text="More Information →" %}}
+      text: |
+        <br><span class="justified-text">
+          I am an undergraduate student in the Computer Science and Engineering, and I am studying Medical AI as an joint major. As an undergraduate researcher in the Medical AI lab, I am conducting research and projects in the field of Medical AI. I try to fill my life with things I love to do and constantly push myself to do what I want to do. I want to become an expert in the field of medical artificial intelligence, especially in the field of neural networks.
+        </span> <br><br>
+        {{% cta cta_link="./about/" cta_text="more about →" 
+        class="justified-cta" %}}
 
   - block: slider
     content:
       slides:
-
-      - title: <span style="font-size:70%">About</span>
-        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+      - title: <span style="font-size:90%;">Home</span>
+        content: <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!</span>
         align: center
         background:
           image:
-            filename: 
+            filename: me.png
             filters:
               brightness: 0.4
           position: center
           color: '#000'
         link:
-          icon: user
+          icon: house-user
           icon_pack: fas
-          text: <span style="font-size:60%">Contact</span>
+          text: <span style="font-size:60%">Preview</span>
           text-color: '#000'
-          url: contact
-
-      - title: <span style="font-size:70%">Medical AI</span>
-        content: <span style="font-size:70%">joint major - Medical AI & undergraduate student researcher in MACS<span style="font-size:70%">
+          url: 'https://seoharu.github.io/'
+      - title: <span style="font-size:90%;">About</span>
+        content: <span style="font-size:70%">A summary of the homepage menu, submenus. </span>
         align: center
         background:
           image:
-            filename: 
+            filename: me.png
             filters:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: address-card
+          icon_pack: fas
+          text: <span style="font-size:60%">About</span>
+          text-color: '#000'
+          url: about
 
-      - title: <span style="font-size:70%">Project</span>
-        content: <span style="font-size:70%">Multiple projects and research in progress</span>
+      - title: <span style="font-size:90%">Research</span>
+        content: <span style="font-size:70%">This is about my work and research interests as an undergraduate research student in the Medical AI Lab.</span>
         align: center
         background:
           image:
-            filename: 
+            filename: medical.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: book-open
+          icon_pack: fas
+          text: <span style="font-size:60%">Research</span>
+          text-color: '#000'
+          url: research
+        
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Participated in several developments, including the Litmus Renewal Project</span>
+      - title: <span style="font-size:90%">Medical AI</span>
+        content: <span style="font-size:70%">Undergraduate Research Student in the Medical AI Lab<span style="font-size:70%">
         align: center
         background:
           image:
-            filename: 
+            filename: lab.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: tags
+          icon_pack: fas
+          text: <span style="font-size:60%">MacsLAB</span>
+          text-color: '#000'
+          url: https://jbnu.macs.or.kr/
 
-      - title: <span style="font-size:70%">Activity</span>
-        content: <span style="font-size:70%">Exchange student and more</span>
+      - title: <span style="font-size:90%">Projects</span>
+        content: <span style="font-size:70%">Here are some of my personal [Side], course [Course], and collaborative [Collaboration] projects. There are many projects related to development, data science, and medical AI.</span>
         align: center
         background:
           image:
-            filename: 
+            filename: project.jpg
             filters:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: laptop
+          icon_pack: fas
+          text: <span style="font-size:60%">Projects</span>
+          text-color: '#000'
+          url: projects
 
+      - title: <span style="font-size:90%">Activity</span>
+        content: <span style="font-size:70%">It's about my extracurricular activities, awards and certifications, and various experiences. <br> Highlights include the AUEA Placement - Malaysia exchange student experience. </span>
+        align: center
+        background:
+          image:
+            filename: malaysia.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: list-check
+          icon_pack: fas
+          text: <span style="font-size:60%">Activity</span>
+          text-color: '#000'
+          url: activity
+
+      - title: <span style="font-size:90%;">Personal</span>
+        content: <span style="font-size:70%">In [Events], I've put current events, and in [ETC], I've put a list of my favorite things. <br> In [Blog], I've pulled some of my blog posts. </span>
+        align: center
+        background:
+          image:
+            filename: me.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: blog
+          icon_pack: fas
+          text: <span style="font-size:60%">Personal</span>
+          text-color: '#000'
+          url: personal
+      - title: <span style="font-size:90%;">Contact</span>
+        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+        align: center
+        background:
+          image:
+            filename: me.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: envelope
+          icon_pack: fas
+          text: <span style="font-size:60%">Contact!</span>
+          text-color: '#000'
+          url: Contact
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '350px'
