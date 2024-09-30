@@ -99,6 +99,8 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
+  search:
+    provider: wowchemy
   map:
     provider: 'mapnik'
     api_key: ''
