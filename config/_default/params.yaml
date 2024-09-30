@@ -40,7 +40,7 @@ header:
     show_logo: true
     fixed_to_top: true
     logo:
-      text: "CHOI SEOYEON"
+      text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     button:
@@ -81,6 +81,24 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/seoharu/seoharu.github.io'
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   map:
     provider: 'mapnik'
     api_key: ''
@@ -100,4 +118,3 @@ role: 학생
 organization: 전북대학교 컴퓨터공학부
 organization_url: 'https://csai.jbnu.ac.kr/csai/index.do'
 email: 'yunseul@jbnu.ac.kr'
-
