@@ -14,7 +14,7 @@ sections:
       title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
       text: |
         <br><span class="justified-text">
-          최서연의 홈페이지에 오신 것을 환영합니다. <br> 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 의료 인공지능 관련 연구실 학부연구생으로서 메디컬AI 분야의 연구와 프로젝트를 수행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력하는, 하고 싶은 것들은 다 해야 직성이 풀리는 사람입니다. 앞으로도 메디컬AI 연구를 수행하며 특히 뇌신경 분야에서 독보적인 능력을 가진 전문가가 되고 싶습니다.
+          컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 의료 인공지능 관련 연구실 학부연구생으로서 메디컬AI 분야의 연구와 프로젝트를 수행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력하는, 하고 싶은 것들은 다 해야 직성이 풀리는 사람입니다. 앞으로도 메디컬AI 연구를 수행하며 특히 뇌신경 분야에서 독보적인 능력을 가진 전문가가 되고 싶습니다.
         </span> <br><br>
 
         {{% cta cta_link="./about/" cta_text="더 알아보기 →" 
@@ -25,9 +25,8 @@ sections:
   - block: slider
     content:
       slides:
-
-      - title: <span style="font-size:70%;">About</span>
-        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+      - title: <span style="font-size:90%;">Home</span>
+        content: <span style="font-size:70%">최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!</span>
         align: center
         background:
           image:
@@ -37,14 +36,30 @@ sections:
           position: center
           color: '#000'
         link:
-          icon: user
+          icon: house-user
           icon_pack: fas
-          text: <span style="font-size:60%">Contact</span>
+          text: <span style="font-size:60%">Preview</span>
           text-color: '#000'
-          url: contact
+          url: 'https://seoharu.github.io/'
+      - title: <span style="font-size:90%;">About</span>
+        content: <span style="font-size:70%">홈페이지 메뉴, 서브 메뉴의 요약본입니다. </span>
+        align: center
+        background:
+          image:
+            filename: me.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: address-card
+          icon_pack: fas
+          text: <span style="font-size:60%">About</span>
+          text-color: '#000'
+          url: about
 
-      - title: <span style="font-size:70%">Bio</span>
-        content: <span style="font-size:70%">Major - 컴퓨터공학부<br> Joint Major - 메디컬AI 연계전공</span>
+      - title: <span style="font-size:90%">Research</span>
+        content: <span style="font-size:70%">의료 인공지능 랩실 학부연구생으로서 수행하는 저의 연구 과제와 연구 분야에 대한 내용입니다.</span>
         align: center
         background:
           image:
@@ -53,9 +68,15 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: book-open
+          icon_pack: fas
+          text: <span style="font-size:60%">Research</span>
+          text-color: '#000'
+          url: research
         
 
-      - title: <span style="font-size:70%">Medical AI</span>
+      - title: <span style="font-size:90%">Medical AI</span>
         content: <span style="font-size:70%">의료 인공지능 랩실 학부연구생<span style="font-size:70%">
         align: center
         background:
@@ -72,8 +93,8 @@ sections:
           text-color: '#000'
           url: https://jbnu.macs.or.kr/
 
-      - title: <span style="font-size:70%">Project</span>
-        content: <span style="font-size:70%">데이터 과학, 모델링 및 렌더링 등 여러 프로젝트와 의료AI 연구 진행</span>
+      - title: <span style="font-size:90%">Projects</span>
+        content: <span style="font-size:70%">제가 개인적으로 수행한 Side 프로젝트들, 수업 과제로 수행한 Course 프로젝트들, 협력하여 진행한 Collaboration 프로젝트들을 소개합니다. 개발과 데이터 과학, 메디컬AI 관련 프로젝트들이 많습니다.</span>
         align: center
         background:
           image:
@@ -82,20 +103,16 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: laptop
+          icon_pack: fas
+          text: <span style="font-size:60%">Projects</span>
+          text-color: '#000'
+          url: projects
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Litmus Renewal Project 등 여러 개발에 참여</span>
-        align: center
-        background:
-          image:
-            filename: development.jpg
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">Activity</span>
-        content: <span style="font-size:70%">교환학생 등 다양한 활동</span>
+      - title: <span style="font-size:90%">Activity/span>
+        content: <span style="font-size:70%">여러 동아리 활동, 수상 내역과 자격증, 여러 다양한 경험들에 대한 내용입니다. <br>
+                  주요 내용에는 AUEA 파견 - 말레이시아 교환학생 경험이 있습니다. </span>
         align: center
         background:
           image:
@@ -104,6 +121,45 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
+        link:
+          icon: list-check
+          icon_pack: fas
+          text: <span style="font-size:60%">Activity/span>
+          text-color: '#000'
+          url: activity
+
+      - title: <span style="font-size:90%;">Personal</span>
+        content: <span style="font-size:70%">[Event]에는 요즘 이슈들을, [ETC]에는 제가 좋아하는 것들의 목록을 적어뒀습니다. [Blog]에는 제 블로그 글 중 일부를 가져왔습니다. </span>
+        align: center
+        background:
+          image:
+            filename: me.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: blog
+          icon_pack: fas
+          text: <span style="font-size:60%">Personal</span>
+          text-color: '#000'
+          url: personal
+      - title: <span style="font-size:90%;">Contact</span>
+        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+        align: center
+        background:
+          image:
+            filename: me.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+        link:
+          icon: blog
+          icon_pack: fas
+          text: <span style="font-size:60%">Contact!</span>
+          text-color: '#000'
+          url: contact
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
