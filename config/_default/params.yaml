@@ -3,14 +3,10 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-
-
 # Appearance
 appearance:
-  theme_night: custom
-  theme_day: custom
-  font: native
-  font_size: L
+  mode: light
+  color: indigo
 
 # SEO
 marketing:
