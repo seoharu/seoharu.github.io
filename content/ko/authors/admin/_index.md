@@ -59,9 +59,8 @@ interests:
   - AI, Medical AI
   - Data Science
   - Development
-  
-  - Book
-  - Travel
+  - Astrophysics, Astronomy
+  - Chemical, Medicine
 
 
 skills:
