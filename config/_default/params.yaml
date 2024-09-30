@@ -51,12 +51,13 @@ header:
     show_day_night: true
     show_search: true
     show_theme_chooser: true
+    show_translations: true
 
     
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -65,8 +66,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Sep 1, 2024'
-  time_format: '14:30 PM'
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
 
 
 # Site features
