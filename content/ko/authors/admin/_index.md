@@ -159,6 +159,8 @@ skills:
         icon_pack: fab
       - name: TypeScript
         description: ''
+        icon: clipboard-check
+        icon_pack: fas
         percent: 30
 
   - name: Deep Learning Frameworks
@@ -176,6 +178,12 @@ skills:
         description: ''
         icon: vuejs
         icon_pack: fab
+        percent: 35
+      - name: React
+        description: ''
+        icon: react
+        icon_pack: fab
+        percent: 20
 
   - name: DBMS
     items:
