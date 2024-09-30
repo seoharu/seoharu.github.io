@@ -171,24 +171,40 @@ skills:
 
   - name: Technical Field
     items:
-      - name: 데이터 분석 및 모델링
+      - name: Data Science
         description: ''
         percent: 50
-        icon: chart-bar
+        icon: chart-area
         icon_pack: fas
       - name: Front-end
         description: ''
-        icon: laptop-code
+        icon: desktop
         icon_pack: fas
         percent: 40
       - name: Back-end
         description: ''
-        icon: laptop-file
+        icon: server
         icon_pack: fas
         percent: 10
       - name: AI
         description: ''
-        icon: ai
+        icon: microchip
+        icon_pack: fas
+        percent: 30
+      - name: Cloud
+        description: ''
+        icon: cloud-arrow-up
+        icon_pack: fas
+        percent: 20
+      - name: Database
+        description: ''
+        icon: database
+        icon_pack: fas
+        percent: 20
+      - name: Open Source
+        description: ''
+        icon: diagram-project
+        icon_pack: fas
         percent: 30
   
 

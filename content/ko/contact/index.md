@@ -14,6 +14,8 @@ sections:
       email: yunseul(at)jbnu.ac.kr
       phone: +82-10-8589-7591
       address:
+        icon: location-dot
+        icon_pack: fas
         street: 전북대학교 공과대학 7호관 533호
         city: 전주시
         region: 전라북도
@@ -34,6 +36,9 @@ sections:
           icon_pack: fab
           name: Discord Me
           link: "discordapp.com/users/1080733192723644416"
+        - icon: google
+          icon_pack: fab
+          link: 'yunseul(at)jbnu.ac.kr'
       
        
     
