@@ -27,7 +27,7 @@ sections:
       slides:
       - title: <span style="font-size:90%;">Home</span>
         content: |-
-        <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!
+          <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!
           <br> image creidt: photo by me </span>
         align: center
         background:
