@@ -60,16 +60,13 @@ sections:
 
       - title: <span style="font-size:90%">Research</span>
         content: |- 
-          <span style="font-size:70%">의료 인공지능 랩실 학부연구생으로서 수행하는 저의 연구 과제와 연구 분야에 대한 내용입니다. <div style="text-align: left; margin-bottom: 5px;">
-                Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
-            </div> 
-          
-          </span>
+          <span style="font-size:70%">의료 인공지능 랩실 학부연구생으로서 수행하는 저의 연구 과제와 연구 분야에 대한 내용입니다. </span>
             
         align: center
         background:
           image:
             filename: medical.jpg
+            content_html: "Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>"
             filters:
               brightness: 0.4
           position: center
@@ -85,14 +82,11 @@ sections:
       - title: <span style="font-size:90%">Medical AI</span>
         content: |-
           <span style="font-size:70%">의료 인공지능 랩실 학부연구생<span style="font-size:70%">
-            <div style="text-align: left; margin-bottom: 5px;">
-                Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
-            </div> 
         align: center
         background:
           image:
             filename: lab.jpg
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+            content_html: "Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>"
             filters:
               brightness: 0.4
           position: center
