@@ -150,7 +150,8 @@ sections:
 
       - title: <span style="font-size:90%;">Personal</span>
         content: |- 
-          <span style="font-size:70%">[Event]에는 요즘 이슈들을, [ETC]에는 제가 좋아하는 것들의 목록을 적어뒀습니다. <br> [Blog]에는 제 블로그 글 중 일부를 가져왔습니다. </span>
+          <span style="font-size:70%">[Event]에는 요즘 이슈들을, [ETC]에는 제가 좋아하는 것들의 목록을 적어뒀습니다. <br> [Blog]에는 제 블로그 글 중 일부를 가져왔습니다. <br> image credit: photo by me
+          </span>
         align: center
         background:
           image:
