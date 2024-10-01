@@ -72,7 +72,7 @@ sections:
           brightness: 0.4
           position: center
           color: '#000'
-          banner: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+          caption: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
         link:
           icon: book-open
           icon_pack: fas
