@@ -68,11 +68,12 @@ sections:
             filename: medical.jpg
             filters:
               brightness: 0.4
+            src: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           fit: cover
           brightness: 0.4
           position: center
           color: '#000'
-          caption: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+          
         link:
           icon: book-open
           icon_pack: fas
