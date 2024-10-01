@@ -167,9 +167,9 @@ sections:
           url: personal
       - title: <span style="font-size:90%;">Contact</span>
         content: |-
-        <span style="font-size:70%">Interested in SEOYEON?
+          <span style="font-size:70%">Interested in SEOYEON?
           <br> image credit: photo by me
-        </span>
+          </span>
         align: center
         background:
           image:
