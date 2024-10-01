@@ -26,7 +26,9 @@ sections:
     content:
       slides:
       - title: <span style="font-size:90%;">Home</span>
-        content: <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!</span>
+        content: |-
+        <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!
+          <br> image creidt: photo by me </span>
         align: center
         background:
           image:
@@ -42,7 +44,10 @@ sections:
           text-color: '#000'
           url: 'https://seoharu.github.io/'
       - title: <span style="font-size:90%;">About</span>
-        content: <span style="font-size:70%">홈페이지 메뉴, 서브 메뉴의 요약본입니다. </span>
+        content: |- 
+          <span style="font-size:70%">홈페이지 메뉴, 서브 메뉴의 요약본입니다. 
+            <br> image credit: photo by me
+          </span>
         align: center
         background:
           image:
@@ -161,7 +166,10 @@ sections:
           text-color: '#000'
           url: personal
       - title: <span style="font-size:90%;">Contact</span>
-        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+        content: |-
+        <span style="font-size:70%">Interested in SEOYEON?
+          <br> image credit: photo by me
+        </span>
         align: center
         background:
           image:
