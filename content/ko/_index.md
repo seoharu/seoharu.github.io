@@ -64,11 +64,10 @@ sections:
             
         align: center
         background:
-          image:
-            filename: medical.jpg
-            content_html: "Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>"
-            filters:
-              brightness: 0.4
+          media: medical.jpg
+          content_html: "Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>"
+          fit: cover
+          brightness: 0.4
           position: center
           color: '#000'
         link:
@@ -86,7 +85,6 @@ sections:
         background:
           image:
             filename: lab.jpg
-            content_html: "Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>"
             filters:
               brightness: 0.4
           position: center
