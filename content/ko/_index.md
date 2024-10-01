@@ -64,12 +64,15 @@ sections:
             
         align: center
         background:
-          media: medical.jpg
-          content_html: "Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>"
+          image:
+            filename: medical.jpg
+            filters:
+              brightness: 0.4
           fit: cover
           brightness: 0.4
           position: center
           color: '#000'
+          banner: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
         link:
           icon: book-open
           icon_pack: fas
@@ -100,9 +103,7 @@ sections:
         content: |-
           <span style="font-size:70%">제가 개인적으로 수행한 [Side], 수업 과제로 수행한 [Course], 협력하여 진행한 [Collaboration] 프로젝트들을 소개합니다. 개발과 데이터 과학, 메디컬AI 관련 프로젝트들이 많습니다.</span>
 
-            <div style="text-align: left; margin-bottom: 5px;">
-                Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
-            </div> 
+            
         align: center
         background:
           image:
