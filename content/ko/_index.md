@@ -60,21 +60,20 @@ sections:
 
       - title: <span style="font-size:90%">Research</span>
         content: |- 
-          <span style="font-size:70%">의료 인공지능 랩실 학부연구생으로서 수행하는 저의 연구 과제와 연구 분야에 대한 내용입니다.</span>
-            <div style="text-align: left; margin-bottom: 5px;">
+          <span style="font-size:70%">의료 인공지능 랩실 학부연구생으로서 수행하는 저의 연구 과제와 연구 분야에 대한 내용입니다. <div style="text-align: left; margin-bottom: 5px;">
                 Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
             </div> 
+          
+          </span>
+            
         align: center
         background:
           image:
             filename: medical.jpg
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filters:
               brightness: 0.4
           position: center
           color: '#000'
-          banner:
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
         link:
           icon: book-open
           icon_pack: fas
@@ -98,8 +97,6 @@ sections:
               brightness: 0.4
           position: center
           color: '#000'
-          banner:
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
         link:
           icon: tags
           icon_pack: fas
@@ -118,7 +115,6 @@ sections:
         background:
           image:
             filename: project.jpg
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filters:
               brightness: 0.4
           position: center
@@ -133,7 +129,7 @@ sections:
       - title: <span style="font-size:90%">Activity</span>
         content: |-
           <span style="font-size:70%">여러 동아리 활동, 수상 내역과 자격증, 여러 다양한 경험들에 대한 내용입니다. <br> 주요 내용에는 AUEA 파견 - 말레이시아 교환학생 경험이 있습니다. </span>
-           <div style="text-align: left; margin-bottom: 5px;">
+            <div style="text-align: left; margin-bottom: 5px;">
                 Image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
             </div> 
         align: center
