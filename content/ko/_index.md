@@ -291,7 +291,15 @@ sections:
     design:
       view: showcase
       columns: '4'
-      css_style: 
+      css_style: |-
+        .col-12 {
+        display: grid;
+        grid-template-columns: repeat(2, 80%);
+        .col-lg-12 .mb-5 .view-showcase {
+            grid-column: span 1; /* 각 아이템이 한 열을 차지하도록 설정 */
+            margin-bottom: 0 !important; /* 기존 마진 제거 */
+          }
+        }
         
         
   - block: markdown
