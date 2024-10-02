@@ -291,7 +291,7 @@ sections:
     design:
       view: showcase
       columns: '4'
-      css_style: class="row-fit"
+      css_style: "row-fit"
         
         
   - block: markdown
