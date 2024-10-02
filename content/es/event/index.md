@@ -6,7 +6,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: Event page
+        - title: Página del Evento
           content: mostrar mis números recientes
           align: center
           background:
@@ -20,7 +20,7 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Language
+        - title: Idioma
           content: |-
             Estoy aprendiendo español estos días. <br> I am also studying English. <br> Of course, Java.   
             <div style="text-align: left; margin-bottom: 5px;">
@@ -40,7 +40,7 @@ sections:
             position: right
             color: '#555'
             
-        - title: Concert
+        - title: Concierto
           content: |-
             2023.02.05 : 2022 YOUNHA CONCERT C 2022YH <br>
             2024.02.07 : TAYLOR SWIFT THE ERAS TOUR (at) Tokyo Dome <br>
