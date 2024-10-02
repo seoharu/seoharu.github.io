@@ -80,8 +80,8 @@
 
 // }
 .col-lg-12 .col-lg-8 {
-    flex: 0 0 100%;
-    max-width: 100%;
+    flex: 0 0 50%;
+    max-width: 50%;
     padding: 15px;
 }
 @media (min-width: 992px) {
@@ -94,6 +94,10 @@
     }
 }
 
+.mb-5 {
+    margin-bottom: 0 !important; /* 기존 마진 제거 */
+  }
+  
 .view-showcase {
     height: 20%; /* 카드 높이를 동일하게 유지 */
   }
