@@ -139,3 +139,9 @@
       }
     }
   }
+
+.col-lg-12 .mb-5 .view-showcase {
+    display: grid;
+    grid-template-columns: repeat(2, 80%);
+}
+  
