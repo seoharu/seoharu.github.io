@@ -291,9 +291,7 @@ sections:
     design:
       view: showcase
       columns: '4'
-      css_style: |- 
-      " display: grid;
-        grid-template-columns: repeat(2, 90%);"
+      css_style: "text-align: center"
         
         
   - block: markdown
