@@ -80,15 +80,13 @@
 
 // }
 .row {
-    display: flex;
-    flex-wrap: wrap;
-    margin: -15px; /* 네거티브 마진으로 간격 조정 */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 두 개의 동일한 너비의 열 생성 */
+    gap: 20px; /* 그리드 아이템 사이의 간격 */
   }
-  
+
 .col-lg-12 {
-    flex: 0 0 50%;
-    max-width: 50%;
-    padding: 15px;
+    grid-column: span 1; /* 각 아이템이 한 열을 차지하도록 설정 */
 }
 @media (min-width: 992px) {
     // .col-lg-8 {
