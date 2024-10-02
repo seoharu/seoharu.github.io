@@ -1,172 +1,205 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2024-09-01
+title: "about"
+date: 2024-09-20
 type: landing
-
-# Display name
-title: CHOI SEOYEON
-
-# Full Name (for SEO)
-first_name: SEOYEON
+description: "Página web de Seoyeon Choi, que estudia Inteligencia Artificial médica e informática."
+keywords: ["CHOI SEOYEON", "Medical AI", "Computer Science", "JBNU"]
+draft: false
+# Full name (for SEO)
+first_name: SEOYEON 최서연
 last_name: CHOI
 
-# Username (this should match the folder name)
-# authors:
-#   - admin 
+sections:
+  - block: about.biography
+    id: about
+    content:
+      title: ''
+      username: admin
+      
+    design:
+      background:
+        color: #dfdfe6
 
-# Is this the primary user of the site?
-superuser: true
+  - block: markdown
+    content:
+      title: About me
+      text: |- 
+        <span class="justified-text">
+        어릴 때부터 의학, 특히 뇌와 뇌신경에 관심이 많았습니다. 뇌를 연구하기 위해 우선 컴퓨터공학과 인공지능을 배워야겠다는 생각 하에 전북대학교 컴퓨터공학부에 입학했고, 컴퓨터공학부와 바이오메디컬공학부의 수업을 들으며 의학과 의공학, 컴퓨터공학의 전반을 배우고 있습니다. 여러 분야를 넘나들며 연결짓고 융합해 복합적인 무언가를 만들어내는 것을 즐깁니다. 그중에서도 의학과 공학을 융합해 의공학, 뇌공학 전반을 연구하며 뇌를 탐구하고 싶습니다. 의료인공지능의 응용 영역에서도 뇌공학과 뇌신경 쪽, 특히 뇌 컴퓨터 인터페이스 분야의 뇌신경 모델링과 심층신경망 분야에서 뇌의 메커니즘을 해석하는 연구에 관심 있습니다. </span>
+        
 
-# Role/position
-role: student
+  - block: features
+    content:
+      title: "Interests"
+      items:
+        - name: "의학, 의공학"
+          icon: notes-medical
+          icon_pack: fas
+        - name: "Medical AI & Brain"
+          icon: brain
+          icon_pack: fas
+        - name: "인공지능 (AI)"
+          icon: laptop
+          icon_pack: fas
+        - name: "Data Science"
+          icon: chart-line
+          icon_pack: fas
+        - name: "개발 (Development)"
+          icon: laptop-code
+          icon_pack: fas
+        - name: "Algorithm"
+          icon: sitemap
+          icon_pack: fas
 
-# Organizations/Affiliations
-organizations:
-  - name: JEONBUK NATIONAL UNIVERSITY - Division of Computer Science and Engineering
-    url: 'https://csai.jbnu.ac.kr/csai/index.do'
-Affiliation:
-  - name: JBNU-MACS (MacsLAB)
-    url: 'https://jbnu.macs.or.kr'
-Major:
-  - name: Computer Science and Engineering
-Joint Major:
-  - name: Medical AI
+    design:
+      columns: '1'
 
-# Short bio (displayed in user profile at end of posts)
-bio: I am an undergraduate in computer science and studying medical AI as a joint major. I am working as an undergraduate research student in a related lab and conducting research and projects in the field of medical AI. I constantly try to fill my daily life with what I like and develop.
+  - block: skills
+    content:
+      title: Languages & Technologies
+      text: ''
+      username: admin
+      css_style: |
+        #section-skills > .col-12 {
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+          justify-content: flex-start;
+        } 
+        
+        #section-skills .row {
+          display: flex;
+          flex-direction: column;
+        }
+        #section-skills .col-12 .col-md-6 {
+          flex-direction: column;
+          flex: 0 0 25%;
+        }
+        .skills-content {
+          margin-left: 30px;
+          margin-right: 30px;
+        }
+        .skills-wrapper {
+          border: 1px solid #00E5E5;
+        }
+        .skills-percent {
+          background-color: #00FFFF;
 
-interests:
-  - AI
-  - Data Science
-  - Development
-  - Medical AI & Brain
+        }
+          
+    design:
+        columns: '1'
 
-education:
-  courses:
-    - course: M.S. in (Electronics and Information Engineering Department (Computer Engineering Major))
-      institution: JEONBUK NATIONAL UNIVERSITY (integrated B.S & M.S)
-      year: 2025.09 ~ 2027.02 (plan)
-    - course: B.S. in (Division of Computer Science and Engineering)
-      institution: JEONBUK NATIONAL UNIVERSITY
-      year: 2022 ~ ing (Expected to graduate in 2025.09)
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      username: admin2
+      css_style: |
+        #section-skills > .col-12 {
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+          justify-content: flex-start;
+        } 
+        
+        #section-skills .row {
+          display: flex;
+          flex-direction: column;
+        }
+        #section-skills .col-12 .col-md-6 {
+          display: flex;
+          flex: 0 0 50%;
+        }
+        .skills-content {
+          margin-left: 30px;
+          margin-right: 30px;
+        }
+        .skills-wrapper {
+          border: 1px solid #00E5E5;
+        }
+        .skills-percent {
+          background-color: #00FFFF;
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yunseul@jbnu.ac.kr'
+        }
 
-  - icon: cv
-    icon_pack: ai
-    <!-- link:  -->
-  - icon: github
-    icon_pack: github
-    link: https://github.com/seoharu
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    design:
+      columns: 1
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yunseul@jbnu.ac.kr'
+  - block: collection
+    content:
+      id: section-1
+      title: Various Activities
+      subtitle:
+      text:
+      count: 60
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - collaborate
+          - researchproject
+          - course
+    design:
+      view: card
+      columns: '2'
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-#   - admin 
+  - block: features
+    content:
+      title: Favorites
+      items:
+        - name: Cat
+          icon: cat
+          icon_pack: fas
+        - name: Book
+          icon: book-bookmark
+          icon_pack: fas
+        - name: Music
+          icon: guitar
+          icon_pack: fas
 
+        - name: Photography
+          icon: camera-retro
+          icon_pack: fas
+        - name: Coffee & Tea
+          icon: mug-saucer
+          icon_pack: fas
+        - name: Whiskey
+          icon: whiskey-glass
+          icon_pack: fas
+
+    design:
+      columns: 2
+
+  
+  - block: experience
+    content:
+      title: Education
+      items:
+        - title: M.S. in 전자.정보공학부(컴퓨터공학전공)
+          description: 전북대학교 (학석사 연계 과정)
+          date_start: '2025-09-02'
+          date_end: '2027-02-28'
+        - title: B.S. in (컴퓨터공학부)
+          description: 전북대학교 (JBNU) 컴퓨터공학부
+          date_start: '2022-03-02'
+          date_end: '2025-08-31'
+
+  - block: tag_cloud
+    content:
+      title: My tags
+      subtitle: ''
+      text: 어떤 태그들을 주로 사용했는지 확인할 수 있습니다.
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 0
+    design:
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0
 
 ---
 
-In the applications of medical artificial intelligence, i'm interested in the brain engineering cranial nerves, especially cranial neural modeling in the brain computer interface, and the study of interpreting the mechanisms of the brain in the field of deep neural networks.
 
-sections:
-
-  <!-- - block: features
-    content:
-      title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
-      text: <br><span style="font-size:125%">최서연의 홈페이지에 오신 것을 환영합니다.</span> <br><br>
-        {{% cta cta_link="./about/" cta_text="더 알아보기 →" %}} -->
-
-  - block: slider
-    content:
-      slides:
-
-      - title: <span style="font-size:70%">About</span>
-        content: <span style="font-size:70%">Interested in SEOYEON?</span>
-        align: center
-        background:
-          image:
-            filename: 
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-        link:
-          icon: user
-          icon_pack: fas
-          text: <span style="font-size:60%">Contact</span>
-          text-color: '#000'
-          url: contact
-
-      - title: <span style="font-size:70%">Medical AI</span>
-        content: <span style="font-size:70%">joint major - Medical AI & undergraduate student researcher in MACS<span style="font-size:70%">
-        align: center
-        background:
-          image:
-            filename: 
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">Project</span>
-        content: <span style="font-size:70%">Multiple projects and research in progress</span>
-        align: center
-        background:
-          image:
-            filename: 
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">Participated in several developments, including the Litmus Renewal Project</span>
-        align: center
-        background:
-          image:
-            filename: 
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-
-      - title: <span style="font-size:70%">Activity</span>
-        content: <span style="font-size:70%">Exchange student and more</span>
-        align: center
-        background:
-          image:
-            filename: 
-            filters:
-              brightness: 0.4
-          position: center
-          color: '#000'
-         
-
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
