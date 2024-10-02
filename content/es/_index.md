@@ -96,7 +96,7 @@ sections:
 
       - title: <span style="font-size:90%">Projects</span>
         content: |- 
-          <span style="font-size:70%"Aquí encontrarás un vistazo a mis proyectos personales, docentes y de colaboración centrados en el desarrollo, la ciencia de datos y la IA médica. <br>
+          <span style="font-size:70%">Aquí encontrarás un vistazo a mis proyectos personales, docentes y de colaboración centrados en el desarrollo, la ciencia de datos y la IA médica. <br>
           image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
