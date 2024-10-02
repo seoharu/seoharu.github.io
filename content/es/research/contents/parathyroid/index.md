@@ -5,4 +5,4 @@ tags: ["paper"]
 date: "2024-04-01"
 ---
 
-MACS LAB (https://jbnu.macs.or.kr/)에서 Parathyroid 데이터셋을 가지고 reader test를 위한 label tools 제작 및 웹사이트 개발과 함께 관련 연구를 진행 중입니다.
+Estoy trabajando en una producción de herramientas de etiqueta y desarrollo de sitios web para la prueba de lectores con el conjunto de datos paratiroides en MACS LAB (https://jbnu.macs.or.kr/) . Además, estoy escribiendo sobre un estudio relacionado.

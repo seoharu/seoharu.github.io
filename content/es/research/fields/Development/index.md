@@ -1,5 +1,5 @@
 ---
-title: "개발 (Development) 연구 주제"
+title: "Development Research Topics"
 description: ""
 tags: ["fields"]
 date: "2024-04-01"
@@ -10,4 +10,4 @@ banner:
   image: 'featured.jpg'
 ---
 
-Reader test, labeling tool 제작 위주
+Focus on Reader test, labeling tool 

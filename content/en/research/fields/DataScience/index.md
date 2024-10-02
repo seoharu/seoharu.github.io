@@ -1,5 +1,5 @@
 ---
-title: "Data Science 연구 주제"
+title: "Data Science Research Topics"
 description: ""
 tags: ["fields"]
 date: "2024-04-01"
@@ -12,4 +12,4 @@ banner:
 ---
 
 
-데이터 분석, 모델링
+Data Analysis, Modeling
