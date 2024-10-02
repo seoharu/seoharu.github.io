@@ -88,15 +88,15 @@
 .col-lg-12 {
     grid-column: span 1; /* 각 아이템이 한 열을 차지하도록 설정 */
 }
-@media (min-width: 992px) {
-    // .col-lg-8 {
-    //     flex: 0 0 67%;
-    // }
-    .col-lg-12 {
-        flex: 0 0 50%;
-        max-width: 50%;
-    }
-}
+// @media (min-width: 992px) {
+//     // .col-lg-8 {
+//     //     flex: 0 0 67%;
+//     // }
+//     .col-lg-12 {
+//         flex: 0 0 50%;
+//         max-width: 50%;
+//     }
+// }
 
 
 .mb-5 {
