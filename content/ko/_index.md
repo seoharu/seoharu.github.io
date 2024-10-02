@@ -294,8 +294,6 @@ sections:
       css_style: 
         
         
-      
-
   - block: markdown
     content:
       title:
