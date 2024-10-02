@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 최서연
+title: CHOI SEOYEON
 
 # Full name (for SEO)
 first_name: SEOYEON 최서연
@@ -236,7 +236,7 @@ user_groups:
 website: "https://seoharu.github.io/"
 ---
 
-<span class="justified-text"> 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. </span>
+<span class="justified-text">  I am an undergraduate student in computer science engineering and a medical AI joint major. While working as an undergraduate research student in a related lab, I am conducting research and projects in the field of medical AI. I constantly try to fill my daily life with what I like and develop. </span>
 
 
 

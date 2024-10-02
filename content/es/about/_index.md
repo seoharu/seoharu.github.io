@@ -150,20 +150,20 @@ sections:
     content:
       title: Favorites
       items:
-        - name: Cat
+        - name: Gato
           icon: cat
           icon_pack: fas
-        - name: Book
+        - name: Libro
           icon: book-bookmark
           icon_pack: fas
-        - name: Music
+        - name: Música
           icon: guitar
           icon_pack: fas
 
-        - name: Photography
+        - name: Fotografía
           icon: camera-retro
           icon_pack: fas
-        - name: Coffee & Tea
+        - name: Café y Té
           icon: mug-saucer
           icon_pack: fas
         - name: Whiskey
