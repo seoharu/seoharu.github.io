@@ -79,33 +79,17 @@
 //     flex: 0 0 50%;
 
 // }
-.row {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 두 개의 동일한 너비의 열 생성 */
-    gap: 20px; /* 그리드 아이템 사이의 간격 */
-  }
 
-.col-lg-12 {
-    grid-column: span 1; /* 각 아이템이 한 열을 차지하도록 설정 */
+@media (min-width: 992px) {
+    // .col-lg-8 {
+    //     flex: 0 0 67%;
+    // }
+    .col-lg-12 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
 }
-// @media (min-width: 992px) {
-//     // .col-lg-8 {
-//     //     flex: 0 0 67%;
-//     // }
-//     .col-lg-12 {
-//         flex: 0 0 50%;
-//         max-width: 50%;
-//     }
-// }
 
-
-.mb-5 {
-    margin-bottom: 0 !important; /* 기존 마진 제거 */
-  }
-
-.view-showcase {
-    height: 20%; /* 카드 높이를 동일하게 유지 */
-  }
 
 .skills-wrapper {
     border: 1px solid #0073E5;
