@@ -241,21 +241,21 @@ sections:
           description:  <span style="font-size:90%;"> <span class="justified-text"> 여행 다니는 것을 좋아합니다. 버뮤다 삼각지대, 세렝게티 등 여러 신비로운 곳들과 우주에까지 가닿고 싶습니다.</span> </span><br><br>
 
   - block: collection
-  content:
-    id: section-1
-    title: Research Projects
-    subtitle:
-    text:
-    count: 30
-    offset: 0
-    order: desc
-    filters:
-      folders:
-        - researchproject
-        - 
-  design:
-    view: compact
-    columns: '2'
+    content:
+      id: section-1
+      title: Research Projects
+      subtitle:
+      text:
+      count: 30
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - researchproject
+          - 
+    design:
+      view: compact
+      columns: '2'
 
   - block: collection
     content:
