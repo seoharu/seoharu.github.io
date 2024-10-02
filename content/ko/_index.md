@@ -291,15 +291,9 @@ sections:
     design:
       view: showcase
       columns: '4'
-      css_style: ".row {
-        display: grid;
-        grid-template-columns: repeat(2, 90%);
-        gap: 10px;
-      
-        .col-12 {
-            flex: 0 0 50%;
-        }
-    }"
+      css_style: |- 
+      " display: grid;
+        grid-template-columns: repeat(2, 90%);"
         
         
   - block: markdown
