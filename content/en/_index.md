@@ -20,7 +20,9 @@ sections:
     content:
       slides:
       - title: <span style="font-size:90%;">Home</span>
-        content: <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!</span>
+        content: |- 
+          <span style="font-size:70%"> 최서연의 홈페이지 [seoharu.github.io]에 오신 것을 환영합니다!
+          <br> image credit: photo by me </span>
         align: center
         background:
           image:
@@ -36,7 +38,9 @@ sections:
           text-color: '#000'
           url: 'https://seoharu.github.io/'
       - title: <span style="font-size:90%;">About</span>
-        content: <span style="font-size:70%">A summary of the homepage menu, submenus. </span>
+        content: |-
+          <span style="font-size:70%">A summary of the homepage menu, submenus. 
+          <br> image credit: photo by me </span>
         align: center
         background:
           image:
@@ -53,11 +57,13 @@ sections:
           url: about
 
       - title: <span style="font-size:90%">Research</span>
-        content: <span style="font-size:70%">This is about my work and research interests as an undergraduate research student in the Medical AI Lab.</span>
+        content: |- 
+          <span style="font-size:70%">This is about my work and research interests as an undergraduate research student in the Medical AI Lab. <br>
+            image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+          </span>
         align: center
         background:
           image:
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: medical.jpg
             filters:
               brightness: 0.4
@@ -72,7 +78,11 @@ sections:
         
 
       - title: <span style="font-size:90%">Medical AI</span>
-        content: <span style="font-size:70%">Undergraduate Research Student in the Medical AI Lab<span style="font-size:70%">
+        content: |- 
+          <span style="font-size:70%">Undergraduate Research Student in the Medical AI Lab
+          <br>
+            image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+          </span>
         align: center
         background:
           image:
@@ -90,11 +100,13 @@ sections:
           url: https://jbnu.macs.or.kr/
 
       - title: <span style="font-size:90%">Projects</span>
-        content: <span style="font-size:70%">Here are some of my personal [Side], course [Course], and collaborative [Collaboration] projects. There are many projects related to development, data science, and medical AI.</span>
+        content: |- 
+          <span style="font-size:70%">Here are some of my personal [Side], course [Course], and collaborative [Collaboration] projects. There are many projects related to development, data science, and medical AI. <br>
+            image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+            </span>
         align: center
         background:
           image:
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: project.jpg
             filters:
               brightness: 0.4
@@ -108,11 +120,13 @@ sections:
           url: projects
 
       - title: <span style="font-size:90%">Activity</span>
-        content: <span style="font-size:70%">It's about my extracurricular activities, awards and certifications, and various experiences. <br> Highlights include the AUEA Placement - Malaysia exchange student experience. </span>
+        content: |- 
+          <span style="font-size:70%">It's about my extracurricular activities, awards and certifications, and various experiences. <br> Highlights include the AUEA Placement - Malaysia exchange student experience.  <br>
+            image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
+          </span>
         align: center
         background:
           image:
-            caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
             filename: malaysia.jpg
             filters:
               brightness: 0.4
@@ -126,7 +140,9 @@ sections:
           url: activity
 
       - title: <span style="font-size:90%;">Personal</span>
-        content: <span style="font-size:70%">In [Events], I've put current events, and in [ETC], I've put a list of my favorite things. <br> In [Blog], I've pulled some of my blog posts. </span>
+        content: |- 
+          <span style="font-size:70%">In [Events], I've put current events, and in [ETC], I've put a list of my favorite things. <br> In [Blog], I've pulled some of my blog posts. <br> image credit: photo by me 
+          </span>
         align: center
         background:
           image:
@@ -142,7 +158,9 @@ sections:
           text-color: '#000'
           url: personal
       - title: <span style="font-size:90%;">Contact</span>
-        content: <span style="font-size:70%">Interested in SEOYEON?</span>
+        content: |-  
+          <span style="font-size:70%">Interested in SEOYEON?
+          <br> image credit: photo by me  </span>
         align: center
         background:
           image:
