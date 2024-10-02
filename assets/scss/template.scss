@@ -85,6 +85,7 @@
     }
     .col-12 .col-lg-8 {
         flex: 0 0 90%;
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 

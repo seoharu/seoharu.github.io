@@ -289,7 +289,10 @@ sections:
           - activity
     design:
       view: showcase
-      columns: '2'
+      columns: '4'
+      css_style: 
+        
+        
       
 
   - block: markdown
