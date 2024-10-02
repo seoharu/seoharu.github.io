@@ -96,7 +96,7 @@ sections:
 
       - title: <span style="font-size:90%">Projects</span>
         content: |- 
-          <span style="font-size:70%">제가 개인적으로 수행한 [Side], 수업 과제로 수행한 [Course], 협력하여 진행한 [Collaboration] 프로젝트들을 소개합니다. 개발과 데이터 과학, 메디컬AI 관련 프로젝트들이 많습니다. <br>
+          <span style="font-size:70%"Aquí están algunos de mis proyectos personales [Side], de curso [Course] y de colaboración [Collaboration]. Hay muchos proyectos relacionados con el desarrollo, la ciencia de datos y la IA médica. <br>
           image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -116,7 +116,7 @@ sections:
 
       - title: <span style="font-size:90%">Activity</span>
         content: |- 
-          <span style="font-size:70%">여러 동아리 활동, 수상 내역과 자격증, 여러 다양한 경험들에 대한 내용입니다. <br> 주요 내용에는 AUEA 파견 - 말레이시아 교환학생 경험이 있습니다. <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
+          <span style="font-size:70%">Se trata de sus numerosas actividades extraescolares, sus premios y cualificaciones, y sus diversas experiencias. <br> Entre lo más destacado, su experiencia como estudiante de intercambio en Malasia (AUEA). <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
         align: center
         background:
           image:
