@@ -1,6 +1,6 @@
 ---
-title: 🧠 취향은 어디에서 왔으며, 무엇을 사유하고 즐기는가에 대하여
-summary: 취향을 엿보기
+title: 🧠 Where does preference come from, and what do i think and enjoy
+summary: a glimpse of my preference
 date: 2024-09-30
 authors:
   - admin

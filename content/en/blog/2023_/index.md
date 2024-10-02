@@ -1,6 +1,6 @@
 ---
-title: 2023 연말결산 <BEST AWARDS>
-summary: 내가 작성하는 2023년 올해의 것들 일부 공개합니다.
+title: 2023 <BEST AWARDS>
+summary: Things for 2023
 date: Dec 2023
 
 # Featured image

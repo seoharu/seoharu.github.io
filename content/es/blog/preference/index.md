@@ -1,6 +1,6 @@
 ---
-title: 🧠 취향은 어디에서 왔으며, 무엇을 사유하고 즐기는가에 대하여
-summary: 취향을 엿보기
+title: 🧠 ¿De dónde viene mi gusto? ¿De qué se trata lo que se invierte y se divierte?
+summary: preferencia
 date: 2024-09-30
 authors:
   - admin

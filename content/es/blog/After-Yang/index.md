@@ -1,6 +1,6 @@
 ---
-title: 상실 이후 마주한 숭고함과 존재를 이루는 우주 - 영화 <애프터 양> 비평
-summary: 영화 AFTER YANG 비평문
+title: Un universo que logra la sublime y la existencia a la que se enfrenta tras la pérdida - Crítica de la película 'After Yang'
+summary: Crítica de 'AFTER YANG'
 date: Sep 2022
 
 # Featured image

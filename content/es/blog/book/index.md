@@ -1,6 +1,6 @@
 ---
 title: Book
-summary: 읽은, 읽을 책들을 공유합니다.
+summary: Libros impresionantes
 date: Sep 1 2024
 math: true
 authors:

@@ -1,6 +1,6 @@
 ---
 title: Book
-summary: 읽은, 읽을 책들을 공유합니다.
+summary: I've read it, I'll read it
 date: Sep 1 2024
 math: true
 authors:
