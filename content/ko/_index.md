@@ -291,7 +291,7 @@ sections:
     design:
       view: showcase
       columns: '4'
-      css_style: "text-align: center"
+      css_style: "display: math"
         
         
   - block: markdown
