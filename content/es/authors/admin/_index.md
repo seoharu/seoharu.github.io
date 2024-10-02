@@ -15,7 +15,7 @@ authors:
 superuser: true
 
 # Name pronunciation (optional)
-name_pronunciation: quieren un desarrollo sostenible.
+name_pronunciation: quieren un desarrollo sostenible-
 
 # Status emoji
 status:
