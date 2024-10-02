@@ -15,8 +15,7 @@ authors:
 superuser: true
 
 # Name pronunciation (optional)
-name_pronunciation: 하고싶은 거 다 하면서 살고싶은
-
+name_pronunciation: quieren un desarrollo sostenible.
 
 # Status emoji
 status:
@@ -38,11 +37,11 @@ organizations:
   - name: Medical AI & Computational Science (Macs) Lab
     url: https://jbnu.macs.or.kr/
 
-major: 컴퓨터공학
-joint_major: 메디컬AI
+major: Computer Science
+joint_major: Medical AI
 
 # Short bio (displayed in user profile at end of posts)
-bio: <span class="justified-text"> 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. </span>
+bio: <span class="justified-text"> Soy estudiante universitario en ingeniería informática y licenciado en AI médica. Mientras trabajaba como estudiante de investigación en un laboratorio relacionado, estoy realizando investigaciones y proyectos en el campo de la IA médica. Trato constantemente de llenar mi vida diaria con lo que me gusta y desarrollo. </span>
 
 social:
   - icon: envelope
