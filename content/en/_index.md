@@ -185,84 +185,113 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 3000
 
-
   - block: features
     id: features
     content:
       title: <span style="font-size:75%">My Interests</span>
-      text: I'm all about fun and progression.<br><br><br><br>
+      text: I'm the kind of person who fills my life with things I love, and I want to grow.<br><br><br><br>
       items:
-        - name: AI
-          icon: code-branch
+        - name: Brain, Medical Science
+          icon: brain
           icon_pack: fas
-          description: <span style="font-size:90%">Focused on Medical AI.</span><br><br>
-        - name: Data Science
-          icon: calculator
+          description: <span style="font-size:90%;"> <span class="justified-text"> I'm interested in medical science, biomedical engineering, and the brain in general. </span></span><br><br>
+        - name: 인공지능(AI)
+          icon: microchip
           icon_pack: fas
-          description:  <span style="font-size:90%">Analyzing and modeling data from multiple disciplines</span><br><br>
-        - name: Development
-          icon: laptop
-          icon_pack: fas
-          description:  <span style="font-size:90%">Working on multiple development projects.</span><br><br>
+          description: <span style="font-size:90%;"> <span class="justified-text"> I think about how we can apply the intuition that happens in the human brain to AI models. </spn></span><br><br>
         - name: Medical AI
           icon: laptop-medical
-          icon_pack: fab
-          description:  <span style="font-size:90%">I am particularly interested in the field of neuroscience.</span><br><br>
-        - name: ALPS 부회장
+          icon_pack: fas
+          description:  <span style="font-size:90%;"> <span class="justified-text"> In AI, I am interested in Medical AI, especially in the field of neuroscience, where I would like to apply AI technology to uncover the secrets of the brain. I am majoring in Medical AI and working as an undergraduate research student in a related lab. </span></span><br><br>
+        - name: Data Science
+          icon: chart-line
+          icon_pack: fas
+          description: <span style="font-size:90%;"><span class="justified-text"> I'm interested in analyzing and modeling data from multiple disciplines. </spn></span><br><br>
+        - name: 개발 
           icon: laptop-code
-          icon_pack: fab
-          description:  <span style="font-size:90%">the Vice President of ALPS & Participated in the Litmus Renewal Project.</span><br><br>
-        - name: etc
+          icon_pack: fas
+          description: <span style="font-size:90%;"> <span class="justified-text"> I'm currently working on the Litmus Renewal Project maintenance and development of the Reader test webpage.</span></span><br><br>
+        - name: Algorithm
+          icon: sitemap
+          icon_pack: fas
+          description: <span style="font-size:90%;"> <span class="justified-text"> I've been working on the algorithm. </spn></span><br><br>
+        - name: Experience
           icon: globe
-          icon_pack: fab
-          description:  <span style="font-size:90%">Former UM Exchange Student.</span><br><br>
-
+          icon_pack: fas
+          description:  <span style="font-size:90%;"> <span class="justified-text"> I value experience. I'm interested in many things, so I've had many different experiences, including being an exchange student and vice president of a club.</span> </span><br><br>
+        - name: Book
+          icon: book
+          icon_pack: fas
+          description:  <span style="font-size:90%;"> <span class="justified-text"> I love the physicality of books. Reading is more of a routine than a hobby for me.</span> </span><br><br>
+        - name: Travel
+          icon: passport
+          icon_pack: fas
+          description:  <span style="font-size:90%;"> <span class="justified-text"> I love to travel. I'd like to visit the Bermuda Triangle, the Serengeti, and other mysterious places, as well as milky way.</span> </span><br><br>
 
   - block: collection
     content:
-      title: Project
+      id: section-1
+      title: Research Projects
       subtitle:
       text:
-      count: 3
-      filters:
-        folders:
-          - side
-          - course
-          - collaborate
+      count: 30
       offset: 0
       order: desc
-      page_type: 
+      filters:
+        folders:
+          - researchproject
+          - 
     design:
-      view: community/custom_card
+      view: compact
       columns: '2'
-    advanced:
-      css_style: "text-align: center;"
 
   - block: collection
     content:
       id: section-2
-      title: Personal
+      title: Projects
       subtitle:
       text:
-      count: 3
+      count: 30
       offset: 0
       order: desc
       filters:
         folders:
-          - event
-          - etc
-          - Blog
+          - collaborate
+          - side
+          - course
     design:
-      view: community/custom_card
+      view: card
       columns: '2'
+  
 
+  - block: collection
+    content:
+      id: section-3
+      title: Experiences
+      subtitle:
+      text:
+      count: 30
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - activity
+    design:
+      view: showcase
+      columns: '4'
+      css_style: "display: math"
+        
+        
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="MORE →" %}}
-      position: center
+        {{% cta cta_link="./about/" cta_text="MORE →" 
+        class="justified-cta" %}}
     design:
       columns: '1'
+      css_style: "text-align: center;"
+
 ---
+  
