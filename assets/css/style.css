@@ -177,7 +177,6 @@ ul.network-icon .big-icon {
     height: 100%;
   }
 
-  // 모바일 뷰를 위한 미디어 쿼리 (선택사항)
   @media (max-width: 768px) {
     .row {
       grid-template-columns: 1fr;
