@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-09-01
 
 type: landing
 
@@ -9,61 +9,51 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        <br> <span style="font-size:95%">Si tiene alguna pregunta, póngase en contacto conmigo por correo electrónico o teléfono.</span> <br>
+      name: CHOI SEOYEON 최서연
+      email: yunseul(at)jbnu.ac.kr
+      phone: +82-10-8589-7591
+      
+      contact_links:
+        - icon: github
+          icon_pack: fab
+          name: My Github
+          link: 'https://github.com/seoharu'
+        - icon: discord
+          icon_pack: fab
+          name: Discord Me
+          link: "discordapp.com/users/1080733192723644416"
+        - icon: google
+          icon_pack: fab
+          link: 'yunseul(at)jbnu.ac.kr'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        icon: location-dot
+        icon_pack: fas
+        street: Jeonbuk National University, College of Engineering, Building 7, Room 533
+        city: Jeonju-si
+        region: Jeollabukdo
+        postcode: '54896'
+        country: South Korea
+        country_code: KO
+      directions: MACS LAB 'https://jbnu.macs.or.kr/'
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+        latitude: '35.84601324617979'
+        longitude: '127.13444961966684'
+      directions: 
+      
+       
     
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
+      # # Email form provider
       form:
         provider: netlify
         formspree:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: 
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      columns: '3'
 ---
