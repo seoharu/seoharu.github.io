@@ -12,7 +12,7 @@ banner:
   image: 'featured.jpg'
 ---
 
-__사용하는 주요 기술__
+__Las principales tecnologías que uso__
 
 - Machine Learning
 - Deep Learning
