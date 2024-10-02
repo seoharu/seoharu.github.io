@@ -2,7 +2,7 @@
 title: "about"
 date: 2024-09-20
 type: landing
-description: "Página web de Seoyeon Choi, que estudia Inteligencia Artificial médica e informática."
+description: "Página web de CHOI SEOYEON, que estudia Inteligencia Artificial médica e informática."
 keywords: ["CHOI SEOYEON", "Medical AI", "Computer Science", "JBNU"]
 draft: false
 # Full name (for SEO)

@@ -2,7 +2,7 @@
 title: "about"
 date: 2024-09-20
 type: landing
-description: "Página web de Seoyeon Choi, que estudia Inteligencia Artificial médica e informática."
+description: "CHOI SEOYEON's homepage to study medical AI and computer engineering"
 keywords: ["CHOI SEOYEON", "Medical AI", "Computer Science", "JBNU"]
 draft: false
 # Full name (for SEO)
@@ -25,7 +25,7 @@ sections:
       title: About me
       text: |- 
         <span class="justified-text">
-        I have been interested in medicine, especially the brain and cranial nerves, since I was a child. I enrolled in the Department of Computer Science at Chonbuk National University with the idea of learning computer science and artificial intelligence in order to study the brain, and I have been taking classes in the Department of Computer Science and Biomedical Engineering to learn about medicine, medical engineering, and computer science in general. I enjoy connecting and fusing multiple fields to create something complex, and I would like to explore the brain by studying medical engineering and brain engineering by fusing medicine and engineering. In the field of medical artificial intelligence, I am also interested in brain engineering and brain neurology, especially brain neural modeling in the field of brain computer interface and deep neural network to interpret the mechanism of the brain. </span>
+        Since I was young, I have been interested in medicine, especially the brain and cranial nerves. I entered the computer engineering department of Jeonbuk National University with the idea that I should first learn computer engineering and artificial intelligence to study the brain, and I am learning the whole of medicine, medicine, and computer engineering while taking classes in the departments of computer engineering and biomedical engineering. I enjoy creating complex things by connecting and converging across fields. I want to explore the brain by researching medicine and engineering in general, medicine engineering, and brain engineering by converging medical and engineering. I am also interested in researching brain nerve modeling in the field of medical artificial intelligence, especially in the field of brain computer interface, and in the field of deep neural networks. </span>
         
 
   - block: features
