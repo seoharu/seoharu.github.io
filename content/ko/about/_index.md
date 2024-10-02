@@ -2,7 +2,7 @@
 title: "about"
 date: 2024-09-20
 type: landing
-description: "컴퓨터 공학과 메디컬 AI 전공의 최서연."
+description: "컴퓨터 공학과 메디컬 AI 전공의 최서연 홈페이지."
 keywords: ["최서연", "메디컬 AI", "컴퓨터공학"]
 draft: false
 # Full name (for SEO)

@@ -11,7 +11,7 @@ banner:
 ---
 
 
-I am also interested in the applications of medical artificial intelligence in the brain engineering and the brain nerve side, especially the brain neural modeling and the interpretation of the brain's mechanisms in the field of deep neural networks.
+También me interesan las aplicaciones de la inteligencia artificial médica en la ingeniería cerebral y el lado nervioso cerebral, especialmente el modelado neural cerebral y la interpretación de los mecanismos cerebrales en el campo de redes neurales profundas.
 
 __Las principales tecnologías que uso__
 
