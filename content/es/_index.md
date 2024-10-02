@@ -96,7 +96,7 @@ sections:
 
       - title: <span style="font-size:90%">Projects</span>
         content: |- 
-          <span style="font-size:70%"Aquí están algunos de mis proyectos personales [Side], de curso [Course] y de colaboración [Collaboration]. Hay muchos proyectos relacionados con el desarrollo, la ciencia de datos y la IA médica. <br>
+          <span style="font-size:70%"Aquí encontrarás un vistazo a mis proyectos personales, docentes y de colaboración centrados en el desarrollo, la ciencia de datos y la IA médica. <br>
           image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -116,7 +116,7 @@ sections:
 
       - title: <span style="font-size:90%">Activity</span>
         content: |- 
-          <span style="font-size:70%">Se trata de sus numerosas actividades extraescolares, sus premios y cualificaciones, y sus diversas experiencias. <br> Entre lo más destacado, su experiencia como estudiante de intercambio en Malasia (AUEA). <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
+          <span style="font-size:70%">Puedes echar un vistazo a mis actividades y experiencias, incluida la de estudiante de intercambio.  <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
         align: center
         background:
           image:
