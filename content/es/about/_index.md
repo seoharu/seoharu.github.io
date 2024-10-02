@@ -30,7 +30,7 @@ sections:
 
   - block: features
     content:
-      title: "Interests"
+      title: "Intereses"
       items:
         - name: "Medical, Medical Science & Engineering"
           icon: notes-medical
@@ -57,7 +57,7 @@ sections:
 
   - block: skills
     content:
-      title: Languages & Technologies
+      title: Idiomas y tecnologías
       text: ''
       username: admin
       css_style: |
@@ -93,7 +93,7 @@ sections:
 
   - block: skills
     content:
-      title: Skills
+      title: Habilidades
       text: ''
       username: admin2
       css_style: |
@@ -130,7 +130,7 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: Various Activities
+      title: Varias Actividades
       subtitle:
       text:
       count: 60
@@ -148,7 +148,7 @@ sections:
 
   - block: features
     content:
-      title: Favorites
+      title: Favoritos
       items:
         - name: Gato
           icon: cat
@@ -176,7 +176,7 @@ sections:
   
   - block: experience
     content:
-      title: Education
+      title: Educación
       items:
         - title: Integrated B.S. - M.S. in Division of Electronics and Information Engineering (Computer Science Major)
           description: JBNU (Integrated B.S. - M.S.)
@@ -189,7 +189,7 @@ sections:
 
   - block: tag_cloud
     content:
-      title: My tags
+      title: Mis etiquetas
       subtitle: ''
       text: Puede ver qué etiquetas se utilizaron con más frecuencia.
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
