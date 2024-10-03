@@ -236,7 +236,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="MAS →" %}}
+        {{% cta cta_link="./contact/" cta_text="MAS →" 
         class="justified-cta" %}}
     design:
       columns: '1'
