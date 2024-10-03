@@ -179,49 +179,68 @@ sections:
 
   - block: collection
     content:
-      title: Project
+      id: section-1
+      title: Research Projects
       subtitle:
       text:
-      count: 3
-      filters:
-        folders:
-          - side
-          - course
-          - collaborate
+      count: 30
       offset: 0
       order: desc
-      page_type: 
+      filters:
+        folders:
+          - researchproject
+          - 
     design:
-      view: community/custom_card
+      view: compact
       columns: '2'
-    advanced:
-      css_style: "text-align: center;"
 
   - block: collection
     content:
       id: section-2
-      title: Personal
+      title: Projects
       subtitle:
       text:
-      count: 3
+      count: 30
       offset: 0
       order: desc
       filters:
         folders:
-          - event
-          - etc
-          - Blog
+          - collaborate
+          - side
+          - course
     design:
-      view: community/custom_card
+      view: card
       columns: '2'
+  
 
+  - block: collection
+    content:
+      id: section-3
+      title: Experiences
+      subtitle:
+      text:
+      count: 30
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - activity
+    design:
+      view: showcase
+      columns: '4'
+      css_style: "display: math"
+        
+        
   - block: markdown
     content:
       title:
       subtitle:
       text: |
         {{% cta cta_link="./contact/" cta_text="MAS →" %}}
-      position: center
+        class="justified-cta" %}}
     design:
       columns: '1'
+      css_style: "text-align: center;"
+
 ---
+  
