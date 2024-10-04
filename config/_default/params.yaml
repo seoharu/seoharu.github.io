@@ -20,6 +20,7 @@ marketing:
     org_name: 'choi'
     description: 'seoharu.github.io : 최서연의 깃허브페이지'
     twitter: 'GetResearchDev'
+    keywords: ["최서연", "CHOI SEOYEON", '전북대','JBNU', "CSE", "Medical AI", "컴퓨터공학", "전북대학교"]
   analytics:
     google_analytics: ''
     baidu_tongji: ''
