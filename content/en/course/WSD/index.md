@@ -1,6 +1,6 @@
 
 ---
-title: "웹서비스설계 과목에서 진행한 프로젝트"
+title: "Project assignments from the Web Services Design course"
 description: ""
 tags: ["course"]
 date: "2024-09-01"

@@ -1,11 +1,12 @@
 
 
 ---
-title: "2024 CAPSTONE - 인공지능 학습 데이터셋 구축을 위한 지능형 온라인 레이블 툴 제작"
-description: "인공지능 학습 데이터셋 구축을 위한 지능형 온라인 레이블 툴 제작"
+title: "2024 CAPSTONE - Creación de una herramienta inteligente de etiquetado en línea para construir conjuntos de datos de entrenamiento de IA"
+description: "Creación de una herramienta inteligente de etiquetado en línea para construir conjuntos de datos de entrenamiento de IA"
 tags: ["course"]
 date: "2024-09-01"
 
 ---
 
-2024년 산학실전캡스톤3 수업에서 전공 과제 '인공지능 학습 데이터셋 구축을 위한 지능형 온라인 레이블 툴 제작' 를 진행 중에 있습니다. <정성을 다허연> 팀의 팀장으로 FE, BE 개발과 인공지능 영역을 두루 담당하고 있습니다.
+Actualmente estoy trabajando en mi proyecto principal «Creación de una herramienta inteligente de etiquetado en línea para construir conjuntos de datos de entrenamiento de IA» en la clase de 2024, Industry-Academic Capstone 3. 
+Como jefe de equipo, me encargo de la FE, el desarrollo de BE y la IA. 
