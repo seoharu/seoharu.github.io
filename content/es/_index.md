@@ -3,6 +3,8 @@
 title:
 date: 2024-09-01
 type: landing
+description: ""
+keywords: ["최서연", "전북대", "전북대학교", "메디컬 AI", "컴퓨터공학"]
 
 sections:
 

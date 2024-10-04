@@ -1,4 +1,8 @@
 ---
+date: 2024-09-01
+description: "메디컬 AI와 컴퓨터공학을 연구하는 최서연의 홈페이지"
+keywords: ["최서연", "전북대", "전북대학교", "메디컬 AI", "컴퓨터공학"]
+
 # Display name
 title: CHOI SEOYEON
 
@@ -41,7 +45,7 @@ major: Computer Science
 joint_major: Medical AI
 
 # Short bio (displayed in user profile at end of posts)
-bio: <span class="justified-text"> I am an undergraduate student in computer science engineering and a medical AI joint major. While working as an undergraduate research student in a related lab, I am conducting research and projects in the field of medical AI. I constantly try to fill my daily life with what I like and develop. </span>
+bio: <span class="justified-text"> I am an undergraduate student in computer science engineering and a medical AI joint major in Jeonbuk National University. While working as an undergraduate research student in a related lab, I am conducting research and projects in the field of medical AI. I constantly try to fill my daily life with what I like and develop. </span>
 
 social:
   - icon: envelope

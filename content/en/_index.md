@@ -3,6 +3,8 @@
 title:
 date: 2024-09-01
 type: landing
+description: "메디컬 AI와 컴퓨터공학을 연구하는 최서연의 홈페이지"
+keywords: ["최서연", "전북대", "전북대학교", "메디컬 AI", "컴퓨터공학"]
 
 sections:
 

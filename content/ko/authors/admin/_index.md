@@ -1,4 +1,9 @@
 ---
+
+date: 2024-09-01
+description: "메디컬 AI와 컴퓨터공학을 연구하는 최서연의 홈페이지"
+keywords: ["최서연", "전북대", "전북대학교", "메디컬 AI", "컴퓨터공학"]
+
 # Display name
 title: 최서연
 
@@ -42,7 +47,7 @@ major: 컴퓨터공학
 joint_major: 메디컬AI
 
 # Short bio (displayed in user profile at end of posts)
-bio: <span class="justified-text"> 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. </span>
+bio: <span class="justified-text"> 전북대학교 컴퓨터공학부 학부생이자 메디컬AI 연계전공생입니다. 관련 연구실에서 학부연구생으로 있으면서, 메디컬AI 분야의 연구와 프로젝트를 진행하고 있습니다. 좋아하는 것들로 일상을 채우고 발전하려 끊임없이 노력합니다. </span>
 
 social:
   - icon: envelope
