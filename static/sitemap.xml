@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <!-- Home Page -->
+   <url>
+      <loc>https://seoharu.github.io/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>1.0</priority>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>1.0</priority>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/es/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>1.0</priority>
+      <changefreq>weekly</changefreq>
+   </url>
+
+   <!-- About Page -->
+   <url>
+      <loc>https://seoharu.github.io/about/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/about/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/es/about/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <!-- Research Section -->
+   <url>
+      <loc>https://seoharu.github.io/research/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/research/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/es/research/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://seoharu.github.io/research/contents/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/research/contents/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/es/research/contents/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+     <url>
+      <loc>https://seoharu.github.io/research/fields/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/research/fields/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/es/research/fields/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.8</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+
+   
+   <!-- Individual Projects Items -->
+   <url>
+      <loc>https://seoharu.github.io/projects</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/en/projects</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/projects</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+    <url>
+      <loc>https://seoharu.github.io/projects/side</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/en/projects/side</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/projects/side</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://seoharu.github.io/projects/course</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/en/projects/course</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/projects/course</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://seoharu.github.io/projects/collaboration</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/en/projects/collaboration</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/projects/collaboration</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   
+   
+   <!-- Activity -->
+   <url>
+      <loc>https://seoharu.github.io/activity/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/activity/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/activity/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://seoharu.github.io/activity/club</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/activity/club</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/activity/club</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://seoharu.github.io/activity/awards</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/activity/awards</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/activity/awards</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://seoharu.github.io/activity/experience</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/activity/experience</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/activity/experience</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+    <!-- Personal Section -->
+    <url>
+      <loc>https://seoharu.github.io/personal/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/personal/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/personal/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+    <url>
+      <loc>https://seoharu.github.io/event/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/event/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/event/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://seoharu.github.io/etc/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+   <url>
+      <loc>https://seoharu.github.io/en/etc/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+    <url>
+      <loc>https://seoharu.github.io/es/etc/</loc>
+      <lastmod>2024-09-20</lastmod>
+      <priority>0.7</priority>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <!-- Blog Section -->
+   <url>
+      <loc>https://seoharu.github.io/blog/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.7</priority>
+      <changefreq>weekly</changefreq>
+   </url>
+
+   <!-- Example Blog Post -->
+   <url>
+      <loc>https://seoharu.github.io/blog/book/</loc>
+      <lastmod>2024-09-15</lastmod>
+      <priority>0.6</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <!-- Contact Page -->
+   <url>
+      <loc>https://seoharu.github.io/contact/</loc>
+      <lastmod>2024-10-04</lastmod>
+      <priority>0.5</priority>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   
+</urlset>

@@ -112,4 +112,6 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
+  filename: sitemap.xml
+  changefreq: "daily"
+  priority: 0.5
