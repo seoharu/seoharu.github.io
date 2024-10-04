@@ -20,7 +20,7 @@ marketing:
     org_name: 'choi'
     description: 전북대학교 & MACS 전북대 최서연
     twitter: 'GetResearchDev'
-    keywords: ["최서연", "CHOI SEOYEON", '전북대','JBNU', "MACS", "CSE", "Medical AI", "컴퓨터공학", "전북대학교"]
+    keywords: ["최서연", "CHOI SEOYEON", '전북대','JBNU', "MACS", "CSE", "Medical AI", "컴퓨터공학", "전북대학교", "ALPS"]
   analytics:
     google_analytics: ''
     baidu_tongji: ''
