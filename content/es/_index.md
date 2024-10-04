@@ -13,7 +13,7 @@ sections:
       title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
       text: |
         <br><span class="justified-text">
-          Soy un estudiante de pregrado en Ciencias de la Computación e Ingeniería, y estoy estudiando Medical AI como una especialización conjunta. Como investigador universitario en el laboratorio de IA médica, llevo a cabo investigaciones y proyectos en el campo de la IA médica. Intento llenar mi vida de cosas que me gustan y me esfuerzo constantemente por hacer lo que quiero. Quiero convertirme en un experto en el campo de la inteligencia artificial médica, especialmente en el campo de las redes neuronales.
+          Soy un estudiante de pregrado en Ciencias de la Computación e Ingeniería, y estoy estudiando Medical AI como una especialización conjunta en JBNU. Como investigador universitario en el laboratorio de IA médica, llevo a cabo investigaciones y proyectos en el campo de la IA médica. Intento llenar mi vida de cosas que me gustan y me esfuerzo constantemente por hacer lo que quiero. Quiero convertirme en un experto en el campo de la inteligencia artificial médica, especialmente en el campo de las redes neuronales.
         </span> <br><br>
         {{% cta cta_link="./about/" cta_text="Más información →" 
         class="justified-cta" %}}

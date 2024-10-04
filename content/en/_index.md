@@ -13,7 +13,7 @@ sections:
       title: "<span style='font-size:70%, font-family: \"Dancing Script\", cursive;'>seoharu.github.io</span>"
       text: |
         <br><span class="justified-text">
-          I am an undergraduate student in the Computer Science and Engineering, and I am studying Medical AI as an joint major. As an undergraduate researcher in the Medical AI lab, I am conducting research and projects in the field of Medical AI. I try to fill my life with things I love to do and constantly push myself to do what I want to do. I want to become an expert in the field of medical artificial intelligence, especially in the field of neural networks.
+          I am an undergraduate student in the Computer Science and Engineering, and I am studying Medical AI as an joint major in JBNU. As an undergraduate researcher in the Medical AI lab, I am conducting research and projects in the field of Medical AI. I try to fill my life with things I love to do and constantly push myself to do what I want to do. I want to become an expert in the field of medical artificial intelligence, especially in the field of neural networks.
         </span> <br><br>
         {{% cta cta_link="./about/" cta_text="more about →" 
         class="justified-cta" %}}
