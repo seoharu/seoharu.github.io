@@ -18,13 +18,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 2023년 동계 빅데이터 캠프의 AWS 딥레이서 경진대회
+        - title: Competición AWS Deep Racer en el Campamento de Big Data de Invierno 2023
           certificate_url: ''
           date_end: '26 Jan 2024'
           date_start: '22 Jan 2024'
-          description: '동상 (3위)'
+          description: '3rd Prize'
           icon: AWS
-          organization: 빅데이터 혁신융합대학 사업단
+          organization: BIGDATABUB UNIVERSITY (JBNU COSS)
           organization_url: ''
           url: ''
       
