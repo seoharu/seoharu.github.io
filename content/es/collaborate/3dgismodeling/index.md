@@ -1,5 +1,5 @@
 ---
-title: 3D 공간정보 모델링 프로젝트 참여
+title: Participación en proyectos de modelamiento y rendería de información espacial 3D
 summary: https://github.com/seoharu/3d_gis_modeling
 draft: false
 tags:
@@ -9,4 +9,4 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-2022년 12월부터 2023년 2월까지 JBNU-vclab의 교수님과 3d gis modeling&rendering 작업을 진행했습니다. 
+De diciembre de 2022 a febrero de 2023, trabajé con el profesor de JBNU-vclab en modelado y renderización 3D.
