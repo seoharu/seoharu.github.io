@@ -1,16 +1,16 @@
 ---
-title: "AUEA 교환학생 파견"
-summary: "23-1학기 말레이시아 파견, (at)Universiti Malaya에서 수학"
+title: "AUEA estudiante de intercambio"
+summary: "23-1 vivió en Malasia, estudió en UM (Universiti Malaya)"
 tags: ["Global"]
 date: "2023-02-01"
 ---
 
-6개월 동안 말레이시아에서 생활하며 Universiti Malalya(UM)에서 공부했습니다. <br>
+Viví en Malasia durante 6 meses y estudié en Universaliti Malaya (UM). <br>
 
 
 <br>
 <span class="justified-text">
-[수강 과목] <br>
+[tema del curso] <br>
 - COMPUTATIONAL THINKING WITH ROBOTICS <br>
 - ARTIFICIAL ORGANS & BIOTRANSPORT <br>
 - COMPUTER PROGRAMMING <br>
