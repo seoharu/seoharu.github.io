@@ -6,4 +6,4 @@ tags: ["side"]
 date: "2023-09-20"
 
 ---
-<span class="justified-text"> 2023년 2학기 인공지능 전공 특화 교육에 참여하여, '의료 데이터 분석 & 머신러닝과 딥러닝' 개인 프로젝트를 진행하였습니다. </span>
+<span class="justified-text"> En el segundo semestre de 2023, participamos en formación especializada en inteligencia artificial y llevamos a cabo un proyecto personal de 'Análisis de datos médicos y aprendizaje de máquinas y aprendizaje profundo'. </span>

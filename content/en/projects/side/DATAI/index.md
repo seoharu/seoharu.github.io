@@ -6,4 +6,4 @@ tags: ["side"]
 date: "2023-09-20"
 
 ---
-<span class="justified-text"> 2023년 2학기 인공지능 전공 특화 교육에 참여하여, '의료 데이터 분석 & 머신러닝과 딥러닝' 개인 프로젝트를 진행하였습니다. </span>
+<span class="justified-text"> In the second semester of 2023, we participated in specialized training in artificial intelligence majors and conducted a personal project of 'Medical Data Analysis & Machine Learning and Deep Learning'. </span>

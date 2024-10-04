@@ -1,7 +1,7 @@
 
 ---
-title: "MRI 영상 기반 암 진단 자동화 연구"
-description: "LGG Segmentation Dataset으로 MRI 영상 기반 암 진단 자동화를 위한 segmentation 모델 연구 및 개발"
+title: "Un estudio sobre la automatización del diagnóstico de cáncer basado en imágenes de resonancia magnética"
+description: "Investigación y desarrollo de modelo de segmentación para la automatización del diagnóstico de cáncer basado en imágenes con LGG Segmentación Dataset"
 tags: ["side"]
 date: "2024-01-01"
 icon: cv
@@ -10,7 +10,7 @@ link: static/files/mri.pdf
 
 ---
 
-<span class="justified-text"> 2024년 1~2월동안 'LGG Segmentation Dataset'을 가지고 MRI 영상 기반 암 진단 자동화를 위한 segmentation 모델을 연구 개발하였습니다. 해당 데이터셋을 사용한 medical image segmentation 기존 연구 논문 조사부터 최신 segmentation 모델 조사, 기존 모델 변경 및 성능 비교 작업을 진행하였습니다.
+<span class="justified-text"> Investigué y desarrollé un modelo de segmentación para la automatización del diagnóstico de cáncer basado en RMN con el 'LGG Segmentation Dataset' durante enero-febrero de 2024. Segmentación de imágenes médicas usando este conjunto de datos. Realizé investigaciones sobre el último modelo de segmentación, cambio del modelo existente y comparación de rendimiento.
 <br>
 <a href="/files/mri.pdf" target="_blank">Download the MRI Research PDF</a> <br>
-해당 프로젝트 관련 자세한 내용은 위의 [PDF 파일]에서 확인할 수 있습니다. </span>
+Los detalles del proyecto se pueden encontrar en el [archivo PDF] anterior. </span>
