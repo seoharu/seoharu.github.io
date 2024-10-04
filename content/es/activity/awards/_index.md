@@ -22,7 +22,7 @@ sections:
           certificate_url: ''
           date_end: '26 Jan 2024'
           date_start: '22 Jan 2024'
-          description: '3rd Prize'
+          description: 'Tercer premio'
           icon: AWS
           organization: BIGDATABUB UNIVERSITY (JBNU COSS)
           organization_url: ''
