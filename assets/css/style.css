@@ -59,6 +59,10 @@ body {
   /* 'important' to override dark mode box-shadow too. */
 }
 
+.dark .navbar {
+  background-color: grey;
+}
+
 /* custom section padding */
 .home-section {
   padding: 1rem 0;
