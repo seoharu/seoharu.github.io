@@ -202,12 +202,19 @@ a:hover {
 .page-footer {
     background-color: lightblue;
     margin-bottom: 20px;
+
+    .site-footer {
+        height: 100%;
+    }
   }
 
-
-.dark .site-footer {
+.dark .page-footer {
     background-color: #48a2bf !important;
     margin-bottom: 20px;
+
+    .site-footer {
+        height: 100%;
+    }
   }
 .dark .page-body {
     background-color: rgb(59, 59, 61);
