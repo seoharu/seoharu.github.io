@@ -113,11 +113,12 @@
 .row-fit {
     .row {
         display: grid;
-        grid-template-columns: repeat(2, 90%);
+        grid-template-columns: repeat(4, 90%);
         gap: 10px;
       
         .col-12 {
             flex: 0 0 50%;
+            margin: 0 auto;
         }
     }
 
@@ -145,3 +146,6 @@
     grid-template-columns: repeat(2, 80%);
 }
   
+.mb-0 {
+    margin-bottom: 40px !important
+}
