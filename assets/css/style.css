@@ -39,10 +39,10 @@ body {
   background-color: rgb(147, 182, 205) !important;
 }
 
-.dark .page-footer {
+.dark .site-footer {
   background-color: rgb(143, 155, 179) !important;
 }
-.dark .universal-wrapper {
+.universal-wrapper .dark{
   background-color: antiquewhite;
 }
 /* more rounded cards and larger gap between cards */
