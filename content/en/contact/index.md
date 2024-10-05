@@ -25,6 +25,7 @@ sections:
           link: "discordapp.com/users/1080733192723644416"
         - icon: google
           icon_pack: fab
+          name: Google-Email
           link: 'yunseul(at)jbnu.ac.kr'
       address:
         icon: location-dot
