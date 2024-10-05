@@ -57,6 +57,7 @@ body {
 
 /* no navbar shadow */
 .navbar {
+  background-color: lightblue;
   box-shadow: none !important; 
   /* 'important' to override dark mode box-shadow too. */
 }
