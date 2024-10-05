@@ -15,12 +15,13 @@ body {
     justify-content: center;
 }
 .btn-primary {
-    background-color: rgb(57, 171, 210)!important;
-    margin: auto;
+    background-color: rgb(131, 233, 253)!important;
+    margin: 0 auto;
     display: block;
-    width: 100%; /* 버튼을 가로로 꽉 차게 만듦 */
+    width: 50%; /* 버튼을 가로로 꽉 차게 만듦 */
     text-align: justify;
     vertical-align: middle;
+    border-radius: 10px rgb(119, 233, 253);
 }
 
 .btn-promary :after{
@@ -29,7 +30,7 @@ body {
     width: 100%;
 }
 .btn-primary:hover {
-    background-color: rgb(54, 251, 224) !important;
+    background-color: rgb(70, 200, 250) !important;
 }
 
 .btn-lg:hover {
