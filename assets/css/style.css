@@ -34,11 +34,11 @@ body {
 
 /* custom footer color */
 .page-footer {
-  background-color: rgb(247, 250, 252);
+  background-color: rgb(147, 182, 205) !important;
 }
 
 .dark .page-footer {
-  background-color: rgb(143, 155, 179);
+  background-color: rgb(143, 155, 179) !important;
 }
 .dark .universal-wrapper {
   background-color: antiquewhite;
