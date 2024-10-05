@@ -157,7 +157,7 @@ sections:
       - title: <span style="font-size:90%;">Contact</span>
         content: |- 
           <span style="font-size:70%">Interested in SEOYEON? 
-          <br><br> image credit: photo by me </span>
+          <br> image credit: photo by me </span>
         align: center
         background:
           image:

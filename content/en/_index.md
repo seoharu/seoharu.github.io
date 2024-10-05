@@ -122,7 +122,7 @@ sections:
 
       - title: <span style="font-size:90%">Activity</span>
         content: |- 
-          <span class="justified-text" style="font-size:70%">It's about my extracurricular activities, awards and certifications, and various experiences. <br> Highlights include the AUEA Placement - Malaysia exchange student experience.  <br><br>
+          <span class="justified-text" style="font-size:70%">It's about my extracurricular activities, awards and certifications, and various experiences. Highlights include the AUEA Placement - Malaysia exchange student experience.  <br><br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -162,7 +162,7 @@ sections:
       - title: <span style="font-size:90%;">Contact</span>
         content: |-  
           <span style="font-size:70%">Interested in SEOYEON?
-          <br> <br> image credit: photo by me  </span>
+          <br> image credit: photo by me  </span>
         align: center
         background:
           image:
