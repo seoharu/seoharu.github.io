@@ -40,7 +40,7 @@ body .dark {
 }
 
 .dark .site-footer {
-  background-color: rgb(143, 155, 179) !important;
+  background-color: rgb(189, 192, 197) !important;
 }
 /* .universal-wrapper .dark{
   background-color: antiquewhite;
@@ -64,10 +64,6 @@ body .dark {
 
 .dark .navbar {
   background-color: grey;
-}
-
-.dark .page-footer {
-  background-color: lightgray;
 }
 
 /* custom section padding */
