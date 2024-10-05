@@ -4,7 +4,7 @@
 body {
   background-color: rgb(24, 250, 252);
 }
-.dark body {
+body .dark { 
   background-color: lightgrey;
 }
 .justified-text {
