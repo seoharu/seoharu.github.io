@@ -293,7 +293,7 @@ sections:
         class="justified-cta" %}}
     design:
       columns: '1'
-      css_style: "text-align: center;"
+      css_style: class="row-fit"
 
 ---
   
