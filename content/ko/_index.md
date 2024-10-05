@@ -45,7 +45,7 @@ sections:
           url: 'https://seoharu.github.io/'
       - title: <span style="font-size:90%;">About</span>
         content: |- 
-          <span style="font-size:70%">홈페이지 메뉴, 서브 메뉴의 요약본입니다. 
+          <span class="justified-text" style="font-size:70%">홈페이지 메뉴, 서브 메뉴의 요약본입니다. 
             <br> image credit: photo by me
           </span>
         align: center
@@ -65,7 +65,7 @@ sections:
 
       - title: <span style="font-size:90%">Research</span>
         content: |- 
-          <span style="font-size:70%">의료 인공지능 랩실 학부연구생으로서 수행하는 저의 연구 과제와 연구 분야에 대한 내용입니다. <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
+          <span class="justified-text" style="font-size:70%">의료 인공지능 랩실 학부연구생으로서 수행하는 저의 연구 과제와 연구 분야에 대한 내용입니다. <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
             
         align: center
         background:
@@ -88,7 +88,7 @@ sections:
 
       - title: <span style="font-size:90%">Medical AI</span>
         content: |-
-          <span style="font-size:70%">의료 인공지능 랩실 학부연구생 <br>
+          <span class="justified-text" style="font-size:70%">의료 인공지능 랩실 학부연구생 <br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -108,7 +108,7 @@ sections:
 
       - title: <span style="font-size:90%">Projects</span>
         content: |-
-          <span style="font-size:70%">제가 개인적으로 수행한 [Side], 수업 과제로 수행한 [Course], 협력하여 진행한 [Collaboration] 프로젝트들을 소개합니다. 개발과 데이터 과학, 메디컬AI 관련 프로젝트들이 많습니다. <br>
+          <span class="justified-text" style="font-size:70%">제가 개인적으로 수행한 [Side], 수업 과제로 수행한 [Course], 협력하여 진행한 [Collaboration] 프로젝트들을 소개합니다. 개발과 데이터 과학, 메디컬AI 관련 프로젝트들이 많습니다. <br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
 
@@ -130,7 +130,7 @@ sections:
 
       - title: <span style="font-size:90%">Activity</span>
         content: |-
-          <span style="font-size:70%">여러 동아리 활동, 수상 내역과 자격증, 여러 다양한 경험들에 대한 내용입니다. <br> 주요 내용에는 AUEA 파견 - 말레이시아 교환학생 경험이 있습니다.<br>
+          <span class="justified-text" style="font-size:70%">여러 동아리 활동, 수상 내역과 자격증, 여러 다양한 경험들에 대한 내용입니다. <br> 주요 내용에는 AUEA 파견 - 말레이시아 교환학생 경험이 있습니다.<br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -150,7 +150,7 @@ sections:
 
       - title: <span style="font-size:90%;">Personal</span>
         content: |- 
-          <span style="font-size:70%">[Event]에는 요즘 이슈들을, [ETC]에는 제가 좋아하는 것들의 목록을 적어뒀습니다. <br> [Blog]에는 제 블로그 글 중 일부를 가져왔습니다. <br> image credit: photo by me
+          <span class="justified-text" style="font-size:70%">[Event]에는 요즘 이슈들을, [ETC]에는 제가 좋아하는 것들의 목록을 적어뒀습니다. <br> [Blog]에는 제 블로그 글 중 일부를 가져왔습니다. <br> image credit: photo by me
           </span>
         align: center
         background:
@@ -168,7 +168,7 @@ sections:
           url: personal
       - title: <span style="font-size:90%;">Contact</span>
         content: |-
-          <span style="font-size:70%">Interested in SEOYEON?
+          <span class="justified-text" style="font-size:70%">Interested in SEOYEON?
           <br> image credit: photo by me
           </span>
         align: center
