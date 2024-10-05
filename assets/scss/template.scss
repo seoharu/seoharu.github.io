@@ -18,10 +18,10 @@ body {
     background-color: rgb(131, 233, 253)!important;
     margin: 0 auto;
     display: block;
-    width: 50%; /* 버튼을 가로로 꽉 차게 만듦 */
+    width: 50% !important; 
     text-align: justify;
     vertical-align: middle;
-    border-radius: 10px rgb(119, 233, 253);
+    border-color: 10px rgb(119, 233, 253) !important;
 }
 
 .btn-promary :after{
