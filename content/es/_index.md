@@ -24,7 +24,7 @@ sections:
       - title: <span style="font-size:90%;">Home</span>
         content: |- 
           <span style="font-size:70%"> Bienvenido a la página de SEOYEON [seoharu.github.io]!
-          <br> image credit: photo by me </span>
+          <br><br><br> image credit: photo by me </span>
         align: center
         background:
           image:
@@ -41,7 +41,7 @@ sections:
           url: 'https://seoharu.github.io/'
       - title: <span style="font-size:90%;">About</span>
         content: |-  
-          <span style="font-size:70%">Un resumen del menú de la página de inicio, submenús. <br> image credit: photo by me </span>
+          <span style="font-size:70%">Un resumen del menú de la página de inicio, submenús. <br><br><br> image credit: photo by me </span>
         align: center
         background:
           image:
@@ -59,7 +59,7 @@ sections:
 
       - title: <span style="font-size:90%">Research</span>
         content: |-  
-          <span style="font-size:70%">Acerca de mi trabajo como estudiante de investigación en el laboratorio de Inteligencia Artificial Médica y mis intereses de investigación. <br>
+          <span class="justified-text" style="font-size:70%">Acerca de mi trabajo como estudiante de investigación en el laboratorio de Inteligencia Artificial Médica y mis intereses de investigación. <br><br><br>
           image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -80,7 +80,7 @@ sections:
 
       - title: <span style="font-size:90%">Medical AI</span>
         content: |- 
-          <span style="font-size:70%">Investigadores universitarios en el Laboratorio de Inteligencia Artificial Médica <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
+          <span class="justified-text" style="font-size:70%">Investigadores universitarios en el Laboratorio de Inteligencia Artificial Médica  <br><br><br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
         align: center
         background:
           image:
@@ -98,7 +98,7 @@ sections:
 
       - title: <span style="font-size:90%">Projects</span>
         content: |- 
-          <span style="font-size:70%">Aquí encontrarás un vistazo a mis proyectos personales, docentes y de colaboración centrados en el desarrollo, la ciencia de datos y la IA médica. <br>
+          <span class="justified-text" style="font-size:70%">Aquí encontrarás un vistazo a mis proyectos personales, docentes y de colaboración centrados en el desarrollo, la ciencia de datos y la IA médica. <br> <br><br>
           image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -118,7 +118,7 @@ sections:
 
       - title: <span style="font-size:90%">Activity</span>
         content: |- 
-          <span style="font-size:70%">Puedes echar un vistazo a mis actividades y experiencias, incluida la de estudiante de intercambio.  <br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
+          <span class="justified-text" style="font-size:70%">Puedes echar un vistazo a mis actividades y experiencias, incluida la de estudiante de intercambio.  <br><br><br> image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a> </span>
         align: center
         background:
           image:
@@ -136,7 +136,7 @@ sections:
 
       - title: <span style="font-size:90%;">Personal</span>
         content: |- 
-          <span style="font-size:70%">En [Event], he enumerado los acontecimientos actuales, y en [ETC], he enumerado algunas de mis cosas favoritas. <br> En [Blog], he sacado algunas de las entradas de mi blog. <br> image credit: photo by me  </span>
+          <span class="justified-text" style="font-size:70%">En [Event], he enumerado los acontecimientos actuales, y en [ETC], he enumerado algunas de mis cosas favoritas. <br> En [Blog], he sacado algunas de las entradas de mi blog. <br><br><br> image credit: photo by me  </span>
         align: center
         background:
           image:
@@ -153,7 +153,7 @@ sections:
           url: personal
       - title: <span style="font-size:90%;">Contact</span>
         content: |- 
-          <span style="font-size:70%">Interested in SEOYEON? <br> image credit: photo by me </span>
+          <span style="font-size:70%">Interested in SEOYEON? <br><br><br> image credit: photo by me </span>
         align: center
         background:
           image:

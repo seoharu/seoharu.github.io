@@ -24,7 +24,7 @@ sections:
       - title: <span style="font-size:90%;">Home</span>
         content: |- 
           <span style="font-size:70%"> Welcome to CHOI SEOYEON's homepage [seoharu.github.io]!
-          <br> image credit: photo by me </span>
+          <br><br><br> image credit: photo by me </span>
         align: center
         background:
           image:
@@ -42,7 +42,7 @@ sections:
       - title: <span style="font-size:90%;">About</span>
         content: |-
           <span style="font-size:70%">A summary of the homepage menu, submenus. 
-          <br> image credit: photo by me </span>
+          <br> <br><br> image credit: photo by me </span>
         align: center
         background:
           image:
@@ -60,7 +60,7 @@ sections:
 
       - title: <span style="font-size:90%">Research</span>
         content: |- 
-          <span style="font-size:70%">This is about my work and research interests as an undergraduate research student in the Medical AI Lab. <br>
+          <span class="justified-text" style="font-size:70%">This is about my work and research interests as an undergraduate research student in the Medical AI Lab. <br><br><br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -81,8 +81,8 @@ sections:
 
       - title: <span style="font-size:90%">Medical AI</span>
         content: |- 
-          <span style="font-size:70%">Undergraduate Research Student in the Medical AI Lab
-          <br>
+          <span class="justified-text" style="font-size:70%">Undergraduate Research Student in the Medical AI Lab
+          <br><br><br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -103,7 +103,7 @@ sections:
 
       - title: <span style="font-size:90%">Projects</span>
         content: |- 
-          <span style="font-size:70%">Here are some of my personal [Side], course [Course], and collaborative [Collaboration] projects. There are many projects related to development, data science, and medical AI. <br>
+          <span class="justified-text" style="font-size:70%">Here are some of my personal [Side], course [Course], and collaborative [Collaboration] projects. There are many projects related to development, data science, and medical AI. <br><br><br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
             </span>
         align: center
@@ -123,7 +123,7 @@ sections:
 
       - title: <span style="font-size:90%">Activity</span>
         content: |- 
-          <span style="font-size:70%">It's about my extracurricular activities, awards and certifications, and various experiences. <br> Highlights include the AUEA Placement - Malaysia exchange student experience.  <br>
+          <span class="justified-text" style="font-size:70%">It's about my extracurricular activities, awards and certifications, and various experiences. <br> Highlights include the AUEA Placement - Malaysia exchange student experience.  <br><br><br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
@@ -143,7 +143,7 @@ sections:
 
       - title: <span style="font-size:90%;">Personal</span>
         content: |- 
-          <span style="font-size:70%">In [Events], I've put current events, and in [ETC], I've put a list of my favorite things. <br> In [Blog], I've pulled some of my blog posts. <br> image credit: photo by me 
+          <span class="justified-text" style="font-size:70%">In [Events], I've put current events, and in [ETC], I've put a list of my favorite things. <br> In [Blog], I've pulled some of my blog posts. <br><br><br> image credit: photo by me 
           </span>
         align: center
         background:
@@ -162,7 +162,7 @@ sections:
       - title: <span style="font-size:90%;">Contact</span>
         content: |-  
           <span style="font-size:70%">Interested in SEOYEON?
-          <br> image credit: photo by me  </span>
+          <br> <br><br>image credit: photo by me  </span>
         align: center
         background:
           image:
