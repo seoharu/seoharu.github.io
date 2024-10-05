@@ -200,13 +200,10 @@ a:hover {
 
 /* custom footer color */
 .page-footer {
-    background-color: rgb(147, 182, 205) !important;
+    background-color: lightblue !important;
   }
-  
-.dark .site-footer {
-    background-color: rgb(143, 155, 179) !important;
-  }
-.dark .universal-wrapper {
+
+.dark .page-body {
     background-color: antiquewhite;
   }
 
