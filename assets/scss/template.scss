@@ -188,6 +188,28 @@ a:hover {
     margin-bottom: 30px !important;
 }
 
+.navbar {
+    background-color: lightblue;
+    box-shadow: none !important; 
+    /* 'important' to override dark mode box-shadow too. */
+  }
+
 .dark .navbar {
     background-color: grey;
+  }
+
+/* custom footer color */
+.page-footer {
+    background-color: rgb(147, 182, 205) !important;
+  }
+  
+.dark .site-footer {
+    background-color: rgb(143, 155, 179) !important;
+  }
+.dark .universal-wrapper {
+    background-color: antiquewhite;
+  }
+
+.dark .page-footer {
+    background-color: lightgray;
   }
