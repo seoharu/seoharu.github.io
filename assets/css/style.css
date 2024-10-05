@@ -42,9 +42,9 @@ body .dark {
 .dark .site-footer {
   background-color: rgb(143, 155, 179) !important;
 }
-.universal-wrapper .dark{
+/* .universal-wrapper .dark{
   background-color: antiquewhite;
-}
+} */
 /* more rounded cards and larger gap between cards */
 .card-simple {
   margin-top: 1.8rem;
