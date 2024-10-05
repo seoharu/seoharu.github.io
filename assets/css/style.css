@@ -38,9 +38,11 @@ body {
 }
 
 .dark .page-footer {
-  background-color: rgb(26, 32, 44);
+  background-color: rgb(143, 155, 179);
 }
-
+.dark .universal-wrapper {
+  background-color: antiquewhite;
+}
 /* more rounded cards and larger gap between cards */
 .card-simple {
   margin-top: 1.8rem;
