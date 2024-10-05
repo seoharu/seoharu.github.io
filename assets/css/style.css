@@ -185,3 +185,24 @@ ul.network-icon .big-icon {
     }
   }
 }
+
+a {
+  color: rgb(28, 150, 250);
+}
+a:hover {
+  color: gray;
+}
+
+.section-slider {
+  height: 400px  !important;
+}
+.carousel-indicators {
+  margin-top: 10px !important;
+}
+.section-slider .carousel-item {
+  height: 100%;
+}
+
+.wg-contact li:last-of-type {
+  margin-bottom: 30px !important;
+}
