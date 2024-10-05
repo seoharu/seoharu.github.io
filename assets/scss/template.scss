@@ -174,7 +174,10 @@ a:hover {
 }
 
 .section-slider {
-    height: 400px;
+    height: 400px  !important;
+}
+.carousel-indicators {
+    margin-top: 10px !important;
 }
 .section-slider .carousel-item {
     height: 100%;
