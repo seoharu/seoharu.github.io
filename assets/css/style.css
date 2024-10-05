@@ -37,6 +37,7 @@ body .dark {
 /* custom footer color */
 .page-footer {
   background-color: rgb(147, 182, 205) !important;
+  margin-bottom: 20px;
 }
 
 .dark .site-footer {
