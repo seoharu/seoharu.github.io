@@ -66,6 +66,10 @@ body .dark {
   background-color: grey;
 }
 
+.dark .page-footer {
+  background-color: lightgray;
+}
+
 /* custom section padding */
 .home-section {
   padding: 1rem 0;
