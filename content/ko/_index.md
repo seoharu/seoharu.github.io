@@ -88,7 +88,7 @@ sections:
 
       - title: <span style="font-size:90%">Medical AI</span>
         content: |-
-          <span style="font-size:70%">의료 인공지능 랩실 학부연구생 <br><br>
+          <span style="font-size:70%">의료 인공지능 랩실 학부연구생 <br>
             image credit: <a href="https://unsplash.com/" target="_blank"><strong>Unsplash</strong></a>
           </span>
         align: center
