@@ -201,9 +201,14 @@ a:hover {
 /* custom footer color */
 .page-footer {
     background-color: lightblue !important;
+    margin-bottom: 20px;
   }
 
 
+.dark .site-footer {
+    background-color: #48a2bf !important;
+    margin-bottom: 20px;
+  }
 .dark .page-body {
     background-color: rgb(59, 59, 61);
   }
